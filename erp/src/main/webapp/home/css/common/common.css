@@ -1,0 +1,31 @@
+@media screen and (max-device-height: 768px) {
+    .wrap {
+        max-height: 678px;
+        overflow-y: auto;
+    }
+}
+
+@media screen and (min-device-height: 900px) {
+    .wrap {
+        max-height: 812px;
+        overflow-y: auto;
+    }
+}
+
+@-moz-document url-prefix() {
+    @media screen and (max-device-height: 768px) {
+        .wrap {
+            max-height: 658px;
+            overflow-y: auto;
+        }
+    }
+}
+
+@-moz-document url-prefix() {
+    @media screen and (min-device-height: 900px) {
+        .wrap {
+            max-height: 792px;
+            overflow-y: auto;
+        }
+    }
+}

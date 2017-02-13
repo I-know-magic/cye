@@ -1,0 +1,4 @@
+@charset "utf-8";
+.detail-top-box{padding:10px;background:#fafafa;margin-bottom:20px;}
+.detail-top-box p span{display:inline-block;height:40px;line-height:40px;width:24%;}
+.detail-top-box p span em{font-weight:bold;color:#fa0;}

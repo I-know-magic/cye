@@ -1,0 +1,39 @@
+body{
+    margin: 0px 0px 0px 0px
+}
+#lay_north{
+    width: 100%;
+    height:60px;
+    margin-bottom:15px;
+}
+#view_tb{
+    position: relative;
+    width: 100%;
+    height:100%
+}
+#view_tb_span_title{
+    font-size:20Px;
+    float: left
+}
+#view__tb_div{
+    position: absolute;
+    text-align: right;
+    width:90%;
+    height: auto;
+    float: right;
+    bottom: 0px;
+    right: 0px;
+}
+
+#view_tb_span_search{
+    margin-right:25%;
+}
+table{
+    font-size: 14px;
+    font-family:"微软雅黑";
+}
+th{
+    text-align: right;
+    font-size: 12px;
+    font-family:"微软雅黑";
+}

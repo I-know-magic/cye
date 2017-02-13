@@ -1,0 +1,9720 @@
+
+[{"id":"11", "name": "北京市", "cities": [{"cid":"1102","area":"西城区","county":[
+  {
+    "countyId" : 110202,
+    "countyText" : "西城区"
+  }
+]
+}, {"cid":"1101","area":"东城区","county":[
+  {
+    "countyId" : 110101,
+    "countyText" : "东城区"
+  }
+]
+},{"cid":"1103","area":"崇文区","county":[
+  {
+    "countyId" : 110303,
+    "countyText" : "崇文区"
+  }
+]
+} , {"cid":"1104","area":"宣武区","county":[
+  {
+    "countyId" : 110404,
+    "countyText" : "宣武区"
+  }
+]
+}, {"cid":"1105","area":"朝阳区","county":[
+  {
+    "countyId" : 110505,
+    "countyText" : "朝阳区"
+  }
+]
+}, {"cid":"1108","area":"海淀区","county":[
+  {
+    "countyId" : 110808,
+    "countyText" : "海淀区"
+  }
+]
+},{"cid":"1106","area":"丰台区","county":[
+  {
+    "countyId" : 110606,
+    "countyText" : "丰台区"
+  }
+]
+} , {"cid":"1107","area":"石景山区","county":[
+  {
+    "countyId" : 110707,
+    "countyText" : "石景山区"
+  }
+]
+} , {"cid":"1109","area":"门头沟区","county":[
+  {
+    "countyId" : 110909,
+    "countyText" : "门头沟区"
+  }
+]
+},{"cid":"1111","area":"房山区","county":[
+  {
+    "countyId" : 111111,
+    "countyText" : "房山区"
+  }
+]
+} ,{"cid":"1112","area":"通州区","county":[
+  {
+    "countyId" : 111212,
+    "countyText" : "通州区"
+  }
+]
+} ,{"cid":"1113","area": "顺义区","county":[
+  {
+    "countyId" : 111313,
+    "countyText" : "顺义区"
+  }
+]
+},{"cid":"1115","area": "大兴区"} ,{"cid":"1114","area": "昌平区"} , {"cid":"1117","area": "平谷区"},{"cid":"1116","area": "怀柔区"} ,{"cid":"1128","area":  "密云县","county":[
+  {
+    "countyId" : 112828,
+    "countyText" : "密云县"
+  }
+]
+},{"cid":"1129","area":  "延庆县","county":[
+  {
+    "countyId" : 112929,
+    "countyText" : "延庆县"
+  }
+]
+} ] },
+  {"id":"12", "name": "天津市", "cities": [{"cid":"1201","area":"和平区"} ,{"cid":"1202","area":"河东区"} ,{"cid":"1203","area":"河西区"} ,{"cid":"1204","area":"南开区"} ,{"cid":"1205","area": "河北区"},{"cid":"1206","area": "红桥区"} ,{"cid":"1207","area": "塘沽区"} ,{"cid":"1208","area": "汉沽区"} ,{"cid":"1209","area":"大港区"},{"cid":"1210","area": "东丽区"},{"cid":"1211","area":  "西青区"},{"cid":"1213","area": "北辰区"} ,{"cid":"1212","area": "津南区"} ,{"cid":"1214","area": "武清区"} ,{"cid":"1215","area": "宝坻区"} ,{"cid":"1223","area": "静海县"} ,{"cid":"1221","area": "宁河县"} ,{"cid":"1225","area": "蓟县"}] },
+  { "id":"13","name": "河北省", "cities": [{"cid":"1301","area":"石家庄市","county":[
+      {
+        "countyId" : 130102,
+        "countyText" : "长安区"
+      },
+      {
+        "countyId" : 130103,
+        "countyText" : "桥东区"
+      },
+      {
+        "countyId" : 130104,
+        "countyText" : "桥西区"
+      },
+      {
+        "countyId" : 130105,
+        "countyText" : "新华区"
+      },
+      {
+        "countyId" : 130107,
+        "countyText" : "井陉矿区"
+      },
+      {
+        "countyId" : 130108,
+        "countyText" : "裕华区"
+      },
+      {
+        "countyId" : 130121,
+        "countyText" : "井陉县"
+      },
+      {
+        "countyId" : 130123,
+        "countyText" : "正定县"
+      },
+      {
+        "countyId" : 130124,
+        "countyText" : "栾城县"
+      },
+      {
+        "countyId" : 130125,
+        "countyText" : "行唐县"
+      },
+      {
+        "countyId" : 130126,
+        "countyText" : "灵寿县"
+      },
+      {
+        "countyId" : 130127,
+        "countyText" : "高邑县"
+      },
+      {
+        "countyId" : 130128,
+        "countyText" : "深泽县"
+      },
+      {
+        "countyId" : 130129,
+        "countyText" : "赞皇县"
+      },
+      {
+        "countyId" : 130130,
+        "countyText" : "无极县"
+      },
+      {
+        "countyId" : 130131,
+        "countyText" : "平山县"
+      },
+      {
+        "countyId" : 130132,
+        "countyText" : "元氏县"
+      },
+      {
+        "countyId" : 130133,
+        "countyText" : "赵县"
+      },
+      {
+        "countyId" : 130181,
+        "countyText" : "辛集市"
+      },
+      {
+        "countyId" : 130182,
+        "countyText" : "藁城市"
+      },
+      {
+        "countyId" : 130183,
+        "countyText" : "晋州市"
+      },
+      {
+        "countyId" : 130184,
+        "countyText" : "新乐市"
+      },
+      {
+        "countyId" : 130185,
+        "countyText" : "鹿泉市"
+      }
+
+  ]},{"cid":"1303","area":"秦皇岛","county":[
+    {
+      "countyId" : 130302,
+      "countyText" : "海港区"
+    },
+    {
+      "countyId" : 130303,
+      "countyText" : "山海关区"
+    },
+    {
+      "countyId" : 130304,
+      "countyText" : "北戴河区"
+    },
+    {
+      "countyId" : 130321,
+      "countyText" : "青龙满族自治县"
+    },
+    {
+      "countyId" : 130322,
+      "countyText" : "昌黎县"
+    },
+    {
+      "countyId" : 130323,
+      "countyText" : "抚宁县"
+    },
+    {
+      "countyId" : 130324,
+      "countyText" : "卢龙县"
+    }]} ,{"cid":"1310","area":"廊坊","county":[{
+    "countyId" : 131002,
+    "countyText" : "安次区"
+  },
+    {
+      "countyId" : 131003,
+      "countyText" : "广阳区"
+    },
+    {
+      "countyId" : 131022,
+      "countyText" : "固安县"
+    },
+    {
+      "countyId" : 131023,
+      "countyText" : "永清县"
+    },
+    {
+      "countyId" : 131024,
+      "countyText" : "香河县"
+    },
+    {
+      "countyId" : 131025,
+      "countyText" : "大城县"
+    },
+    {
+      "countyId" : 131026,
+      "countyText" : "文安县"
+    },
+    {
+      "countyId" : 131028,
+      "countyText" : "大厂回族自治县"
+    },
+    {
+      "countyId" : 131081,
+      "countyText" : "霸州市"
+    },
+    {
+      "countyId" : 131082,
+      "countyText" : "三河市"
+    }]} ,{"cid":"1306","area": "保定","county":[
+    {
+      "countyId" : 130602,
+      "countyText" : "新市区"
+    },
+    {
+      "countyId" : 130603,
+      "countyText" : "北市区"
+    },
+    {
+      "countyId" : 130604,
+      "countyText" : "南市区"
+    },
+    {
+      "countyId" : 130621,
+      "countyText" : "满城县"
+    },
+    {
+      "countyId" : 130622,
+      "countyText" : "清苑县"
+    },
+    {
+      "countyId" : 130623,
+      "countyText" : "涞水县"
+    },
+    {
+      "countyId" : 130624,
+      "countyText" : "阜平县"
+    },
+    {
+      "countyId" : 130625,
+      "countyText" : "徐水县"
+    },
+    {
+      "countyId" : 130626,
+      "countyText" : "定兴县"
+    },
+    {
+      "countyId" : 130627,
+      "countyText" : "唐县"
+    },
+    {
+      "countyId" : 130628,
+      "countyText" : "高阳县"
+    },
+    {
+      "countyId" : 130629,
+      "countyText" : "容城县"
+    },
+    {
+      "countyId" : 130630,
+      "countyText" : "涞源县"
+    },
+    {
+      "countyId" : 130631,
+      "countyText" : "望都县"
+    },
+    {
+      "countyId" : 130632,
+      "countyText" : "安新县"
+    },
+    {
+      "countyId" : 130633,
+      "countyText" : "易县"
+    },
+    {
+      "countyId" : 130634,
+      "countyText" : "曲阳县"
+    },
+    {
+      "countyId" : 130635,
+      "countyText" : "蠡县"
+    },
+    {
+      "countyId" : 130636,
+      "countyText" : "顺平县"
+    },
+    {
+      "countyId" : 130637,
+      "countyText" : "博野县"
+    },
+    {
+      "countyId" : 130638,
+      "countyText" : "雄县"
+    },
+    {
+      "countyId" : 130681,
+      "countyText" : "涿州市"
+    },
+    {
+      "countyId" : 130682,
+      "countyText" : "定州市"
+    },
+    {
+      "countyId" : 130683,
+      "countyText" : "安国市"
+    },
+    {
+      "countyId" : 130684,
+      "countyText" : "高碑店市"
+    }]},{"cid":"1304","area": "邯郸","county":[
+    {
+      "countyId" : 130402,
+      "countyText" : "邯山区"
+    },
+    {
+      "countyId" : 130403,
+      "countyText" : "丛台区"
+    },
+    {
+      "countyId" : 130404,
+      "countyText" : "复兴区"
+    },
+    {
+      "countyId" : 130406,
+      "countyText" : "峰峰矿区"
+    },
+    {
+      "countyId" : 130421,
+      "countyText" : "邯郸县"
+    },
+    {
+      "countyId" : 130423,
+      "countyText" : "临漳县"
+    },
+    {
+      "countyId" : 130424,
+      "countyText" : "成安县"
+    },
+    {
+      "countyId" : 130425,
+      "countyText" : "大名县"
+    },
+    {
+      "countyId" : 130426,
+      "countyText" : "涉县"
+    },
+    {
+      "countyId" : 130427,
+      "countyText" : "磁县"
+    },
+    {
+      "countyId" : 130428,
+      "countyText" : "肥乡县"
+    },
+    {
+      "countyId" : 130429,
+      "countyText" : "永年县"
+    },
+    {
+      "countyId" : 130430,
+      "countyText" : "邱县"
+    },
+    {
+      "countyId" : 130431,
+      "countyText" : "鸡泽县"
+    },
+    {
+      "countyId" : 130432,
+      "countyText" : "广平县"
+    },
+    {
+      "countyId" : 130433,
+      "countyText" : "馆陶县"
+    },
+    {
+      "countyId" : 130434,
+      "countyText" : "魏县"
+    },
+    {
+      "countyId" : 130435,
+      "countyText" : "曲周县"
+    },
+    {
+      "countyId" : 130481,
+      "countyText" : "武安市"
+    }]} ,{"cid":"1302","area":  "唐山","county":[{
+    "countyId" : 130202,
+    "countyText" : "路南区"
+  },
+    {
+      "countyId" : 130203,
+      "countyText" : "路北区"
+    },
+    {
+      "countyId" : 130204,
+      "countyText" : "古冶区"
+    },
+    {
+      "countyId" : 130205,
+      "countyText" : "开平区"
+    },
+    {
+      "countyId" : 130207,
+      "countyText" : "丰南区"
+    },
+    {
+      "countyId" : 130208,
+      "countyText" : "丰润区"
+    },
+    {
+      "countyId" : 130223,
+      "countyText" : "滦县"
+    },
+    {
+      "countyId" : 130224,
+      "countyText" : "滦南县"
+    },
+    {
+      "countyId" : 130225,
+      "countyText" : "乐亭县"
+    },
+    {
+      "countyId" : 130227,
+      "countyText" : "迁西县"
+    },
+    {
+      "countyId" : 130229,
+      "countyText" : "玉田县"
+    },
+    {
+      "countyId" : 130230,
+      "countyText" : "唐海县"
+    },
+    {
+      "countyId" : 130281,
+      "countyText" : "遵化市"
+    },
+    {
+      "countyId" : 130283,
+      "countyText" : "迁安市"
+    }]}, {"cid":"1305","area":  "邢台","county":[
+    {
+      "countyId" : 130502,
+      "countyText" : "桥东区"
+    },
+    {
+      "countyId" : 130503,
+      "countyText" : "桥西区"
+    },
+    {
+      "countyId" : 130521,
+      "countyText" : "邢台县"
+    },
+    {
+      "countyId" : 130522,
+      "countyText" : "临城县"
+    },
+    {
+      "countyId" : 130523,
+      "countyText" : "内丘县"
+    },
+    {
+      "countyId" : 130524,
+      "countyText" : "柏乡县"
+    },
+    {
+      "countyId" : 130525,
+      "countyText" : "隆尧县"
+    },
+    {
+      "countyId" : 130526,
+      "countyText" : "任县"
+    },
+    {
+      "countyId" : 130527,
+      "countyText" : "南和县"
+    },
+    {
+      "countyId" : 130528,
+      "countyText" : "宁晋县"
+    },
+    {
+      "countyId" : 130529,
+      "countyText" : "巨鹿县"
+    },
+    {
+      "countyId" : 130530,
+      "countyText" : "新河县"
+    },
+    {
+      "countyId" : 130531,
+      "countyText" : "广宗县"
+    },
+    {
+      "countyId" : 130532,
+      "countyText" : "平乡县"
+    },
+    {
+      "countyId" : 130533,
+      "countyText" : "威县"
+    },
+    {
+      "countyId" : 130534,
+      "countyText" : "清河县"
+    },
+    {
+      "countyId" : "130535",
+      "countyText" : "临西县"
+    },
+    {
+      "countyId" : 130581,
+      "countyText" : "南宫市"
+    },
+    {
+      "countyId" : 130582,
+      "countyText" : "沙河市"
+    }]},{"cid":"1311","area":  "衡水","county":[{
+    "countyId" : 131102,
+    "countyText" : "桃城区"
+  },
+    {
+      "countyId" : 131121,
+      "countyText" : "枣强县"
+    },
+    {
+      "countyId" : 131122,
+      "countyText" : "武邑县"
+    },
+    {
+      "countyId" : 131123,
+      "countyText" : "武强县"
+    },
+    {
+      "countyId" : 131124,
+      "countyText" : "饶阳县"
+    },
+    {
+      "countyId" : 131125,
+      "countyText" : "安平县"
+    },
+    {
+      "countyId" : 131126,
+      "countyText" : "故城县"
+    },
+    {
+      "countyId" : 131127,
+      "countyText" : "景县"
+    },
+    {
+      "countyId" : 131128,
+      "countyText" : "阜城县"
+    },
+    {
+      "countyId" : 131181,
+      "countyText" : "冀州市"
+    },
+    {
+      "countyId" : 131182,
+      "countyText" : "深州市"
+    }]} ,{"cid":"1307","area":  "张家口","county":[{
+    "countyId" : 130702,
+    "countyText" : "桥东区"
+  },
+    {
+      "countyId" : 130703,
+      "countyText" : "桥西区"
+    },
+    {
+      "countyId" : 130705,
+      "countyText" : "宣化区"
+    },
+    {
+      "countyId" : 130706,
+      "countyText" : "下花园区"
+    },
+    {
+      "countyId" : 130721,
+      "countyText" : "宣化县"
+    },
+    {
+      "countyId" : 130722,
+      "countyText" : "张北县"
+    },
+    {
+      "countyId" : 130723,
+      "countyText" : "康保县"
+    },
+    {
+      "countyId" : 130724,
+      "countyText" : "沽源县"
+    },
+    {
+      "countyId" : 130725,
+      "countyText" : "尚义县"
+    },
+    {
+      "countyId" : 130726,
+      "countyText" : "蔚县"
+    },
+    {
+      "countyId" : 130727,
+      "countyText" : "阳原县"
+    },
+    {
+      "countyId" : 130728,
+      "countyText" : "怀安县"
+    },
+    {
+      "countyId" : 130729,
+      "countyText" : "万全县"
+    },
+    {
+      "countyId" : 130730,
+      "countyText" : "怀来县"
+    },
+    {
+      "countyId" : 130731,
+      "countyText" : "涿鹿县"
+    },
+    {
+      "countyId" : 130732,
+      "countyText" : "赤城县"
+    },
+    {
+      "countyId" : 130733,
+      "countyText" : "崇礼县"
+    }]} ,{"cid":"1308","area":   "承德","county":[{
+    "countyId" : 130802,
+    "countyText" : "双桥区"
+  },
+    {
+      "countyId" : 130803,
+      "countyText" : "双滦区"
+    },
+    {
+      "countyId" : 130804,
+      "countyText" : "鹰手营子矿区"
+    },
+    {
+      "countyId" : 130821,
+      "countyText" : "承德县"
+    },
+    {
+      "countyId" : 130822,
+      "countyText" : "兴隆县"
+    },
+    {
+      "countyId" : 130823,
+      "countyText" : "平泉县"
+    },
+    {
+      "countyId" : 130824,
+      "countyText" : "滦平县"
+    },
+    {
+      "countyId" : 130825,
+      "countyText" : "隆化县"
+    },
+    {
+      "countyId" : 130826,
+      "countyText" : "丰宁满族自治县"
+    },
+    {
+      "countyId" : 130827,
+      "countyText" : "宽城满族自治县"
+    },
+    {
+      "countyId" : 130828,
+      "countyText" : "围场满族蒙古族自治县"
+    }]},{"cid":"1309","area":  "沧州","county":[{
+    "countyId" : 130902,
+    "countyText" : "新华区"
+  },
+    {
+      "countyId" : 130903,
+      "countyText" : "运河区"
+    },
+    {
+      "countyId" : 130921,
+      "countyText" : "沧县"
+    },
+    {
+      "countyId" : 130922,
+      "countyText" : "青县"
+    },
+    {
+      "countyId" : 130923,
+      "countyText" : "东光县"
+    },
+    {
+      "countyId" : 130924,
+      "countyText" : "海兴县"
+    },
+    {
+      "countyId" : 130925,
+      "countyText" : "盐山县"
+    },
+    {
+      "countyId" : 130926,
+      "countyText" : "肃宁县"
+    },
+    {
+      "countyId" : 130927,
+      "countyText" : "南皮县"
+    },
+    {
+      "countyId" : 130928,
+      "countyText" : "吴桥县"
+    },
+    {
+      "countyId" : 130929,
+      "countyText" : "献县"
+    },
+    {
+      "countyId" : 130930,
+      "countyText" : "孟村回族自治县"
+    },
+    {
+      "countyId" : 130981,
+      "countyText" : "泊头市"
+    },
+    {
+      "countyId" : 130982,
+      "countyText" : "任丘市"
+    },
+    {
+      "countyId" : 130983,
+      "countyText" : "黄骅市"
+    },
+    {
+      "countyId" : 130984,
+      "countyText" : "河间市"
+    }]}] },
+  {  "id":"14","name": "山西省", "cities": [{"cid":"1401","area":"太原","county":[
+    {
+      "countyId" : 140105,
+      "countyText" : "小店区"
+    },
+    {
+      "countyId" : 140106,
+      "countyText" : "迎泽区"
+    },
+    {
+      "countyId" : 140107,
+      "countyText" : "杏花岭区"
+    },
+    {
+      "countyId" : 140108,
+      "countyText" : "尖草坪区"
+    },
+    {
+      "countyId" : 140109,
+      "countyText" : "万柏林区"
+    },
+    {
+      "countyId" : 140110,
+      "countyText" : "晋源区"
+    },
+    {
+      "countyId" : 140121,
+      "countyText" : "清徐县"
+    },
+    {
+      "countyId" : 140122,
+      "countyText" : "阳曲县"
+    },
+    {
+      "countyId" : 140123,
+      "countyText" : "娄烦县"
+    },
+    {
+      "countyId" : 140181,
+      "countyText" : "古交市"
+    }
+  ]
+  },{"cid":"1402","area": "大同","county":[
+    {
+      "countyId" : 140202,
+      "countyText" : "城区"
+    },
+    {
+      "countyId" : 140203,
+      "countyText" : "矿区"
+    },
+    {
+      "countyId" : 140211,
+      "countyText" : "南郊区"
+    },
+    {
+      "countyId" : 140212,
+      "countyText" : "新荣区"
+    },
+    {
+      "countyId" : 140221,
+      "countyText" : "阳高县"
+    },
+    {
+      "countyId" : 140222,
+      "countyText" : "天镇县"
+    },
+    {
+      "countyId" : 140223,
+      "countyText" : "广灵县"
+    },
+    {
+      "countyId" : 140224,
+      "countyText" : "灵丘县"
+    },
+    {
+      "countyId" : 140225,
+      "countyText" : "浑源县"
+    },
+    {
+      "countyId" : 140226,
+      "countyText" : "左云县"
+    },
+    {
+      "countyId" : 140227,
+      "countyText" : "大同县"
+    }
+  ]
+  },{"cid":"1404","area":  "长治","county":[
+    {
+      "countyId" : 140402,
+      "countyText" : "城区"
+    },
+    {
+      "countyId" : 140411,
+      "countyText" : "郊区"
+    },
+    {
+      "countyId" : 140421,
+      "countyText" : "长治县"
+    },
+    {
+      "countyId" : 140423,
+      "countyText" : "襄垣县"
+    },
+    {
+      "countyId" : 140424,
+      "countyText" : "屯留县"
+    },
+    {
+      "countyId" : 140425,
+      "countyText" : "平顺县"
+    },
+    {
+      "countyId" : 140426,
+      "countyText" : "黎城县"
+    },
+    {
+      "countyId" : 140427,
+      "countyText" : "壶关县"
+    },
+    {
+      "countyId" : 140428,
+      "countyText" : "长子县"
+    },
+    {
+      "countyId" : 140429,
+      "countyText" : "武乡县"
+    },
+    {
+      "countyId" : 140430,
+      "countyText" : "沁县"
+    },
+    {
+      "countyId" : 140431,
+      "countyText" : "沁源县"
+    },
+    {
+      "countyId" : 140481,
+      "countyText" : "潞城市"
+    }
+  ]
+  },{"cid":"1407","area":  "晋中","county":[
+    {
+      "countyId" : 140702,
+      "countyText" : "榆次区"
+    },
+    {
+      "countyId" : 140721,
+      "countyText" : "榆社县"
+    },
+    {
+      "countyId" : 140722,
+      "countyText" : "左权县"
+    },
+    {
+      "countyId" : 140723,
+      "countyText" : "和顺县"
+    },
+    {
+      "countyId" : 140724,
+      "countyText" : "昔阳县"
+    },
+    {
+      "countyId" : 140725,
+      "countyText" : "寿阳县"
+    },
+    {
+      "countyId" : 140726,
+      "countyText" : "太谷县"
+    },
+    {
+      "countyId" : 140727,
+      "countyText" : "祁县"
+    },
+    {
+      "countyId" : 140728,
+      "countyText" : "平遥县"
+    },
+    {
+      "countyId" : 140729,
+      "countyText" : "灵石县"
+    },
+    {
+      "countyId" : 140781,
+      "countyText" : "介休市"
+    }
+  ]
+  },{"cid":"1403","area": "阳泉","county":[
+    {
+      "countyId" : 140302,
+      "countyText" : "城区"
+    },
+    {
+      "countyId" : 140303,
+      "countyText" : "矿区"
+    },
+    {
+      "countyId" : 140311,
+      "countyText" : "郊区"
+    },
+    {
+      "countyId" : 140321,
+      "countyText" : "平定县"
+    },
+    {
+      "countyId" : 140322,
+      "countyText" : "盂县"
+    }
+  ]
+  } ,{"cid":"1406","area":"朔州","county":[
+    {
+      "countyId" : 140602,
+      "countyText" : "朔城区"
+    },
+    {
+      "countyId" : 140603,
+      "countyText" : "平鲁区"
+    },
+    {
+      "countyId" : 140621,
+      "countyText" : "山阴县"
+    },
+    {
+      "countyId" : 140622,
+      "countyText" : "应县"
+    },
+    {
+      "countyId" : 140623,
+      "countyText" : "右玉县"
+    },
+    {
+      "countyId" : 140624,
+      "countyText" : "怀仁县"
+    }
+  ]
+  } ,{"cid":"1408","area":"运城","county":[
+    {
+      "countyId" : 140802,
+      "countyText" : "盐湖区"
+    },
+    {
+      "countyId" : 140821,
+      "countyText" : "临猗县"
+    },
+    {
+      "countyId" : 140822,
+      "countyText" : "万荣县"
+    },
+    {
+      "countyId" : 140823,
+      "countyText" : "闻喜县"
+    },
+    {
+      "countyId" : 140824,
+      "countyText" : "稷山县"
+    },
+    {
+      "countyId" : 140825,
+      "countyText" : "新绛县"
+    },
+    {
+      "countyId" : 140826,
+      "countyText" : "绛县"
+    },
+    {
+      "countyId" : 140827,
+      "countyText" : "垣曲县"
+    },
+    {
+      "countyId" : 140828,
+      "countyText" : "夏县"
+    },
+    {
+      "countyId" : 140829,
+      "countyText" : "平陆县"
+    },
+    {
+      "countyId" : 140830,
+      "countyText" : "芮城县"
+    },
+    {
+      "countyId" : 140881,
+      "countyText" : "永济市"
+    },
+    {
+      "countyId" : 140882,
+      "countyText" : "河津市"
+    }
+  ]
+  } ,{"cid":"1410","area":"临汾","county":[
+    {
+      "countyId" : 141002,
+      "countyText" : "尧都区"
+    },
+    {
+      "countyId" : 141021,
+      "countyText" : "曲沃县"
+    },
+    {
+      "countyId" : 141022,
+      "countyText" : "翼城县"
+    },
+    {
+      "countyId" : 141023,
+      "countyText" : "襄汾县"
+    },
+    {
+      "countyId" : 141024,
+      "countyText" : "洪洞县"
+    },
+    {
+      "countyId" : 141025,
+      "countyText" : "古县"
+    },
+    {
+      "countyId" : 141026,
+      "countyText" : "安泽县"
+    },
+    {
+      "countyId" : 141027,
+      "countyText" : "浮山县"
+    },
+    {
+      "countyId" : 141028,
+      "countyText" : "吉县"
+    },
+    {
+      "countyId" : 141029,
+      "countyText" : "乡宁县"
+    },
+    {
+      "countyId" : 141030,
+      "countyText" : "大宁县"
+    },
+    {
+      "countyId" : 141031,
+      "countyText" : "隰县"
+    },
+    {
+      "countyId" : 141032,
+      "countyText" : "永和县"
+    },
+    {
+      "countyId" : 141033,
+      "countyText" : "蒲县"
+    },
+    {
+      "countyId" : 141034,
+      "countyText" : "汾西县"
+    },
+    {
+      "countyId" : 141081,
+      "countyText" : "侯马市"
+    },
+    {
+      "countyId" : 141082,
+      "countyText" : "霍州市"
+    }
+  ]
+  } ] },
+  { "id":"15", "name": "内蒙古自治区", "cities": [{"cid":"1501","area":"呼和浩特市","county":[
+    {
+      "countyId" : 150102,
+      "countyText" : "新城区"
+    },
+    {
+      "countyId" : 150103,
+      "countyText" : "回民区"
+    },
+    {
+      "countyId" : 150104,
+      "countyText" : "玉泉区"
+    },
+    {
+      "countyId" : 150105,
+      "countyText" : "赛罕区"
+    },
+    {
+      "countyId" : 150121,
+      "countyText" : "土默特左旗"
+    },
+    {
+      "countyId" : 150122,
+      "countyText" : "托克托县"
+    },
+    {
+      "countyId" : 150123,
+      "countyText" : "和林格尔县"
+    },
+    {
+      "countyId" : 150124,
+      "countyText" : "清水河县"
+    },
+    {
+      "countyId" : 150125,
+      "countyText" : "武川县"
+    }
+  ]
+  },{"cid":"1504","area":"赤峰市","county":[
+    {
+      "countyId" : 150402,
+      "countyText" : "红山区"
+    },
+    {
+      "countyId" : 150403,
+      "countyText" : "元宝山区"
+    },
+    {
+      "countyId" : 150404,
+      "countyText" : "松山区"
+    },
+    {
+      "countyId" : 150421,
+      "countyText" : "阿鲁科尔沁旗"
+    },
+    {
+      "countyId" : 150422,
+      "countyText" : "巴林左旗"
+    },
+    {
+      "countyId" : 150423,
+      "countyText" : "巴林右旗"
+    },
+    {
+      "countyId" : 150424,
+      "countyText" : "林西县"
+    },
+    {
+      "countyId" : 150425,
+      "countyText" : "克什克腾旗"
+    },
+    {
+      "countyId" : 150426,
+      "countyText" : "翁牛特旗"
+    },
+    {
+      "countyId" : 150428,
+      "countyText" : "喀喇沁旗"
+    },
+    {
+      "countyId" : 150429,
+      "countyText" : "宁城县"
+    },
+    {
+      "countyId" : 150430,
+      "countyText" : "敖汉旗"
+    }
+  ]
+  } ,{"cid":"1505","area":"通辽市","county":[
+    {
+      "countyId" : 150502,
+      "countyText" : "科尔沁区"
+    },
+    {
+      "countyId" : 150521,
+      "countyText" : "科尔沁左翼中旗"
+    },
+    {
+      "countyId" : 150522,
+      "countyText" : "科尔沁左翼后旗"
+    },
+    {
+      "countyId" : 150523,
+      "countyText" : "开鲁县"
+    },
+    {
+      "countyId" : 150524,
+      "countyText" : "库伦旗"
+    },
+    {
+      "countyId" : 150525,
+      "countyText" : "奈曼旗"
+    },
+    {
+      "countyId" : 150526,
+      "countyText" : "扎鲁特旗"
+    },
+    {
+      "countyId" : 150581,
+      "countyText" : "霍林郭勒市"
+    }
+  ]
+  } ,{"cid":"1525","area":"锡林郭勒盟","county":[
+    {
+      "countyId" : 152501,
+      "countyText" : "二连浩特市"
+    },
+    {
+      "countyId" : 152502,
+      "countyText" : "锡林浩特市"
+    },
+    {
+      "countyId" : 152522,
+      "countyText" : "阿巴嘎旗"
+    },
+    {
+      "countyId" : 152523,
+      "countyText" : "苏尼特左旗"
+    },
+    {
+      "countyId" : 152524,
+      "countyText" : "苏尼特右旗"
+    },
+    {
+      "countyId" : 152525,
+      "countyText" : "东乌珠穆沁旗"
+    },
+    {
+      "countyId" : 152526,
+      "countyText" : "西乌珠穆沁旗"
+    },
+    {
+      "countyId" : 152527,
+      "countyText" : "太仆寺旗"
+    },
+    {
+      "countyId" : 152528,
+      "countyText" : "镶黄旗"
+    },
+    {
+      "countyId" : 152529,
+      "countyText" : "正镶白旗"
+    },
+    {
+      "countyId" : 152530,
+      "countyText" : "正蓝旗"
+    },
+    {
+      "countyId" : 152531,
+      "countyText" : "多伦县"
+    }
+  ]
+  } ,{"cid":"1522","area":"兴安盟","county":[
+    {
+      "countyId" : 152201,
+      "countyText" : "乌兰浩特市"
+    },
+    {
+      "countyId" : 152202,
+      "countyText" : "阿尔山市"
+    },
+    {
+      "countyId" : 152221,
+      "countyText" : "科尔沁右翼前旗"
+    },
+    {
+      "countyId" : 152222,
+      "countyText" : "科尔沁右翼中旗"
+    },
+    {
+      "countyId" : 152223,
+      "countyText" : "扎赉特旗"
+    },
+    {
+      "countyId" : 152224,
+      "countyText" : "突泉县"
+    }
+  ]
+  },{"cid":"1502","area":"包头市","county":[
+    {
+      "countyId" : 150202,
+      "countyText" : "东河区"
+    },
+    {
+      "countyId" : 150203,
+      "countyText" : "昆都仑区"
+    },
+    {
+      "countyId" : 150204,
+      "countyText" : "青山区"
+    },
+    {
+      "countyId" : 150205,
+      "countyText" : "石拐区"
+    },
+    {
+      "countyId" : 150206,
+      "countyText" : "白云矿区"
+    },
+    {
+      "countyId" : 150207,
+      "countyText" : "九原区"
+    },
+    {
+      "countyId" : 150221,
+      "countyText" : "土默特右旗"
+    },
+    {
+      "countyId" : 150222,
+      "countyText" : "固阳县"
+    },
+    {
+      "countyId" : 150223,
+      "countyText" : "达尔罕茂明安联合旗"
+    }
+  ]
+  },{"cid":"1503","area":"乌海市","county":[
+    {
+      "countyId" : 150302,
+      "countyText" : "海勃湾区"
+    },
+    {
+      "countyId" : 150303,
+      "countyText" : "海南区"
+    },
+    {
+      "countyId" : 150304,
+      "countyText" : "乌达区"
+    }
+  ]
+  },{"cid":"1506","area":"鄂尔多斯市","county":[
+    {
+      "countyId" : 150602,
+      "countyText" : "东胜区"
+    },
+    {
+      "countyId" : 150621,
+      "countyText" : "达拉特旗"
+    },
+    {
+      "countyId" : 150622,
+      "countyText" : "准格尔旗"
+    },
+    {
+      "countyId" : 150623,
+      "countyText" : "鄂托克前旗"
+    },
+    {
+      "countyId" : 150624,
+      "countyText" : "鄂托克旗"
+    },
+    {
+      "countyId" : 150625,
+      "countyText" : "杭锦旗"
+    },
+    {
+      "countyId" : 150626,
+      "countyText" : "乌审旗"
+    },
+    {
+      "countyId" : 150627,
+      "countyText" : "伊金霍洛旗"
+    }
+  ]
+  },{"cid":"1507","area":"呼伦贝尔市","county":[
+    {
+      "countyId" : 150702,
+      "countyText" : "海拉尔区"
+    },
+    {
+      "countyId" : 150721,
+      "countyText" : "阿荣旗"
+    },
+    {
+      "countyId" : 150722,
+      "countyText" : "莫力达瓦达斡尔族自治旗"
+    },
+    {
+      "countyId" : 150723,
+      "countyText" : "鄂伦春自治旗"
+    },
+    {
+      "countyId" : 150724,
+      "countyText" : "鄂温克族自治旗"
+    },
+    {
+      "countyId" : 150725,
+      "countyText" : "陈巴尔虎旗"
+    },
+    {
+      "countyId" : 150726,
+      "countyText" : "新巴尔虎左旗"
+    },
+    {
+      "countyId" : 150727,
+      "countyText" : "新巴尔虎右旗"
+    },
+    {
+      "countyId" : 150781,
+      "countyText" : "满洲里市"
+    },
+    {
+      "countyId" : 150782,
+      "countyText" : "牙克石市"
+    },
+    {
+      "countyId" : 150783,
+      "countyText" : "扎兰屯市"
+    },
+    {
+      "countyId" : 150784,
+      "countyText" : "额尔古纳市"
+    },
+    {
+      "countyId" : 150785,
+      "countyText" : "根河市"
+    }
+  ]
+  },{"cid":"1508","area":"巴彦淖尔市","county":[
+    {
+      "countyId" : 150802,
+      "countyText" : "临河区"
+    },
+    {
+      "countyId" : 150821,
+      "countyText" : "五原县"
+    },
+    {
+      "countyId" : 150822,
+      "countyText" : "磴口县"
+    },
+    {
+      "countyId" : 150823,
+      "countyText" : "乌拉特前旗"
+    },
+    {
+      "countyId" : 150824,
+      "countyText" : "乌拉特中旗"
+    },
+    {
+      "countyId" : 150825,
+      "countyText" : "乌拉特后旗"
+    },
+    {
+      "countyId" : 150826,
+      "countyText" : "杭锦后旗"
+    }
+  ]
+  },{"cid":"1509","area":"乌兰察布市","county":[
+    {
+      "countyId" : 150902,
+      "countyText" : "集宁区"
+    },
+    {
+      "countyId" : 150921,
+      "countyText" : "卓资县"
+    },
+    {
+      "countyId" : 150922,
+      "countyText" : "化德县"
+    },
+    {
+      "countyId" : 150923,
+      "countyText" : "商都县"
+    },
+    {
+      "countyId" : 150924,
+      "countyText" : "兴和县"
+    },
+    {
+      "countyId" : 150925,
+      "countyText" : "凉城县"
+    },
+    {
+      "countyId" : 150926,
+      "countyText" : "察哈尔右翼前旗"
+    },
+    {
+      "countyId" : 150927,
+      "countyText" : "察哈尔右翼中旗"
+    },
+    {
+      "countyId" : 150928,
+      "countyText" : "察哈尔右翼后旗"
+    },
+    {
+      "countyId" : 150929,
+      "countyText" : "四子王旗"
+    },
+    {
+      "countyId" : 150981,
+      "countyText" : "丰镇市"
+    }
+  ]
+  },{"cid":"1529","area":"阿拉善盟","county":[
+    {
+      "countyId" : 152921,
+      "countyText" : "阿拉善左旗"
+    },
+    {
+      "countyId" : 152922,
+      "countyText" : "阿拉善右旗"
+    },
+    {
+      "countyId" : 152923,
+      "countyText" : "额济纳旗"
+    }
+  ]
+  }] },
+  { "id":"21", "name": "辽宁省", "cities": [{"cid":"2102","area":"大连市","county":[
+    {
+      "countyId" : 210202,
+      "countyText" : "中山区"
+    },
+    {
+      "countyId" : 210203,
+      "countyText" : "西岗区"
+    },
+    {
+      "countyId" : 210204,
+      "countyText" : "沙河口区"
+    },
+    {
+      "countyId" : 210211,
+      "countyText" : "甘井子区"
+    },
+    {
+      "countyId" : 210212,
+      "countyText" : "旅顺口区"
+    },
+    {
+      "countyId" : 210213,
+      "countyText" : "金州区"
+    },
+    {
+      "countyId" : 210224,
+      "countyText" : "长海县"
+    },
+    {
+      "countyId" : 210281,
+      "countyText" : "瓦房店市"
+    },
+    {
+      "countyId" : 210282,
+      "countyText" : "普兰店市"
+    },
+    {
+      "countyId" : 210283,
+      "countyText" : "庄河市"
+    }
+  ]
+  },{"cid":"2101","area":"沈阳","county":[
+    {
+      "countyId" : 210102,
+      "countyText" : "和平区"
+    },
+    {
+      "countyId" : 210103,
+      "countyText" : "沈河区"
+    },
+    {
+      "countyId" : 210104,
+      "countyText" : "大东区"
+    },
+    {
+      "countyId" : 210105,
+      "countyText" : "皇姑区"
+    },
+    {
+      "countyId" : 210106,
+      "countyText" : "铁西区"
+    },
+    {
+      "countyId" : 210111,
+      "countyText" : "苏家屯区"
+    },
+    {
+      "countyId" : 210112,
+      "countyText" : "东陵区"
+    },
+    {
+      "countyId" : 210113,
+      "countyText" : "新城子区"
+    },
+    {
+      "countyId" : 210114,
+      "countyText" : "于洪区"
+    },
+    {
+      "countyId" : 210122,
+      "countyText" : "辽中县"
+    },
+    {
+      "countyId" : 210123,
+      "countyText" : "康平县"
+    },
+    {
+      "countyId" : 210124,
+      "countyText" : "法库县"
+    },
+    {
+      "countyId" : 210181,
+      "countyText" : "新民市"
+    }
+  ]
+  } ,{"cid":"2103","area": "鞍山","county":[
+    {
+      "countyId" : 210302,
+      "countyText" : "铁东区"
+    },
+    {
+      "countyId" : 210303,
+      "countyText" : "铁西区"
+    },
+    {
+      "countyId" : 210304,
+      "countyText" : "立山区"
+    },
+    {
+      "countyId" : 210311,
+      "countyText" : "千山区"
+    },
+    {
+      "countyId" : 210321,
+      "countyText" : "台安县"
+    },
+    {
+      "countyId" : 210323,
+      "countyText" : "岫岩满族自治县"
+    },
+    {
+      "countyId" : 210381,
+      "countyText" : "海城市"
+    }
+  ]
+  },{"cid":"2104","area": "抚顺","county":[
+    {
+      "countyId" : 210402,
+      "countyText" : "新抚区"
+    },
+    {
+      "countyId" : 210403,
+      "countyText" : "东洲区"
+    },
+    {
+      "countyId" : 210404,
+      "countyText" : "望花区"
+    },
+    {
+      "countyId" : 210411,
+      "countyText" : "顺城区"
+    },
+    {
+      "countyId" : 210421,
+      "countyText" : "抚顺县"
+    },
+    {
+      "countyId" : 210422,
+      "countyText" : "新宾满族自治县"
+    },
+    {
+      "countyId" : 210423,
+      "countyText" : "清原满族自治县"
+    }
+  ]
+  } ,{"cid":"2108","area": "营口","county":[
+    {
+      "countyId" : 210802,
+      "countyText" : "站前区"
+    },
+    {
+      "countyId" : 210803,
+      "countyText" : "西市区"
+    },
+    {
+      "countyId" : 210804,
+      "countyText" : "鲅鱼圈区"
+    },
+    {
+      "countyId" : 210811,
+      "countyText" : "老边区"
+    },
+    {
+      "countyId" : 210881,
+      "countyText" : "盖州市"
+    },
+    {
+      "countyId" : 210882,
+      "countyText" : "大石桥市"
+    }
+  ]
+  } ,{"cid":"2107","area": "锦州","county":[
+    {
+      "countyId" : 210702,
+      "countyText" : "古塔区"
+    },
+    {
+      "countyId" : 210703,
+      "countyText" : "凌河区"
+    },
+    {
+      "countyId" : 210711,
+      "countyText" : "太和区"
+    },
+    {
+      "countyId" : 210726,
+      "countyText" : "黑山县"
+    },
+    {
+      "countyId" : 210727,
+      "countyText" : "义县"
+    },
+    {
+      "countyId" : 210781,
+      "countyText" : "凌海市"
+    },
+    {
+      "countyId" : 210782,
+      "countyText" : "北镇市"
+    }
+  ]
+  } ,{"cid":"2106","area": "丹东","county":[
+    {
+      "countyId" : 210602,
+      "countyText" : "元宝区"
+    },
+    {
+      "countyId" : 210603,
+      "countyText" : "振兴区"
+    },
+    {
+      "countyId" : 210604,
+      "countyText" : "振安区"
+    },
+    {
+      "countyId" : 210624,
+      "countyText" : "宽甸满族自治县"
+    },
+    {
+      "countyId" : 210681,
+      "countyText" : "东港市"
+    },
+    {
+      "countyId" : 210682,
+      "countyText" : "凤城市"
+    }
+  ]
+  }  ,{"cid":"2113","area":  "朝阳","county":[
+    {
+      "countyId" : 211302,
+      "countyText" : "双塔区"
+    },
+    {
+      "countyId" : 211303,
+      "countyText" : "龙城区"
+    },
+    {
+      "countyId" : 211321,
+      "countyText" : "朝阳县"
+    },
+    {
+      "countyId" : 211322,
+      "countyText" : "建平县"
+    },
+    {
+      "countyId" : 211324,
+      "countyText" : "喀喇沁左翼蒙古族自治县"
+    },
+    {
+      "countyId" : 211381,
+      "countyText" : "北票市"
+    },
+    {
+      "countyId" : 211382,
+      "countyText" : "凌源市"
+    }
+  ]
+  },{"cid":"2110","area":  "辽阳","county":[
+    {
+      "countyId" : 211002,
+      "countyText" : "白塔区"
+    },
+    {
+      "countyId" : 211003,
+      "countyText" : "文圣区"
+    },
+    {
+      "countyId" : 211004,
+      "countyText" : "宏伟区"
+    },
+    {
+      "countyId" : 211005,
+      "countyText" : "弓长岭区"
+    },
+    {
+      "countyId" : 211011,
+      "countyText" : "太子河区"
+    },
+    {
+      "countyId" : 211021,
+      "countyText" : "辽阳县"
+    },
+    {
+      "countyId" : 211081,
+      "countyText" : "灯塔市"
+    }
+  ]
+  } ,{"cid":"2109","area":   "阜新","county":[
+    {
+      "countyId" : 210902,
+      "countyText" : "海州区"
+    },
+    {
+      "countyId" : 210903,
+      "countyText" : "新邱区"
+    },
+    {
+      "countyId" : 210904,
+      "countyText" : "太平区"
+    },
+    {
+      "countyId" : 210905,
+      "countyText" : "清河门区"
+    },
+    {
+      "countyId" : 210911,
+      "countyText" : "细河区"
+    },
+    {
+      "countyId" : 210921,
+      "countyText" : "阜新蒙古族自治县"
+    },
+    {
+      "countyId" : 210922,
+      "countyText" : "彰武县"
+    }
+  ]
+  } ,{"cid":"2112","area":"铁岭","county":[
+    {
+      "countyId" : 211202,
+      "countyText" : "银州区"
+    },
+    {
+      "countyId" : 211204,
+      "countyText" : "清河区"
+    },
+    {
+      "countyId" : 211221,
+      "countyText" : "铁岭县"
+    },
+    {
+      "countyId" : 211223,
+      "countyText" : "西丰县"
+    },
+    {
+      "countyId" : 211224,
+      "countyText" : "昌图县"
+    },
+    {
+      "countyId" : 211281,
+      "countyText" : "调兵山市"
+    },
+    {
+      "countyId" : 211282,
+      "countyText" : "开原市"
+    }
+  ]
+  },{"cid":"2111","area":"盘锦","county":[
+    {
+      "countyId" : 211102,
+      "countyText" : "双台子区"
+    },
+    {
+      "countyId" : 211103,
+      "countyText" : "兴隆台区"
+    },
+    {
+      "countyId" : 211121,
+      "countyText" : "大洼县"
+    },
+    {
+      "countyId" : 211122,
+      "countyText" : "盘山县"
+    }
+  ]
+  } ,{"cid":"2105","area":"本溪","county":[
+    {
+      "countyId" : 210502,
+      "countyText" : "平山区"
+    },
+    {
+      "countyId" : 210503,
+      "countyText" : "溪湖区"
+    },
+    {
+      "countyId" : 210504,
+      "countyText" : "明山区"
+    },
+    {
+      "countyId" : 210505,
+      "countyText" : "南芬区"
+    },
+    {
+      "countyId" : 210521,
+      "countyText" : "本溪满族自治县"
+    },
+    {
+      "countyId" : 210522,
+      "countyText" : "桓仁满族自治县"
+    }
+  ]
+  } ,{"cid":"2114","area":"葫芦岛","county":[
+    {
+      "countyId" : 211402,
+      "countyText" : "连山区"
+    },
+    {
+      "countyId" : 211403,
+      "countyText" : "龙港区"
+    },
+    {
+      "countyId" : 211404,
+      "countyText" : "南票区"
+    },
+    {
+      "countyId" : 211421,
+      "countyText" : "绥中县"
+    },
+    {
+      "countyId" : 211422,
+      "countyText" : "建昌县"
+    },
+    {
+      "countyId" : 211481,
+      "countyText" : "兴城市"
+    }
+  ]
+  } ] },
+  { "id":"22", "name": "吉林省", "cities": [{"cid":"2201","area":"长春","county":[
+    {
+      "countyId" : 220102,
+      "countyText" : "南关区"
+    },
+    {
+      "countyId" : 220103,
+      "countyText" : "宽城区"
+    },
+    {
+      "countyId" : 220104,
+      "countyText" : "朝阳区"
+    },
+    {
+      "countyId" : 220105,
+      "countyText" : "二道区"
+    },
+    {
+      "countyId" : 220106,
+      "countyText" : "绿园区"
+    },
+    {
+      "countyId" : 220112,
+      "countyText" : "双阳区"
+    },
+    {
+      "countyId" : 220122,
+      "countyText" : "农安县"
+    },
+    {
+      "countyId" : 220181,
+      "countyText" : "九台市"
+    },
+    {
+      "countyId" : 220182,
+      "countyText" : "榆树市"
+    },
+    {
+      "countyId" : 220183,
+      "countyText" : "德惠市"
+    }
+  ]
+  },{"cid":"2202","area":"吉林","county":[
+    {
+      "countyId" : 220202,
+      "countyText" : "昌邑区"
+    },
+    {
+      "countyId" : 220203,
+      "countyText" : "龙潭区"
+    },
+    {
+      "countyId" : 220204,
+      "countyText" : "船营区"
+    },
+    {
+      "countyId" : 220211,
+      "countyText" : "丰满区"
+    },
+    {
+      "countyId" : 220221,
+      "countyText" : "永吉县"
+    },
+    {
+      "countyId" : 220281,
+      "countyText" : "蛟河市"
+    },
+    {
+      "countyId" : 220282,
+      "countyText" : "桦甸市"
+    },
+    {
+      "countyId" : 220283,
+      "countyText" : "舒兰市"
+    },
+    {
+      "countyId" : 220284,
+      "countyText" : "磐石市"
+    }
+  ]
+  } ,{"cid":"2203","area": "四平","county":[
+    {
+      "countyId" : 220302,
+      "countyText" : "铁西区"
+    },
+    {
+      "countyId" : 220303,
+      "countyText" : "铁东区"
+    },
+    {
+      "countyId" : 220322,
+      "countyText" : "梨树县"
+    },
+    {
+      "countyId" : 220323,
+      "countyText" : "伊通满族自治县"
+    },
+    {
+      "countyId" : 220381,
+      "countyText" : "公主岭市"
+    },
+    {
+      "countyId" : 220382,
+      "countyText" : "双辽市"
+    }
+  ]
+  } ,{"cid":"2204","area": "辽源","county":[
+    {
+      "countyId" : 220402,
+      "countyText" : "龙山区"
+    },
+    {
+      "countyId" : 220403,
+      "countyText" : "西安区"
+    },
+    {
+      "countyId" : 220421,
+      "countyText" : "东丰县"
+    },
+    {
+      "countyId" : 220422,
+      "countyText" : "东辽县"
+    }
+  ]
+  } ,{"cid":"2205","area":  "通化","county":[
+    {
+      "countyId" : 220502,
+      "countyText" : "东昌区"
+    },
+    {
+      "countyId" : 220503,
+      "countyText" : "二道江区"
+    },
+    {
+      "countyId" : 220521,
+      "countyText" : "通化县"
+    },
+    {
+      "countyId" : 220523,
+      "countyText" : "辉南县"
+    },
+    {
+      "countyId" : 220524,
+      "countyText" : "柳河县"
+    },
+    {
+      "countyId" : 220581,
+      "countyText" : "梅河口市"
+    },
+    {
+      "countyId" : 220582,
+      "countyText" : "集安市"
+    }
+  ]
+  },{"cid":"2224","area":  "延边州","county":[
+    {
+      "countyId" : 222401,
+      "countyText" : "延吉市"
+    },
+    {
+      "countyId" : 222402,
+      "countyText" : "图们市"
+    },
+    {
+      "countyId" : 222403,
+      "countyText" : "敦化市"
+    },
+    {
+      "countyId" : 222404,
+      "countyText" : "珲春市"
+    },
+    {
+      "countyId" : 222405,
+      "countyText" : "龙井市"
+    },
+    {
+      "countyId" : 222406,
+      "countyText" : "和龙市"
+    },
+    {
+      "countyId" : 222424,
+      "countyText" : "汪清县"
+    },
+    {
+      "countyId" : 222426,
+      "countyText" : "安图县"
+    }
+  ]
+  } ,{"cid":"2208","area":  "白城","county":[
+    {
+      "countyId" : 220802,
+      "countyText" : "洮北区"
+    },
+    {
+      "countyId" : 220821,
+      "countyText" : "镇赉县"
+    },
+    {
+      "countyId" : 220822,
+      "countyText" : "通榆县"
+    },
+    {
+      "countyId" : 220881,
+      "countyText" : "洮南市"
+    },
+    {
+      "countyId" : 220882,
+      "countyText" : "大安市"
+    }
+  ]
+  } ,{"cid":"2207","area":  "松原","county":[
+    {
+      "countyId" : 220702,
+      "countyText" : "宁江区"
+    },
+    {
+      "countyId" : 220721,
+      "countyText" : "前郭尔罗斯蒙古族自治县"
+    },
+    {
+      "countyId" : 220722,
+      "countyText" : "长岭县"
+    },
+    {
+      "countyId" : 220723,
+      "countyText" : "乾安县"
+    },
+    {
+      "countyId" : 220724,
+      "countyText" : "扶余县"
+    }
+  ]
+  } , {"cid":"2221","area":  "临江"} , {"cid":"2223","area": "珲春"} ] },
+  { "id":"23", "name": "黑龙江省", "cities": [{"cid":"2301","area":"哈尔滨","county":[
+    {
+      "countyId" : 230102,
+      "countyText" : "道里区"
+    },
+    {
+      "countyId" : 230103,
+      "countyText" : "南岗区"
+    },
+    {
+      "countyId" : 230104,
+      "countyText" : "道外区"
+    },
+    {
+      "countyId" : 230108,
+      "countyText" : "平房区"
+    },
+    {
+      "countyId" : 230109,
+      "countyText" : "松北区"
+    },
+    {
+      "countyId" : 230110,
+      "countyText" : "香坊区"
+    },
+    {
+      "countyId" : 230111,
+      "countyText" : "呼兰区"
+    },
+    {
+      "countyId" : 230112,
+      "countyText" : "阿城区"
+    },
+    {
+      "countyId" : 230123,
+      "countyText" : "依兰县"
+    },
+    {
+      "countyId" : 230124,
+      "countyText" : "方正县"
+    },
+    {
+      "countyId" : 230125,
+      "countyText" : "宾县"
+    },
+    {
+      "countyId" : 230126,
+      "countyText" : "巴彦县"
+    },
+    {
+      "countyId" : 230127,
+      "countyText" : "木兰县"
+    },
+    {
+      "countyId" : 230128,
+      "countyText" : "通河县"
+    },
+    {
+      "countyId" : 230129,
+      "countyText" : "延寿县"
+    },
+    {
+      "countyId" : 230182,
+      "countyText" : "双城市"
+    },
+    {
+      "countyId" : 230183,
+      "countyText" : "尚志市"
+    },
+    {
+      "countyId" : 230184,
+      "countyText" : "五常市"
+    }
+  ]
+  },{"cid":"2302","area":"齐齐哈尔","county":[
+    {
+      "countyId" : 230202,
+      "countyText" : "龙沙区"
+    },
+    {
+      "countyId" : 230203,
+      "countyText" : "建华区"
+    },
+    {
+      "countyId" : 230204,
+      "countyText" : "铁锋区"
+    },
+    {
+      "countyId" : 230205,
+      "countyText" : "昂昂溪区"
+    },
+    {
+      "countyId" : 230206,
+      "countyText" : "富拉尔基区"
+    },
+    {
+      "countyId" : 230207,
+      "countyText" : "碾子山区"
+    },
+    {
+      "countyId" : 230208,
+      "countyText" : "梅里斯达斡尔族区"
+    },
+    {
+      "countyId" : 230221,
+      "countyText" : "龙江县"
+    },
+    {
+      "countyId" : 230223,
+      "countyText" : "依安县"
+    },
+    {
+      "countyId" : 230224,
+      "countyText" : "泰来县"
+    },
+    {
+      "countyId" : 230225,
+      "countyText" : "甘南县"
+    },
+    {
+      "countyId" : 230227,
+      "countyText" : "富裕县"
+    },
+    {
+      "countyId" : 230229,
+      "countyText" : "克山县"
+    },
+    {
+      "countyId" : 230230,
+      "countyText" : "克东县"
+    },
+    {
+      "countyId" : 230231,
+      "countyText" : "拜泉县"
+    },
+    {
+      "countyId" : 230281,
+      "countyText" : "讷河市"
+    }
+  ]
+  } ,{"cid":"2306","area": "大庆","county":[
+    {
+      "countyId" : 230602,
+      "countyText" : "萨尔图区"
+    },
+    {
+      "countyId" : 230603,
+      "countyText" : "龙凤区"
+    },
+    {
+      "countyId" : 230604,
+      "countyText" : "让胡路区"
+    },
+    {
+      "countyId" : 230605,
+      "countyText" : "红岗区"
+    },
+    {
+      "countyId" : 230606,
+      "countyText" : "大同区"
+    },
+    {
+      "countyId" : 230621,
+      "countyText" : "肇州县"
+    },
+    {
+      "countyId" : 230622,
+      "countyText" : "肇源县"
+    },
+    {
+      "countyId" : 230623,
+      "countyText" : "林甸县"
+    },
+    {
+      "countyId" : 230624,
+      "countyText" : "杜尔伯特蒙古族自治县"
+    }
+  ]
+  },{"cid":"2310","area":  "牡丹江","county":[
+    {
+      "countyId" : 231002,
+      "countyText" : "东安区"
+    },
+    {
+      "countyId" : 231003,
+      "countyText" : "阳明区"
+    },
+    {
+      "countyId" : 231004,
+      "countyText" : "爱民区"
+    },
+    {
+      "countyId" : 231005,
+      "countyText" : "西安区"
+    },
+    {
+      "countyId" : 231024,
+      "countyText" : "东宁县"
+    },
+    {
+      "countyId" : 231025,
+      "countyText" : "林口县"
+    },
+    {
+      "countyId" : 231081,
+      "countyText" : "绥芬河市"
+    },
+    {
+      "countyId" : 231083,
+      "countyText" : "海林市"
+    },
+    {
+      "countyId" : 231084,
+      "countyText" : "宁安市"
+    },
+    {
+      "countyId" : 231085,
+      "countyText" : "穆棱市"
+    }
+  ]
+  },{"cid":"2304","area": "鹤岗","county":[
+    {
+      "countyId" : 230402,
+      "countyText" : "向阳区"
+    },
+    {
+      "countyId" : 230403,
+      "countyText" : "工农区"
+    },
+    {
+      "countyId" : 230404,
+      "countyText" : "南山区"
+    },
+    {
+      "countyId" : 230405,
+      "countyText" : "兴安区"
+    },
+    {
+      "countyId" : 230406,
+      "countyText" : "东山区"
+    },
+    {
+      "countyId" : 230407,
+      "countyText" : "兴山区"
+    },
+    {
+      "countyId" : 230421,
+      "countyText" : "萝北县"
+    },
+    {
+      "countyId" : 230422,
+      "countyText" : "绥滨县"
+    }
+  ]
+  } ,{"cid":"2308","area":"佳木斯","county":[
+    {
+      "countyId" : 230803,
+      "countyText" : "向阳区"
+    },
+    {
+      "countyId" : 230804,
+      "countyText" : "前进区"
+    },
+    {
+      "countyId" : 230805,
+      "countyText" : "东风区"
+    },
+    {
+      "countyId" : 230811,
+      "countyText" : "郊区"
+    },
+    {
+      "countyId" : 230822,
+      "countyText" : "桦南县"
+    },
+    {
+      "countyId" : 230826,
+      "countyText" : "桦川县"
+    },
+    {
+      "countyId" : 230828,
+      "countyText" : "汤原县"
+    },
+    {
+      "countyId" : 230833,
+      "countyText" : "抚远县"
+    },
+    {
+      "countyId" : 230881,
+      "countyText" : "同江市"
+    },
+    {
+      "countyId" : 230882,
+      "countyText" : "富锦市"
+    }
+  ]
+  },{"cid":"2312","area":"绥化","county":[
+    {
+      "countyId" : 231202,
+      "countyText" : "北林区"
+    },
+    {
+      "countyId" : 231221,
+      "countyText" : "望奎县"
+    },
+    {
+      "countyId" : 231222,
+      "countyText" : "兰西县"
+    },
+    {
+      "countyId" : 231223,
+      "countyText" : "青冈县"
+    },
+    {
+      "countyId" : 231224,
+      "countyText" : "庆安县"
+    },
+    {
+      "countyId" : 231225,
+      "countyText" : "明水县"
+    },
+    {
+      "countyId" : 231226,
+      "countyText" : "绥棱县"
+    },
+    {
+      "countyId" : 231281,
+      "countyText" : "安达市"
+    },
+    {
+      "countyId" : 231282,
+      "countyText" : "肇东市"
+    },
+    {
+      "countyId" : 231283,
+      "countyText" : "海伦市"
+    }
+  ]
+  }] },
+  { "id":"31", "name": "上海市", "cities": [{"cid":"3115","area":"浦东新区"},{"cid":"3110","area":"杨浦"} ,{"cid":"3104","area": "徐汇"} ,{"cid":"3106","area": "静安"} ,{"cid":"3131","area": "卢湾"} ,{"cid":"3101","area": "黄浦"} ,{"cid":"3107","area": "普陀"} ,{"cid":"3108","area": "闸北"} ,{"cid":"3109","area": "虹口"} ,{"cid":"3105","area":  "长宁"}, {"cid":"3113","area":  "宝山"},{"cid":"3112","area": "闵行"} ,{"cid":"3114","area":  "嘉定"},{"cid":"3116","area":  "金山"} ,{"cid":"3117","area":  "松江"},{"cid":"3118","area":  "青浦"} ,{"cid":"3130","area":   "崇明"},{"cid":"3120","area":   "奉贤"} ,{"cid":"3132","area":  "南汇"} ] },
+  { "id":"32", "name": "江苏省", "cities": [{"cid":"3201","area":"南京","county":[
+    {
+      "countyId" : 320102,
+      "countyText" : "玄武区"
+    },
+    {
+      "countyId" : 320103,
+      "countyText" : "白下区"
+    },
+    {
+      "countyId" : 320104,
+      "countyText" : "秦淮区"
+    },
+    {
+      "countyId" : 320105,
+      "countyText" : "建邺区"
+    },
+    {
+      "countyId" : 320106,
+      "countyText" : "鼓楼区"
+    },
+    {
+      "countyId" : 320107,
+      "countyText" : "下关区"
+    },
+    {
+      "countyId" : 320111,
+      "countyText" : "浦口区"
+    },
+    {
+      "countyId" : 320113,
+      "countyText" : "栖霞区"
+    },
+    {
+      "countyId" : 320114,
+      "countyText" : "雨花台区"
+    },
+    {
+      "countyId" : 320115,
+      "countyText" : "江宁区"
+    },
+    {
+      "countyId" : 320116,
+      "countyText" : "六合区"
+    },
+    {
+      "countyId" : 320124,
+      "countyText" : "溧水县"
+    },
+    {
+      "countyId" : 320125,
+      "countyText" : "高淳县"
+    }
+  ]
+  },{"cid":"3205","area":"苏州","county":[
+    {
+      "countyId" : 320502,
+      "countyText" : "沧浪区"
+    },
+    {
+      "countyId" : 320503,
+      "countyText" : "平江区"
+    },
+    {
+      "countyId" : 320504,
+      "countyText" : "金阊区"
+    },
+    {
+      "countyId" : 320505,
+      "countyText" : "虎丘区"
+    },
+    {
+      "countyId" : 320506,
+      "countyText" : "吴中区"
+    },
+    {
+      "countyId" : 320507,
+      "countyText" : "相城区"
+    },
+    {
+      "countyId" : 320581,
+      "countyText" : "常熟市"
+    },
+    {
+      "countyId" : 320582,
+      "countyText" : "张家港市"
+    },
+    {
+      "countyId" : 320583,
+      "countyText" : "昆山市"
+    },
+    {
+      "countyId" : 320584,
+      "countyText" : "吴江市"
+    },
+    {
+      "countyId" : 320585,
+      "countyText" : "太仓市"
+    }
+  ]
+  } ,{"cid":"3202","area":"无锡","county":[
+    {
+      "countyId" : 320202,
+      "countyText" : "崇安区"
+    },
+    {
+      "countyId" : 320203,
+      "countyText" : "南长区"
+    },
+    {
+      "countyId" : 320204,
+      "countyText" : "北塘区"
+    },
+    {
+      "countyId" : 320205,
+      "countyText" : "锡山区"
+    },
+    {
+      "countyId" : 320206,
+      "countyText" : "惠山区"
+    },
+    {
+      "countyId" : 320211,
+      "countyText" : "滨湖区"
+    },
+    {
+      "countyId" : 320281,
+      "countyText" : "江阴市"
+    },
+    {
+      "countyId" : 320282,
+      "countyText" : "宜兴市"
+    }
+  ]
+  } ,{"cid":"3204","area":"常州","county":[
+    {
+      "countyId" : 320402,
+      "countyText" : "天宁区"
+    },
+    {
+      "countyId" : 320404,
+      "countyText" : "钟楼区"
+    },
+    {
+      "countyId" : 320405,
+      "countyText" : "戚墅堰区"
+    },
+    {
+      "countyId" : 320411,
+      "countyText" : "新北区"
+    },
+    {
+      "countyId" : 320412,
+      "countyText" : "武进区"
+    },
+    {
+      "countyId" : 320481,
+      "countyText" : "溧阳市"
+    },
+    {
+      "countyId" : 320482,
+      "countyText" : "金坛市"
+    }
+  ]
+  } ,{"cid":"3210","area":"扬州","county":[
+    {
+      "countyId" : 321002,
+      "countyText" : "广陵区"
+    },
+    {
+      "countyId" : 321003,
+      "countyText" : "邗江区"
+    },
+    {
+      "countyId" : 321011,
+      "countyText" : "维扬区"
+    },
+    {
+      "countyId" : 321023,
+      "countyText" : "宝应县"
+    },
+    {
+      "countyId" : 321081,
+      "countyText" : "仪征市"
+    },
+    {
+      "countyId" : 321084,
+      "countyText" : "高邮市"
+    },
+    {
+      "countyId" : 321088,
+      "countyText" : "江都市"
+    }
+  ]
+  } ,{"cid":"3203","area":"徐州","county":[
+    {
+      "countyId" : 320302,
+      "countyText" : "鼓楼区"
+    },
+    {
+      "countyId" : 320303,
+      "countyText" : "云龙区"
+    },
+    {
+      "countyId" : 320304,
+      "countyText" : "九里区"
+    },
+    {
+      "countyId" : 320305,
+      "countyText" : "贾汪区"
+    },
+    {
+      "countyId" : 320311,
+      "countyText" : "泉山区"
+    },
+    {
+      "countyId" : 320321,
+      "countyText" : "丰县"
+    },
+    {
+      "countyId" : 320322,
+      "countyText" : "沛县"
+    },
+    {
+      "countyId" : 320323,
+      "countyText" : "铜山县"
+    },
+    {
+      "countyId" : 320324,
+      "countyText" : "睢宁县"
+    },
+    {
+      "countyId" : 320381,
+      "countyText" : "新沂市"
+    },
+    {
+      "countyId" : 320382,
+      "countyText" : "邳州市"
+    }
+  ]
+  } ,{"cid":"3206","area":"南通","county":[
+    {
+      "countyId" : 320602,
+      "countyText" : "崇川区"
+    },
+    {
+      "countyId" : 320611,
+      "countyText" : "港闸区"
+    },
+    {
+      "countyId" : 320621,
+      "countyText" : "海安县"
+    },
+    {
+      "countyId" : 320623,
+      "countyText" : "如东县"
+    },
+    {
+      "countyId" : 320681,
+      "countyText" : "启东市"
+    },
+    {
+      "countyId" : 320682,
+      "countyText" : "如皋市"
+    },
+    {
+      "countyId" : 320683,
+      "countyText" : "通州市"
+    },
+    {
+      "countyId" : 320684,
+      "countyText" : "海门市"
+    }
+  ]
+  } ,{"cid":"3211","area":"镇江","county":[
+    {
+      "countyId" : 321102,
+      "countyText" : "京口区"
+    },
+    {
+      "countyId" : 321111,
+      "countyText" : "润州区"
+    },
+    {
+      "countyId" : 321112,
+      "countyText" : "丹徒区"
+    },
+    {
+      "countyId" : 321181,
+      "countyText" : "丹阳市"
+    },
+    {
+      "countyId" : 321182,
+      "countyText" : "扬中市"
+    },
+    {
+      "countyId" : 321183,
+      "countyText" : "句容市"
+    }
+  ]
+  } ,{"cid":"3212","area": "泰州","county":[
+    {
+      "countyId" : 321202,
+      "countyText" : "海陵区"
+    },
+    {
+      "countyId" : 321203,
+      "countyText" : "高港区"
+    },
+    {
+      "countyId" : 321281,
+      "countyText" : "兴化市"
+    },
+    {
+      "countyId" : 321282,
+      "countyText" : "靖江市"
+    },
+    {
+      "countyId" : 321283,
+      "countyText" : "泰兴市"
+    },
+    {
+      "countyId" : 321284,
+      "countyText" : "姜堰市"
+    }
+  ]
+  },{"cid":"3208","area":  "淮安","county":[
+    {
+      "countyId" : 320802,
+      "countyText" : "清河区"
+    },
+    {
+      "countyId" : 320803,
+      "countyText" : "楚州区"
+    },
+    {
+      "countyId" : 320804,
+      "countyText" : "淮阴区"
+    },
+    {
+      "countyId" : 320811,
+      "countyText" : "清浦区"
+    },
+    {
+      "countyId" : 320826,
+      "countyText" : "涟水县"
+    },
+    {
+      "countyId" : 320829,
+      "countyText" : "洪泽县"
+    },
+    {
+      "countyId" : 320830,
+      "countyText" : "盱眙县"
+    },
+    {
+      "countyId" : 320831,
+      "countyText" : "金湖县"
+    }
+  ]
+  },{"cid":"3207","area":  "连云港","county":[
+    {
+      "countyId" : 320703,
+      "countyText" : "连云区"
+    },
+    {
+      "countyId" : 320705,
+      "countyText" : "新浦区"
+    },
+    {
+      "countyId" : 320706,
+      "countyText" : "海州区"
+    },
+    {
+      "countyId" : 320721,
+      "countyText" : "赣榆县"
+    },
+    {
+      "countyId" : 320722,
+      "countyText" : "东海县"
+    },
+    {
+      "countyId" : 320723,
+      "countyText" : "灌云县"
+    },
+    {
+      "countyId" : 320724,
+      "countyText" : "灌南县"
+    }
+  ]
+  },{"cid":"3213","area":  "宿迁","county":[
+    {
+      "countyId" : 321302,
+      "countyText" : "宿城区"
+    },
+    {
+      "countyId" : 321311,
+      "countyText" : "宿豫区"
+    },
+    {
+      "countyId" : 321322,
+      "countyText" : "沭阳县"
+    },
+    {
+      "countyId" : 321323,
+      "countyText" : "泗阳县"
+    },
+    {
+      "countyId" : 321324,
+      "countyText" : "泗洪县"
+    }
+  ]
+  },{"cid":"3209","area":  "盐城","county":[
+    {
+      "countyId" : 320902,
+      "countyText" : "亭湖区"
+    },
+    {
+      "countyId" : 320903,
+      "countyText" : "盐都区"
+    },
+    {
+      "countyId" : 320921,
+      "countyText" : "响水县"
+    },
+    {
+      "countyId" : 320922,
+      "countyText" : "滨海县"
+    },
+    {
+      "countyId" : 320923,
+      "countyText" : "阜宁县"
+    },
+    {
+      "countyId" : 320924,
+      "countyText" : "射阳县"
+    },
+    {
+      "countyId" : 320925,
+      "countyText" : "建湖县"
+    },
+    {
+      "countyId" : 320981,
+      "countyText" : "东台市"
+    },
+    {
+      "countyId" : 320982,
+      "countyText" : "大丰市"
+    }
+  ]
+  },{"cid":"3214","area":   "淮阴"},{"cid":"3215","area":   "沐阳"} ,{"cid":"3216","area":"张家港"}] },
+  { "id":"33", "name": "浙江省", "cities": [{"cid":"3301","area":"杭州","county":[
+    {
+      "countyId" : 330102,
+      "countyText" : "上城区"
+    },
+    {
+      "countyId" : 330103,
+      "countyText" : "下城区"
+    },
+    {
+      "countyId" : 330104,
+      "countyText" : "江干区"
+    },
+    {
+      "countyId" : 330105,
+      "countyText" : "拱墅区"
+    },
+    {
+      "countyId" : 330106,
+      "countyText" : "西湖区"
+    },
+    {
+      "countyId" : 330108,
+      "countyText" : "滨江区"
+    },
+    {
+      "countyId" : 330109,
+      "countyText" : "萧山区"
+    },
+    {
+      "countyId" : 330110,
+      "countyText" : "余杭区"
+    },
+    {
+      "countyId" : 330122,
+      "countyText" : "桐庐县"
+    },
+    {
+      "countyId" : 330127,
+      "countyText" : "淳安县"
+    },
+    {
+      "countyId" : 330182,
+      "countyText" : "建德市"
+    },
+    {
+      "countyId" : 330183,
+      "countyText" : "富阳市"
+    },
+    {
+      "countyId" : 330185,
+      "countyText" : "临安市"
+    }
+  ]
+  },{"cid":"3307","area":"金华","county":[
+    {
+      "countyId" : 330702,
+      "countyText" : "婺城区"
+    },
+    {
+      "countyId" : 330703,
+      "countyText" : "金东区"
+    },
+    {
+      "countyId" : 330723,
+      "countyText" : "武义县"
+    },
+    {
+      "countyId" : 330726,
+      "countyText" : "浦江县"
+    },
+    {
+      "countyId" : 330727,
+      "countyText" : "磐安县"
+    },
+    {
+      "countyId" : 330781,
+      "countyText" : "兰溪市"
+    },
+    {
+      "countyId" : 330782,
+      "countyText" : "义乌市"
+    },
+    {
+      "countyId" : 330783,
+      "countyText" : "东阳市"
+    },
+    {
+      "countyId" : 330784,
+      "countyText" : "永康市"
+    }
+  ]
+  } ,{"cid":"3302","area":"宁波","county":[
+    {
+      "countyId" : 330203,
+      "countyText" : "海曙区"
+    },
+    {
+      "countyId" : 330204,
+      "countyText" : "江东区"
+    },
+    {
+      "countyId" : 330205,
+      "countyText" : "江北区"
+    },
+    {
+      "countyId" : 330206,
+      "countyText" : "北仑区"
+    },
+    {
+      "countyId" : 330211,
+      "countyText" : "镇海区"
+    },
+    {
+      "countyId" : 330212,
+      "countyText" : "鄞州区"
+    },
+    {
+      "countyId" : 330225,
+      "countyText" : "象山县"
+    },
+    {
+      "countyId" : 330226,
+      "countyText" : "宁海县"
+    },
+    {
+      "countyId" : 330281,
+      "countyText" : "余姚市"
+    },
+    {
+      "countyId" : 330282,
+      "countyText" : "慈溪市"
+    },
+    {
+      "countyId" : 330283,
+      "countyText" : "奉化市"
+    }
+  ]
+  } ,{"cid":"3303","area": "温州","county":[
+    {
+      "countyId" : 330302,
+      "countyText" : "鹿城区"
+    },
+    {
+      "countyId" : 330303,
+      "countyText" : "龙湾区"
+    },
+    {
+      "countyId" : 330304,
+      "countyText" : "瓯海区"
+    },
+    {
+      "countyId" : 330322,
+      "countyText" : "洞头县"
+    },
+    {
+      "countyId" : 330324,
+      "countyText" : "永嘉县"
+    },
+    {
+      "countyId" : 330326,
+      "countyText" : "平阳县"
+    },
+    {
+      "countyId" : 330327,
+      "countyText" : "苍南县"
+    },
+    {
+      "countyId" : 330328,
+      "countyText" : "文成县"
+    },
+    {
+      "countyId" : 330329,
+      "countyText" : "泰顺县"
+    },
+    {
+      "countyId" : 330381,
+      "countyText" : "瑞安市"
+    },
+    {
+      "countyId" : 330382,
+      "countyText" : "乐清市"
+    }
+  ]
+  }, {"cid":"3304","area": "嘉兴","county":[
+    {
+      "countyId" : 330402,
+      "countyText" : "南湖区"
+    },
+    {
+      "countyId" : 330411,
+      "countyText" : "秀洲区"
+    },
+    {
+      "countyId" : 330421,
+      "countyText" : "嘉善县"
+    },
+    {
+      "countyId" : 330424,
+      "countyText" : "海盐县"
+    },
+    {
+      "countyId" : 330481,
+      "countyText" : "海宁市"
+    },
+    {
+      "countyId" : 330482,
+      "countyText" : "平湖市"
+    },
+    {
+      "countyId" : 330483,
+      "countyText" : "桐乡市"
+    }
+  ]
+  }, {"cid":"3306","area": "绍兴","county":[
+    {
+      "countyId" : 330602,
+      "countyText" : "越城区"
+    },
+    {
+      "countyId" : 330621,
+      "countyText" : "绍兴县"
+    },
+    {
+      "countyId" : 330624,
+      "countyText" : "新昌县"
+    },
+    {
+      "countyId" : 330681,
+      "countyText" : "诸暨市"
+    },
+    {
+      "countyId" : 330682,
+      "countyText" : "上虞市"
+    },
+    {
+      "countyId" : 330683,
+      "countyText" : "嵊州市"
+    }
+  ]
+  } ,{"cid":"3311","area":"丽水","county":[
+    {
+      "countyId" : 331102,
+      "countyText" : "莲都区"
+    },
+    {
+      "countyId" : 331121,
+      "countyText" : "青田县"
+    },
+    {
+      "countyId" : 331122,
+      "countyText" : "缙云县"
+    },
+    {
+      "countyId" : 331123,
+      "countyText" : "遂昌县"
+    },
+    {
+      "countyId" : 331124,
+      "countyText" : "松阳县"
+    },
+    {
+      "countyId" : 331125,
+      "countyText" : "云和县"
+    },
+    {
+      "countyId" : 331126,
+      "countyText" : "庆元县"
+    },
+    {
+      "countyId" : 331127,
+      "countyText" : "景宁畲族自治县"
+    },
+    {
+      "countyId" : 331181,
+      "countyText" : "龙泉市"
+    }
+  ]
+  } ,{"cid":"3305","area": "湖州","county":[
+    {
+      "countyId" : 330502,
+      "countyText" : "吴兴区"
+    },
+    {
+      "countyId" : 330503,
+      "countyText" : "南浔区"
+    },
+    {
+      "countyId" : 330521,
+      "countyText" : "德清县"
+    },
+    {
+      "countyId" : 330522,
+      "countyText" : "长兴县"
+    },
+    {
+      "countyId" : 330523,
+      "countyText" : "安吉县"
+    }
+  ]
+  },{"cid":"3310","area": "台州","county":[
+    {
+      "countyId" : 331002,
+      "countyText" : "椒江区"
+    },
+    {
+      "countyId" : 331003,
+      "countyText" : "黄岩区"
+    },
+    {
+      "countyId" : 331004,
+      "countyText" : "路桥区"
+    },
+    {
+      "countyId" : 331021,
+      "countyText" : "玉环县"
+    },
+    {
+      "countyId" : 331022,
+      "countyText" : "三门县"
+    },
+    {
+      "countyId" : 331023,
+      "countyText" : "天台县"
+    },
+    {
+      "countyId" : 331024,
+      "countyText" : "仙居县"
+    },
+    {
+      "countyId" : 331081,
+      "countyText" : "温岭市"
+    },
+    {
+      "countyId" : 331082,
+      "countyText" : "临海市"
+    }
+  ]
+  } ,{"cid":"3309","area":  "舟山","county":[
+    {
+      "countyId" : 330902,
+      "countyText" : "定海区"
+    },
+    {
+      "countyId" : 330903,
+      "countyText" : "普陀区"
+    },
+    {
+      "countyId" : 330921,
+      "countyText" : "岱山县"
+    },
+    {
+      "countyId" : 330922,
+      "countyText" : "嵊泗县"
+    }
+  ]
+  },{"cid":"3308","area":"衢州","county":[
+    {
+      "countyId" : 330802,
+      "countyText" : "柯城区"
+    },
+    {
+      "countyId" : 330803,
+      "countyText" : "衢江区"
+    },
+    {
+      "countyId" : 330822,
+      "countyText" : "常山县"
+    },
+    {
+      "countyId" : 330824,
+      "countyText" : "开化县"
+    },
+    {
+      "countyId" : 330825,
+      "countyText" : "龙游县"
+    },
+    {
+      "countyId" : 330881,
+      "countyText" : "江山市"
+    }
+  ]
+  }] },
+  { "id":"34", "name": "安徽省", "cities": [{"cid":"3401","area":"合肥","county":[
+    {
+      "countyId" : 340102,
+      "countyText" : "瑶海区"
+    },
+    {
+      "countyId" : 340103,
+      "countyText" : "庐阳区"
+    },
+    {
+      "countyId" : 340104,
+      "countyText" : "蜀山区"
+    },
+    {
+      "countyId" : 340111,
+      "countyText" : "包河区"
+    },
+    {
+      "countyId" : 340121,
+      "countyText" : "长丰县"
+    },
+    {
+      "countyId" : 340122,
+      "countyText" : "肥东县"
+    },
+    {
+      "countyId" : 340123,
+      "countyText" : "肥西县"
+    }
+  ]
+  },{"cid":"3405","area":"马鞍山","county":[
+    {
+      "countyId" : 340502,
+      "countyText" : "金家庄区"
+    },
+    {
+      "countyId" : 340503,
+      "countyText" : "花山区"
+    },
+    {
+      "countyId" : 340504,
+      "countyText" : "雨山区"
+    },
+    {
+      "countyId" : 340521,
+      "countyText" : "当涂县"
+    }
+  ]
+  } ,{"cid":"3403","area": "蚌埠","county":[
+    {
+      "countyId" : 340302,
+      "countyText" : "龙子湖区"
+    },
+    {
+      "countyId" : 340303,
+      "countyText" : "蚌山区"
+    },
+    {
+      "countyId" : 340304,
+      "countyText" : "禹会区"
+    },
+    {
+      "countyId" : 340311,
+      "countyText" : "淮上区"
+    },
+    {
+      "countyId" : 340321,
+      "countyText" : "怀远县"
+    },
+    {
+      "countyId" : 340322,
+      "countyText" : "五河县"
+    },
+    {
+      "countyId" : 340323,
+      "countyText" : "固镇县"
+    }
+  ]
+  },{"cid":"3410","area":"黄山","county":[
+    {
+      "countyId" : 341002,
+      "countyText" : "屯溪区"
+    },
+    {
+      "countyId" : 341003,
+      "countyText" : "黄山区"
+    },
+    {
+      "countyId" : 341004,
+      "countyText" : "徽州区"
+    },
+    {
+      "countyId" : 341021,
+      "countyText" : "歙县"
+    },
+    {
+      "countyId" : 341022,
+      "countyText" : "休宁县"
+    },
+    {
+      "countyId" : 341023,
+      "countyText" : "黟县"
+    },
+    {
+      "countyId" : 341024,
+      "countyText" : "祁门县"
+    }
+  ]
+  } ,{"cid":"3402","area": "芜湖","county":[
+    {
+      "countyId" : 340202,
+      "countyText" : "镜湖区"
+    },
+    {
+      "countyId" : 340203,
+      "countyText" : "弋江区"
+    },
+    {
+      "countyId" : 340207,
+      "countyText" : "鸠江区"
+    },
+    {
+      "countyId" : 340208,
+      "countyText" : "三山区"
+    },
+    {
+      "countyId" : 340221,
+      "countyText" : "芜湖县"
+    },
+    {
+      "countyId" : 340222,
+      "countyText" : "繁昌县"
+    },
+    {
+      "countyId" : 340223,
+      "countyText" : "南陵县"
+    }
+  ]
+  },{"cid":"3404","area": "淮南","county":[
+    {
+      "countyId" : 340402,
+      "countyText" : "大通区"
+    },
+    {
+      "countyId" : 340403,
+      "countyText" : "田家庵区"
+    },
+    {
+      "countyId" : 340404,
+      "countyText" : "谢家集区"
+    },
+    {
+      "countyId" : 340405,
+      "countyText" : "八公山区"
+    },
+    {
+      "countyId" : 340406,
+      "countyText" : "潘集区"
+    },
+    {
+      "countyId" : 340421,
+      "countyText" : "凤台县"
+    }
+  ]
+  } ,{"cid":"3407","area":  "铜陵","county":[
+    {
+      "countyId" : 340702,
+      "countyText" : "铜官山区"
+    },
+    {
+      "countyId" : 340703,
+      "countyText" : "狮子山区"
+    },
+    {
+      "countyId" : 340711,
+      "countyText" : "郊区"
+    },
+    {
+      "countyId" : 340721,
+      "countyText" : "铜陵县"
+    }
+  ]
+  },{"cid":"3412","area":  "阜阳","county":[
+    {
+      "countyId" : 341202,
+      "countyText" : "颍州区"
+    },
+    {
+      "countyId" : 341203,
+      "countyText" : "颍东区"
+    },
+    {
+      "countyId" : 341204,
+      "countyText" : "颍泉区"
+    },
+    {
+      "countyId" : 341221,
+      "countyText" : "临泉县"
+    },
+    {
+      "countyId" : 341222,
+      "countyText" : "太和县"
+    },
+    {
+      "countyId" : 341225,
+      "countyText" : "阜南县"
+    },
+    {
+      "countyId" : 341226,
+      "countyText" : "颍上县"
+    },
+    {
+      "countyId" : 341282,
+      "countyText" : "界首市"
+    }
+  ]
+  } ,{"cid":"3418","area":  "宣城","county":[
+    {
+      "countyId" : 341802,
+      "countyText" : "宣州区"
+    },
+    {
+      "countyId" : 341821,
+      "countyText" : "郎溪县"
+    },
+    {
+      "countyId" : 341822,
+      "countyText" : "广德县"
+    },
+    {
+      "countyId" : 341823,
+      "countyText" : "泾县"
+    },
+    {
+      "countyId" : 341824,
+      "countyText" : "绩溪县"
+    },
+    {
+      "countyId" : 341825,
+      "countyText" : "旌德县"
+    },
+    {
+      "countyId" : 341881,
+      "countyText" : "宁国市"
+    }
+  ]
+  } ,{"cid":"3408","area": "安庆","county":[
+    {
+      "countyId" : 340802,
+      "countyText" : "迎江区"
+    },
+    {
+      "countyId" : 340803,
+      "countyText" : "大观区"
+    },
+    {
+      "countyId" : 340811,
+      "countyText" : "宜秀区"
+    },
+    {
+      "countyId" : 340822,
+      "countyText" : "怀宁县"
+    },
+    {
+      "countyId" : 340823,
+      "countyText" : "枞阳县"
+    },
+    {
+      "countyId" : 340824,
+      "countyText" : "潜山县"
+    },
+    {
+      "countyId" : 340825,
+      "countyText" : "太湖县"
+    },
+    {
+      "countyId" : 340826,
+      "countyText" : "宿松县"
+    },
+    {
+      "countyId" : 340827,
+      "countyText" : "望江县"
+    },
+    {
+      "countyId" : 340828,
+      "countyText" : "岳西县"
+    },
+    {
+      "countyId" : 340881,
+      "countyText" : "桐城市"
+    }
+  ]
+  } ] },
+  {  "id":"35","name": "福建省", "cities": [{"cid":"3501","area":"福州","county":[
+    {
+      "countyId" : 350102,
+      "countyText" : "鼓楼区"
+    },
+    {
+      "countyId" : 350103,
+      "countyText" : "台江区"
+    },
+    {
+      "countyId" : 350104,
+      "countyText" : "仓山区"
+    },
+    {
+      "countyId" : 350105,
+      "countyText" : "马尾区"
+    },
+    {
+      "countyId" : 350111,
+      "countyText" : "晋安区"
+    },
+    {
+      "countyId" : 350121,
+      "countyText" : "闽侯县"
+    },
+    {
+      "countyId" : 350122,
+      "countyText" : "连江县"
+    },
+    {
+      "countyId" : 350123,
+      "countyText" : "罗源县"
+    },
+    {
+      "countyId" : 350124,
+      "countyText" : "闽清县"
+    },
+    {
+      "countyId" : 350125,
+      "countyText" : "永泰县"
+    },
+    {
+      "countyId" : 350128,
+      "countyText" : "平潭县"
+    },
+    {
+      "countyId" : 350181,
+      "countyText" : "福清市"
+    },
+    {
+      "countyId" : 350182,
+      "countyText" : "长乐市"
+    }
+  ]
+  },{"cid":"3502","area": "厦门","county":[
+    {
+      "countyId" : 350203,
+      "countyText" : "思明区"
+    },
+    {
+      "countyId" : 350205,
+      "countyText" : "海沧区"
+    },
+    {
+      "countyId" : 350206,
+      "countyText" : "湖里区"
+    },
+    {
+      "countyId" : 350211,
+      "countyText" : "集美区"
+    },
+    {
+      "countyId" : 350212,
+      "countyText" : "同安区"
+    },
+    {
+      "countyId" : 350213,
+      "countyText" : "翔安区"
+    }
+  ]
+  },{"cid":"3505","area": "泉州","county":[
+    {
+      "countyId" : 350502,
+      "countyText" : "鲤城区"
+    },
+    {
+      "countyId" : 350503,
+      "countyText" : "丰泽区"
+    },
+    {
+      "countyId" : 350504,
+      "countyText" : "洛江区"
+    },
+    {
+      "countyId" : 350505,
+      "countyText" : "泉港区"
+    },
+    {
+      "countyId" : 350521,
+      "countyText" : "惠安县"
+    },
+    {
+      "countyId" : 350524,
+      "countyText" : "安溪县"
+    },
+    {
+      "countyId" : 350525,
+      "countyText" : "永春县"
+    },
+    {
+      "countyId" : 350526,
+      "countyText" : "德化县"
+    },
+    {
+      "countyId" : 350527,
+      "countyText" : "金门县"
+    },
+    {
+      "countyId" : 350581,
+      "countyText" : "石狮市"
+    },
+    {
+      "countyId" : 350582,
+      "countyText" : "晋江市"
+    },
+    {
+      "countyId" : 350583,
+      "countyText" : "南安市"
+    }
+  ]
+  } ,{"cid":"3506","area":  "漳州","county":[
+    {
+      "countyId" : 350602,
+      "countyText" : "芗城区"
+    },
+    {
+      "countyId" : 350603,
+      "countyText" : "龙文区"
+    },
+    {
+      "countyId" : 350622,
+      "countyText" : "云霄县"
+    },
+    {
+      "countyId" : 350623,
+      "countyText" : "漳浦县"
+    },
+    {
+      "countyId" : 350624,
+      "countyText" : "诏安县"
+    },
+    {
+      "countyId" : 350625,
+      "countyText" : "长泰县"
+    },
+    {
+      "countyId" : 350626,
+      "countyText" : "东山县"
+    },
+    {
+      "countyId" : 350627,
+      "countyText" : "南靖县"
+    },
+    {
+      "countyId" : 350628,
+      "countyText" : "平和县"
+    },
+    {
+      "countyId" : 350629,
+      "countyText" : "华安县"
+    },
+    {
+      "countyId" : 350681,
+      "countyText" : "龙海市"
+    }
+  ]
+  },{"cid":"3507","area": "南平","county":[
+    {
+      "countyId" : 350702,
+      "countyText" : "延平区"
+    },
+    {
+      "countyId" : 350721,
+      "countyText" : "顺昌县"
+    },
+    {
+      "countyId" : 350722,
+      "countyText" : "浦城县"
+    },
+    {
+      "countyId" : 350723,
+      "countyText" : "光泽县"
+    },
+    {
+      "countyId" : 350724,
+      "countyText" : "松溪县"
+    },
+    {
+      "countyId" : 350725,
+      "countyText" : "政和县"
+    },
+    {
+      "countyId" : 350781,
+      "countyText" : "邵武市"
+    },
+    {
+      "countyId" : 350782,
+      "countyText" : "武夷山市"
+    },
+    {
+      "countyId" : 350783,
+      "countyText" : "建瓯市"
+    },
+    {
+      "countyId" : 350784,
+      "countyText" : "建阳市"
+    }
+  ]
+  } ,{"cid":"3508","area": "龙岩","county":[
+    {
+      "countyId" : 350802,
+      "countyText" : "新罗区"
+    },
+    {
+      "countyId" : 350821,
+      "countyText" : "长汀县"
+    },
+    {
+      "countyId" : 350822,
+      "countyText" : "永定县"
+    },
+    {
+      "countyId" : 350823,
+      "countyText" : "上杭县"
+    },
+    {
+      "countyId" : 350824,
+      "countyText" : "武平县"
+    },
+    {
+      "countyId" : 350825,
+      "countyText" : "连城县"
+    },
+    {
+      "countyId" : 350881,
+      "countyText" : "漳平市"
+    }
+  ]
+  } ,{"cid":"3503","area": "莆田","county":[
+    {
+      "countyId" : 350302,
+      "countyText" : "城厢区"
+    },
+    {
+      "countyId" : 350303,
+      "countyText" : "涵江区"
+    },
+    {
+      "countyId" : 350304,
+      "countyText" : "荔城区"
+    },
+    {
+      "countyId" : 350305,
+      "countyText" : "秀屿区"
+    },
+    {
+      "countyId" : 350322,
+      "countyText" : "仙游县"
+    }
+  ]
+  }  ,{"cid":"3504","area":  "三明","county":[
+    {
+      "countyId" : 350402,
+      "countyText" : "梅列区"
+    },
+    {
+      "countyId" : 350403,
+      "countyText" : "三元区"
+    },
+    {
+      "countyId" : 350421,
+      "countyText" : "明溪县"
+    },
+    {
+      "countyId" : 350423,
+      "countyText" : "清流县"
+    },
+    {
+      "countyId" : 350424,
+      "countyText" : "宁化县"
+    },
+    {
+      "countyId" : 350425,
+      "countyText" : "大田县"
+    },
+    {
+      "countyId" : 350426,
+      "countyText" : "尤溪县"
+    },
+    {
+      "countyId" : 350427,
+      "countyText" : "沙县"
+    },
+    {
+      "countyId" : 350428,
+      "countyText" : "将乐县"
+    },
+    {
+      "countyId" : 350429,
+      "countyText" : "泰宁县"
+    },
+    {
+      "countyId" : 350430,
+      "countyText" : "建宁县"
+    },
+    {
+      "countyId" : 350481,
+      "countyText" : "永安市"
+    }
+  ]
+  },{"cid":"3509","area": "宁德","county":[
+    {
+      "countyId" : 350902,
+      "countyText" : "蕉城区"
+    },
+    {
+      "countyId" : 350921,
+      "countyText" : "霞浦县"
+    },
+    {
+      "countyId" : 350922,
+      "countyText" : "古田县"
+    },
+    {
+      "countyId" : 350923,
+      "countyText" : "屏南县"
+    },
+    {
+      "countyId" : 350924,
+      "countyText" : "寿宁县"
+    },
+    {
+      "countyId" : 350925,
+      "countyText" : "周宁县"
+    },
+    {
+      "countyId" : 350926,
+      "countyText" : "柘荣县"
+    },
+    {
+      "countyId" : 350981,
+      "countyText" : "福安市"
+    },
+    {
+      "countyId" : 350982,
+      "countyText" : "福鼎市"
+    }
+  ]
+  } ] },
+  { "id":"36", "name": "江西省", "cities": [{"cid":"3601","area":"南昌","county":[
+    {
+      "countyId" : 360102,
+      "countyText" : "东湖区"
+    },
+    {
+      "countyId" : 360103,
+      "countyText" : "西湖区"
+    },
+    {
+      "countyId" : 360104,
+      "countyText" : "青云谱区"
+    },
+    {
+      "countyId" : 360105,
+      "countyText" : "湾里区"
+    },
+    {
+      "countyId" : 360111,
+      "countyText" : "青山湖区"
+    },
+    {
+      "countyId" : 360121,
+      "countyText" : "南昌县"
+    },
+    {
+      "countyId" : 360122,
+      "countyText" : "新建县"
+    },
+    {
+      "countyId" : 360123,
+      "countyText" : "安义县"
+    },
+    {
+      "countyId" : 360124,
+      "countyText" : "进贤县"
+    }
+  ]
+  }, {"cid":"3602","area":"景德镇","county":[
+    {
+      "countyId" : 360202,
+      "countyText" : "昌江区"
+    },
+    {
+      "countyId" : 360203,
+      "countyText" : "珠山区"
+    },
+    {
+      "countyId" : 360222,
+      "countyText" : "浮梁县"
+    },
+    {
+      "countyId" : 360281,
+      "countyText" : "乐平市"
+    }
+  ]
+  },{"cid":"3611","area": "上饶","county":[
+    {
+      "countyId" : 361102,
+      "countyText" : "信州区"
+    },
+    {
+      "countyId" : 361121,
+      "countyText" : "上饶县"
+    },
+    {
+      "countyId" : 361122,
+      "countyText" : "广丰县"
+    },
+    {
+      "countyId" : 361123,
+      "countyText" : "玉山县"
+    },
+    {
+      "countyId" : 361124,
+      "countyText" : "铅山县"
+    },
+    {
+      "countyId" : 361125,
+      "countyText" : "横峰县"
+    },
+    {
+      "countyId" : 361126,
+      "countyText" : "弋阳县"
+    },
+    {
+      "countyId" : 361127,
+      "countyText" : "余干县"
+    },
+    {
+      "countyId" : 361128,
+      "countyText" : "鄱阳县"
+    },
+    {
+      "countyId" : 361129,
+      "countyText" : "万年县"
+    },
+    {
+      "countyId" : 361130,
+      "countyText" : "婺源县"
+    },
+    {
+      "countyId" : 361181,
+      "countyText" : "德兴市"
+    }
+  ]
+  },{"cid":"3603","area": "萍乡","county":[
+    {
+      "countyId" : 360302,
+      "countyText" : "安源区"
+    },
+    {
+      "countyId" : 360313,
+      "countyText" : "湘东区"
+    },
+    {
+      "countyId" : 360321,
+      "countyText" : "莲花县"
+    },
+    {
+      "countyId" : 360322,
+      "countyText" : "上栗县"
+    },
+    {
+      "countyId" : 360323,
+      "countyText" : "芦溪县"
+    }
+  ]
+  } ,{"cid":"3604","area": "九江","county":[
+    {
+      "countyId" : 360402,
+      "countyText" : "庐山区"
+    },
+    {
+      "countyId" : 360403,
+      "countyText" : "浔阳区"
+    },
+    {
+      "countyId" : 360421,
+      "countyText" : "九江县"
+    },
+    {
+      "countyId" : 360423,
+      "countyText" : "武宁县"
+    },
+    {
+      "countyId" : 360424,
+      "countyText" : "修水县"
+    },
+    {
+      "countyId" : 360425,
+      "countyText" : "永修县"
+    },
+    {
+      "countyId" : 360426,
+      "countyText" : "德安县"
+    },
+    {
+      "countyId" : 360427,
+      "countyText" : "星子县"
+    },
+    {
+      "countyId" : 360428,
+      "countyText" : "都昌县"
+    },
+    {
+      "countyId" : 360429,
+      "countyText" : "湖口县"
+    },
+    {
+      "countyId" : 360430,
+      "countyText" : "彭泽县"
+    },
+    {
+      "countyId" : 360481,
+      "countyText" : "瑞昌市"
+    }
+  ]
+  },{"cid":"3608","area":  "吉安","county":[
+    {
+      "countyId" : 360802,
+      "countyText" : "吉州区"
+    },
+    {
+      "countyId" : 360803,
+      "countyText" : "青原区"
+    },
+    {
+      "countyId" : 360821,
+      "countyText" : "吉安县"
+    },
+    {
+      "countyId" : 360822,
+      "countyText" : "吉水县"
+    },
+    {
+      "countyId" : 360823,
+      "countyText" : "峡江县"
+    },
+    {
+      "countyId" : 360824,
+      "countyText" : "新干县"
+    },
+    {
+      "countyId" : 360825,
+      "countyText" : "永丰县"
+    },
+    {
+      "countyId" : 360826,
+      "countyText" : "泰和县"
+    },
+    {
+      "countyId" : 360827,
+      "countyText" : "遂川县"
+    },
+    {
+      "countyId" : 360828,
+      "countyText" : "万安县"
+    },
+    {
+      "countyId" : 360829,
+      "countyText" : "安福县"
+    },
+    {
+      "countyId" : 360830,
+      "countyText" : "永新县"
+    },
+    {
+      "countyId" : 360881,
+      "countyText" : "井冈山市"
+    }
+  ]
+
+  },{"cid":"3609","area":"宜春","county":[
+    {
+      "countyId" : 360902,
+      "countyText" : "袁州区"
+    },
+    {
+      "countyId" : 360921,
+      "countyText" : "奉新县"
+    },
+    {
+      "countyId" : 360922,
+      "countyText" : "万载县"
+    },
+    {
+      "countyId" : 360923,
+      "countyText" : "上高县"
+    },
+    {
+      "countyId" : 360924,
+      "countyText" : "宜丰县"
+    },
+    {
+      "countyId" : 360925,
+      "countyText" : "靖安县"
+    },
+    {
+      "countyId" : 360926,
+      "countyText" : "铜鼓县"
+    },
+    {
+      "countyId" : 360981,
+      "countyText" : "丰城市"
+    },
+    {
+      "countyId" : 360982,
+      "countyText" : "樟树市"
+    },
+    {
+      "countyId" : 360983,
+      "countyText" : "高安市"
+    }
+  ]
+  } , {"cid":"3606","area": "鹰潭","county":[
+    {
+      "countyId" : 360602,
+      "countyText" : "月湖区"
+    },
+    {
+      "countyId" : 360622,
+      "countyText" : "余江县"
+    },
+    {
+      "countyId" : 360681,
+      "countyText" : "贵溪市"
+    }
+  ]
+  },{"cid":"3605","area": "新余","county":[
+    {
+      "countyId" : 360502,
+      "countyText" : "渝水区"
+    },
+    {
+      "countyId" : 360521,
+      "countyText" : "分宜县"
+    }
+  ]
+  } ,{"cid":"3607","area":  "赣州","county":[
+    {
+      "countyId" : 360702,
+      "countyText" : "章贡区"
+    },
+    {
+      "countyId" : 360721,
+      "countyText" : "赣县"
+    },
+    {
+      "countyId" : 360722,
+      "countyText" : "信丰县"
+    },
+    {
+      "countyId" : 360723,
+      "countyText" : "大余县"
+    },
+    {
+      "countyId" : 360724,
+      "countyText" : "上犹县"
+    },
+    {
+      "countyId" : 360725,
+      "countyText" : "崇义县"
+    },
+    {
+      "countyId" : 360726,
+      "countyText" : "安远县"
+    },
+    {
+      "countyId" : 360727,
+      "countyText" : "龙南县"
+    },
+    {
+      "countyId" : 360728,
+      "countyText" : "定南县"
+    },
+    {
+      "countyId" : 360729,
+      "countyText" : "全南县"
+    },
+    {
+      "countyId" : 360730,
+      "countyText" : "宁都县"
+    },
+    {
+      "countyId" : 360731,
+      "countyText" : "于都县"
+    },
+    {
+      "countyId" : 360732,
+      "countyText" : "兴国县"
+    },
+    {
+      "countyId" : 360733,
+      "countyText" : "会昌县"
+    },
+    {
+      "countyId" : 360734,
+      "countyText" : "寻乌县"
+    },
+    {
+      "countyId" : 360735,
+      "countyText" : "石城县"
+    },
+    {
+      "countyId" : 360781,
+      "countyText" : "瑞金市"
+    },
+    {
+      "countyId" : 360782,
+      "countyText" : "南康市"
+    }
+  ]
+  }] },
+  { "id":"37", "name": "山东省", "cities": [{"cid":"3702","area":"青岛","county":[
+    {
+      "countyId" : 370202,
+      "countyText" : "市南区"
+    },
+    {
+      "countyId" : 370203,
+      "countyText" : "市北区"
+    },
+    {
+      "countyId" : 370205,
+      "countyText" : "四方区"
+    },
+    {
+      "countyId" : 370211,
+      "countyText" : "黄岛区"
+    },
+    {
+      "countyId" : 370212,
+      "countyText" : "崂山区"
+    },
+    {
+      "countyId" : 370213,
+      "countyText" : "李沧区"
+    },
+    {
+      "countyId" : 370214,
+      "countyText" : "城阳区"
+    },
+    {
+      "countyId" : 370281,
+      "countyText" : "胶州市"
+    },
+    {
+      "countyId" : 370282,
+      "countyText" : "即墨市"
+    },
+    {
+      "countyId" : 370283,
+      "countyText" : "平度市"
+    },
+    {
+      "countyId" : 370284,
+      "countyText" : "胶南市"
+    },
+    {
+      "countyId" : 370285,
+      "countyText" : "莱西市"
+    }
+  ]
+  },{"cid":"3701","area":"济南","county":[
+    {
+      "countyId" : 370102,
+      "countyText" : "历下区"
+    },
+    {
+      "countyId" : 370103,
+      "countyText" : "市中区"
+    },
+    {
+      "countyId" : 370104,
+      "countyText" : "槐荫区"
+    },
+    {
+      "countyId" : 370105,
+      "countyText" : "天桥区"
+    },
+    {
+      "countyId" : 370112,
+      "countyText" : "历城区"
+    },
+    {
+      "countyId" : 370113,
+      "countyText" : "长清区"
+    },
+    {
+      "countyId" : 370124,
+      "countyText" : "平阴县"
+    },
+    {
+      "countyId" : 370125,
+      "countyText" : "济阳县"
+    },
+    {
+      "countyId" : 370126,
+      "countyText" : "商河县"
+    },
+    {
+      "countyId" : 370181,
+      "countyText" : "章丘市"
+    }
+  ]
+  } ,{"cid":"3703","area":"淄博","county":[
+    {
+      "countyId" : 370302,
+      "countyText" : "淄川区"
+    },
+    {
+      "countyId" : 370303,
+      "countyText" : "张店区"
+    },
+    {
+      "countyId" : 370304,
+      "countyText" : "博山区"
+    },
+    {
+      "countyId" : 370305,
+      "countyText" : "临淄区"
+    },
+    {
+      "countyId" : 370306,
+      "countyText" : "周村区"
+    },
+    {
+      "countyId" : 370321,
+      "countyText" : "桓台县"
+    },
+    {
+      "countyId" : 370322,
+      "countyText" : "高青县"
+    },
+    {
+      "countyId" : 370323,
+      "countyText" : "沂源县"
+    }
+  ]
+  } ,{"cid":"3706","area": "烟台","county":[
+    {
+      "countyId" : 370602,
+      "countyText" : "芝罘区"
+    },
+    {
+      "countyId" : 370611,
+      "countyText" : "福山区"
+    },
+    {
+      "countyId" : 370612,
+      "countyText" : "牟平区"
+    },
+    {
+      "countyId" : 370613,
+      "countyText" : "莱山区"
+    },
+    {
+      "countyId" : 370634,
+      "countyText" : "长岛县"
+    },
+    {
+      "countyId" : 370681,
+      "countyText" : "龙口市"
+    },
+    {
+      "countyId" : 370682,
+      "countyText" : "莱阳市"
+    },
+    {
+      "countyId" : 370683,
+      "countyText" : "莱州市"
+    },
+    {
+      "countyId" : 370684,
+      "countyText" : "蓬莱市"
+    },
+    {
+      "countyId" : 370685,
+      "countyText" : "招远市"
+    },
+    {
+      "countyId" : 370686,
+      "countyText" : "栖霞市"
+    },
+    {
+      "countyId" : 370687,
+      "countyText" : "海阳市"
+    }
+  ]
+  },{"cid":"3709","area":  "泰安","county":[
+    {
+      "countyId" : 370902,
+      "countyText" : "泰山区"
+    },
+    {
+      "countyId" : 370903,
+      "countyText" : "岱岳区"
+    },
+    {
+      "countyId" : 370921,
+      "countyText" : "宁阳县"
+    },
+    {
+      "countyId" : 370923,
+      "countyText" : "东平县"
+    },
+    {
+      "countyId" : 370982,
+      "countyText" : "新泰市"
+    },
+    {
+      "countyId" : 370983,
+      "countyText" : "肥城市"
+    }
+  ]
+  },{"cid":"3713","area": "临沂","county":[
+    {
+      "countyId" : 371302,
+      "countyText" : "兰山区"
+    },
+    {
+      "countyId" : 371311,
+      "countyText" : "罗庄区"
+    },
+    {
+      "countyId" : 371312,
+      "countyText" : "河东区"
+    },
+    {
+      "countyId" : 371321,
+      "countyText" : "沂南县"
+    },
+    {
+      "countyId" : 371322,
+      "countyText" : "郯城县"
+    },
+    {
+      "countyId" : 371323,
+      "countyText" : "沂水县"
+    },
+    {
+      "countyId" : 371324,
+      "countyText" : "苍山县"
+    },
+    {
+      "countyId" : 371325,
+      "countyText" : "费县"
+    },
+    {
+      "countyId" : 371326,
+      "countyText" : "平邑县"
+    },
+    {
+      "countyId" : 371327,
+      "countyText" : "莒南县"
+    },
+    {
+      "countyId" : 371328,
+      "countyText" : "蒙阴县"
+    },
+    {
+      "countyId" : 371329,
+      "countyText" : "临沭县"
+    }
+  ]
+  } ,{"cid":"3711","area": "日照","county":[
+    {
+      "countyId" : 371102,
+      "countyText" : "东港区"
+    },
+    {
+      "countyId" : 371103,
+      "countyText" : "岚山区"
+    },
+    {
+      "countyId" : 371121,
+      "countyText" : "五莲县"
+    },
+    {
+      "countyId" : 371122,
+      "countyText" : "莒县"
+    }
+  ]
+  } ,{"cid":"3714","area":  "德州","county":[
+    {
+      "countyId" : 371402,
+      "countyText" : "德城区"
+    },
+    {
+      "countyId" : 371421,
+      "countyText" : "陵县"
+    },
+    {
+      "countyId" : 371422,
+      "countyText" : "宁津县"
+    },
+    {
+      "countyId" : 371423,
+      "countyText" : "庆云县"
+    },
+    {
+      "countyId" : 371424,
+      "countyText" : "临邑县"
+    },
+    {
+      "countyId" : 371425,
+      "countyText" : "齐河县"
+    },
+    {
+      "countyId" : 371426,
+      "countyText" : "平原县"
+    },
+    {
+      "countyId" : 371427,
+      "countyText" : "夏津县"
+    },
+    {
+      "countyId" : 371428,
+      "countyText" : "武城县"
+    },
+    {
+      "countyId" : 371481,
+      "countyText" : "乐陵市"
+    },
+    {
+      "countyId" : 371482,
+      "countyText" : "禹城市"
+    }
+  ]
+  },{"cid":"3710","area": "威海","county":[
+    {
+      "countyId" : 371002,
+      "countyText" : "环翠区"
+    },
+    {
+      "countyId" : 371081,
+      "countyText" : "文登市"
+    },
+    {
+      "countyId" : 371082,
+      "countyText" : "荣成市"
+    },
+    {
+      "countyId" : 371083,
+      "countyText" : "乳山市"
+    }
+  ]
+  },{"cid":"3705","area":"东营","county":[
+    {
+      "countyId" : 370502,
+      "countyText" : "东营区"
+    },
+    {
+      "countyId" : 370503,
+      "countyText" : "河口区"
+    },
+    {
+      "countyId" : 370521,
+      "countyText" : "垦利县"
+    },
+    {
+      "countyId" : 370522,
+      "countyText" : "利津县"
+    },
+    {
+      "countyId" : 370523,
+      "countyText" : "广饶县"
+    }
+  ]
+  } ,{"cid":"3717","area":"荷泽","county":[
+    {
+      "countyId" : 371702,
+      "countyText" : "牡丹区"
+    },
+    {
+      "countyId" : 371721,
+      "countyText" : "曹县"
+    },
+    {
+      "countyId" : 371722,
+      "countyText" : "单县"
+    },
+    {
+      "countyId" : 371723,
+      "countyText" : "成武县"
+    },
+    {
+      "countyId" : 371724,
+      "countyText" : "巨野县"
+    },
+    {
+      "countyId" : 371725,
+      "countyText" : "郓城县"
+    },
+    {
+      "countyId" : 371726,
+      "countyText" : "鄄城县"
+    },
+    {
+      "countyId" : 371727,
+      "countyText" : "定陶县"
+    },
+    {
+      "countyId" : 371728,
+      "countyText" : "东明县"
+    }
+  ]
+  } ,{"cid":"3708","area": "济宁","county":[
+    {
+      "countyId" : 370802,
+      "countyText" : "市中区"
+    },
+    {
+      "countyId" : 370811,
+      "countyText" : "任城区"
+    },
+    {
+      "countyId" : 370826,
+      "countyText" : "微山县"
+    },
+    {
+      "countyId" : 370827,
+      "countyText" : "鱼台县"
+    },
+    {
+      "countyId" : 370828,
+      "countyText" : "金乡县"
+    },
+    {
+      "countyId" : 370829,
+      "countyText" : "嘉祥县"
+    },
+    {
+      "countyId" : 370830,
+      "countyText" : "汶上县"
+    },
+    {
+      "countyId" : 370831,
+      "countyText" : "泗水县"
+    },
+    {
+      "countyId" : 370832,
+      "countyText" : "梁山县"
+    },
+    {
+      "countyId" : 370881,
+      "countyText" : "曲阜市"
+    },
+    {
+      "countyId" : 370882,
+      "countyText" : "兖州市"
+    },
+    {
+      "countyId" : 370883,
+      "countyText" : "邹城市"
+    }
+  ]
+  },{"cid":"3707","area": "潍坊","county":[
+    {
+      "countyId" : 370702,
+      "countyText" : "潍城区"
+    },
+    {
+      "countyId" : 370703,
+      "countyText" : "寒亭区"
+    },
+    {
+      "countyId" : 370704,
+      "countyText" : "坊子区"
+    },
+    {
+      "countyId" : 370705,
+      "countyText" : "奎文区"
+    },
+    {
+      "countyId" : 370724,
+      "countyText" : "临朐县"
+    },
+    {
+      "countyId" : 370725,
+      "countyText" : "昌乐县"
+    },
+    {
+      "countyId" : 370781,
+      "countyText" : "青州市"
+    },
+    {
+      "countyId" : 370782,
+      "countyText" : "诸城市"
+    },
+    {
+      "countyId" : 370783,
+      "countyText" : "寿光市"
+    },
+    {
+      "countyId" : 370784,
+      "countyText" : "安丘市"
+    },
+    {
+      "countyId" : 370785,
+      "countyText" : "高密市"
+    },
+    {
+      "countyId" : 370786,
+      "countyText" : "昌邑市"
+    }
+  ]
+  } ,{"cid":"3704","area":  "枣庄","county":[
+    {
+      "countyId" : 370402,
+      "countyText" : "市中区"
+    },
+    {
+      "countyId" : 370403,
+      "countyText" : "薛城区"
+    },
+    {
+      "countyId" : 370404,
+      "countyText" : "峄城区"
+    },
+    {
+      "countyId" : 370405,
+      "countyText" : "台儿庄区"
+    },
+    {
+      "countyId" : 370406,
+      "countyText" : "山亭区"
+    },
+    {
+      "countyId" : 370481,
+      "countyText" : "滕州市"
+    }
+  ]
+  }, {"cid":"3715","area":  "聊城","county":[
+    {
+      "countyId" : 371502,
+      "countyText" : "东昌府区"
+    },
+    {
+      "countyId" : 371521,
+      "countyText" : "阳谷县"
+    },
+    {
+      "countyId" : 371522,
+      "countyText" : "莘县"
+    },
+    {
+      "countyId" : 371523,
+      "countyText" : "茌平县"
+    },
+    {
+      "countyId" : 371524,
+      "countyText" : "东阿县"
+    },
+    {
+      "countyId" : 371525,
+      "countyText" : "冠县"
+    },
+    {
+      "countyId" : 371526,
+      "countyText" : "高唐县"
+    },
+    {
+      "countyId" : 371581,
+      "countyText" : "临清市"
+    }
+  ]
+  }, {"cid":"3716","area":"滨州市","county":[
+    {
+      "countyId" : 371602,
+      "countyText" : "滨城区"
+    },
+    {
+      "countyId" : 371621,
+      "countyText" : "惠民县"
+    },
+    {
+      "countyId" : 371622,
+      "countyText" : "阳信县"
+    },
+    {
+      "countyId" : 371623,
+      "countyText" : "无棣县"
+    },
+    {
+      "countyId" : 371624,
+      "countyText" : "沾化县"
+    },
+    {
+      "countyId" : 371625,
+      "countyText" : "博兴县"
+    },
+    {
+      "countyId" : 371626,
+      "countyText" : "邹平县"
+    }
+  ]
+  }, {"cid":"3712","area":"莱芜市","county":[
+    {
+      "countyId" : 371202,
+      "countyText" : "莱城区"
+    },
+    {
+      "countyId" : 371203,
+      "countyText" : "钢城区"
+    }
+  ]
+  }] },
+  {  "id":"41","name": "河南省", "cities": [{"cid":"4101","area":"郑州","county":[
+    {
+      "countyId" : 410102,
+      "countyText" : "中原区"
+    },
+    {
+      "countyId" : 410103,
+      "countyText" : "二七区"
+    },
+    {
+      "countyId" : 410104,
+      "countyText" : "管城回族区"
+    },
+    {
+      "countyId" : 410105,
+      "countyText" : "金水区"
+    },
+    {
+      "countyId" : 410106,
+      "countyText" : "上街区"
+    },
+    {
+      "countyId" : 410108,
+      "countyText" : "惠济区"
+    },
+    {
+      "countyId" : 410122,
+      "countyText" : "中牟县"
+    },
+    {
+      "countyId" : 410181,
+      "countyText" : "巩义市"
+    },
+    {
+      "countyId" : 410182,
+      "countyText" : "荥阳市"
+    },
+    {
+      "countyId" : 410183,
+      "countyText" : "新密市"
+    },
+    {
+      "countyId" : 410184,
+      "countyText" : "新郑市"
+    },
+    {
+      "countyId" : 410185,
+      "countyText" : "登封市"
+    }
+  ]
+  },{"cid":"4103","area":"洛阳","county":[
+    {
+      "countyId" : 410302,
+      "countyText" : "老城区"
+    },
+    {
+      "countyId" : 410303,
+      "countyText" : "西工区"
+    },
+    {
+      "countyId" : 410304,
+      "countyText" : "廛河回族区"
+    },
+    {
+      "countyId" : 410305,
+      "countyText" : "涧西区"
+    },
+    {
+      "countyId" : 410306,
+      "countyText" : "吉利区"
+    },
+    {
+      "countyId" : 410307,
+      "countyText" : "洛龙区"
+    },
+    {
+      "countyId" : 410322,
+      "countyText" : "孟津县"
+    },
+    {
+      "countyId" : 410323,
+      "countyText" : "新安县"
+    },
+    {
+      "countyId" : 410324,
+      "countyText" : "栾川县"
+    },
+    {
+      "countyId" : 410325,
+      "countyText" : "嵩县"
+    },
+    {
+      "countyId" : 410326,
+      "countyText" : "汝阳县"
+    },
+    {
+      "countyId" : 410327,
+      "countyText" : "宜阳县"
+    },
+    {
+      "countyId" : 410328,
+      "countyText" : "洛宁县"
+    },
+    {
+      "countyId" : 410329,
+      "countyText" : "伊川县"
+    },
+    {
+      "countyId" : 410381,
+      "countyText" : "偃师市"
+    }
+  ]
+  } ,{"cid":"4102","area":"开封","county":[
+    {
+      "countyId" : 410202,
+      "countyText" : "龙亭区"
+    },
+    {
+      "countyId" : 410203,
+      "countyText" : "顺河回族区"
+    },
+    {
+      "countyId" : 410204,
+      "countyText" : "鼓楼区"
+    },
+    {
+      "countyId" : 410205,
+      "countyText" : "禹王台区"
+    },
+    {
+      "countyId" : 410211,
+      "countyText" : "金明区"
+    },
+    {
+      "countyId" : 410221,
+      "countyText" : "杞县"
+    },
+    {
+      "countyId" : 410222,
+      "countyText" : "通许县"
+    },
+    {
+      "countyId" : 410223,
+      "countyText" : "尉氏县"
+    },
+    {
+      "countyId" : 410224,
+      "countyText" : "开封县"
+    },
+    {
+      "countyId" : 410225,
+      "countyText" : "兰考县"
+    }
+  ]
+  } ,{"cid":"4104","area":"平顶山","county":[
+    {
+      "countyId" : 410402,
+      "countyText" : "新华区"
+    },
+    {
+      "countyId" : 410403,
+      "countyText" : "卫东区"
+    },
+    {
+      "countyId" : 410404,
+      "countyText" : "石龙区"
+    },
+    {
+      "countyId" : 410411,
+      "countyText" : "湛河区"
+    },
+    {
+      "countyId" : 410421,
+      "countyText" : "宝丰县"
+    },
+    {
+      "countyId" : 410422,
+      "countyText" : "叶县"
+    },
+    {
+      "countyId" : 410423,
+      "countyText" : "鲁山县"
+    },
+    {
+      "countyId" : 410425,
+      "countyText" : "郏县"
+    },
+    {
+      "countyId" : 410481,
+      "countyText" : "舞钢市"
+    },
+    {
+      "countyId" : 410482,
+      "countyText" : "汝州市"
+    }
+  ]
+  } ,{"cid":"4109","area": "濮阳","county":[
+    {
+      "countyId" : 410902,
+      "countyText" : "华龙区"
+    },
+    {
+      "countyId" : 410922,
+      "countyText" : "清丰县"
+    },
+    {
+      "countyId" : 410923,
+      "countyText" : "南乐县"
+    },
+    {
+      "countyId" : 410926,
+      "countyText" : "范县"
+    },
+    {
+      "countyId" : 410927,
+      "countyText" : "台前县"
+    },
+    {
+      "countyId" : 410928,
+      "countyText" : "濮阳县"
+    }
+  ]
+  },{"cid":"4105","area":"安阳","county":[
+    {
+      "countyId" : 410502,
+      "countyText" : "文峰区"
+    },
+    {
+      "countyId" : 410503,
+      "countyText" : "北关区"
+    },
+    {
+      "countyId" : 410505,
+      "countyText" : "殷都区"
+    },
+    {
+      "countyId" : 410506,
+      "countyText" : "龙安区"
+    },
+    {
+      "countyId" : 410522,
+      "countyText" : "安阳县"
+    },
+    {
+      "countyId" : 410523,
+      "countyText" : "汤阴县"
+    },
+    {
+      "countyId" : 410526,
+      "countyText" : "滑县"
+    },
+    {
+      "countyId" : 410527,
+      "countyText" : "内黄县"
+    },
+    {
+      "countyId" : 410581,
+      "countyText" : "林州市"
+    }
+  ]
+  } ,{"cid":"4110","area": "许昌","county":[
+    {
+      "countyId" : 411002,
+      "countyText" : "魏都区"
+    },
+    {
+      "countyId" : 411023,
+      "countyText" : "许昌县"
+    },
+    {
+      "countyId" : 411024,
+      "countyText" : "鄢陵县"
+    },
+    {
+      "countyId" : 411025,
+      "countyText" : "襄城县"
+    },
+    {
+      "countyId" : 411081,
+      "countyText" : "禹州市"
+    },
+    {
+      "countyId" : 411082,
+      "countyText" : "长葛市"
+    }
+  ]
+  },{"cid":"4113","area":  "南阳","county":[
+    {
+      "countyId" : 411302,
+      "countyText" : "宛城区"
+    },
+    {
+      "countyId" : 411303,
+      "countyText" : "卧龙区"
+    },
+    {
+      "countyId" : 411321,
+      "countyText" : "南召县"
+    },
+    {
+      "countyId" : 411322,
+      "countyText" : "方城县"
+    },
+    {
+      "countyId" : 411323,
+      "countyText" : "西峡县"
+    },
+    {
+      "countyId" : 411324,
+      "countyText" : "镇平县"
+    },
+    {
+      "countyId" : 411325,
+      "countyText" : "内乡县"
+    },
+    {
+      "countyId" : 411326,
+      "countyText" : "淅川县"
+    },
+    {
+      "countyId" : 411327,
+      "countyText" : "社旗县"
+    },
+    {
+      "countyId" : 411328,
+      "countyText" : "唐河县"
+    },
+    {
+      "countyId" : 411329,
+      "countyText" : "新野县"
+    },
+    {
+      "countyId" : 411330,
+      "countyText" : "桐柏县"
+    },
+    {
+      "countyId" : 411381,
+      "countyText" : "邓州市"
+    }
+  ]
+  },{"cid":"4115","area":  "信阳","county":[
+    {
+      "countyId" : 411502,
+      "countyText" : "浉河区"
+    },
+    {
+      "countyId" : 411503,
+      "countyText" : "平桥区"
+    },
+    {
+      "countyId" : 411521,
+      "countyText" : "罗山县"
+    },
+    {
+      "countyId" : 411522,
+      "countyText" : "光山县"
+    },
+    {
+      "countyId" : 411523,
+      "countyText" : "新县"
+    },
+    {
+      "countyId" : 411524,
+      "countyText" : "商城县"
+    },
+    {
+      "countyId" : 411525,
+      "countyText" : "固始县"
+    },
+    {
+      "countyId" : 411526,
+      "countyText" : "潢川县"
+    },
+    {
+      "countyId" : 411527,
+      "countyText" : "淮滨县"
+    },
+    {
+      "countyId" : 411528,
+      "countyText" : "息县"
+    }
+  ]
+  },{"cid":"4116","area":  "周口","county":[
+    {
+      "countyId" : 411602,
+      "countyText" : "川汇区"
+    },
+    {
+      "countyId" : 411621,
+      "countyText" : "扶沟县"
+    },
+    {
+      "countyId" : 411622,
+      "countyText" : "西华县"
+    },
+    {
+      "countyId" : 411623,
+      "countyText" : "商水县"
+    },
+    {
+      "countyId" : 411624,
+      "countyText" : "沈丘县"
+    },
+    {
+      "countyId" : 411625,
+      "countyText" : "郸城县"
+    },
+    {
+      "countyId" : 411626,
+      "countyText" : "淮阳县"
+    },
+    {
+      "countyId" : 411627,
+      "countyText" : "太康县"
+    },
+    {
+      "countyId" : 411628,
+      "countyText" : "鹿邑县"
+    },
+    {
+      "countyId" : 411681,
+      "countyText" : "项城市"
+    }
+  ]
+  } ,{"cid":"4107","area":  "新乡","county":[
+    {
+      "countyId" : 410702,
+      "countyText" : "红旗区"
+    },
+    {
+      "countyId" : 410703,
+      "countyText" : "卫滨区"
+    },
+    {
+      "countyId" : 410704,
+      "countyText" : "凤泉区"
+    },
+    {
+      "countyId" : 410711,
+      "countyText" : "牧野区"
+    },
+    {
+      "countyId" : 410721,
+      "countyText" : "新乡县"
+    },
+    {
+      "countyId" : 410724,
+      "countyText" : "获嘉县"
+    },
+    {
+      "countyId" : 410725,
+      "countyText" : "原阳县"
+    },
+    {
+      "countyId" : 410726,
+      "countyText" : "延津县"
+    },
+    {
+      "countyId" : 410727,
+      "countyText" : "封丘县"
+    },
+    {
+      "countyId" : 410728,
+      "countyText" : "长垣县"
+    },
+    {
+      "countyId" : 410781,
+      "countyText" : "卫辉市"
+    },
+    {
+      "countyId" : 410782,
+      "countyText" : "辉县市"
+    }
+  ]
+  } ,{"cid":"4108","area":"焦作","county":[
+    {
+      "countyId" : 410802,
+      "countyText" : "解放区"
+    },
+    {
+      "countyId" : 410803,
+      "countyText" : "中站区"
+    },
+    {
+      "countyId" : 410804,
+      "countyText" : "马村区"
+    },
+    {
+      "countyId" : 410811,
+      "countyText" : "山阳区"
+    },
+    {
+      "countyId" : 410821,
+      "countyText" : "修武县"
+    },
+    {
+      "countyId" : 410822,
+      "countyText" : "博爱县"
+    },
+    {
+      "countyId" : 410823,
+      "countyText" : "武陟县"
+    },
+    {
+      "countyId" : 410825,
+      "countyText" : "温县"
+    },
+    {
+      "countyId" : 410882,
+      "countyText" : "沁阳市"
+    },
+    {
+      "countyId" : 410883,
+      "countyText" : "孟州市"
+    }
+  ]
+  } ,{"cid":"4112","area":"三门峡","county":[
+    {
+      "countyId" : 411202,
+      "countyText" : "湖滨区"
+    },
+    {
+      "countyId" : 411221,
+      "countyText" : "渑池县"
+    },
+    {
+      "countyId" : 411222,
+      "countyText" : "陕县"
+    },
+    {
+      "countyId" : 411224,
+      "countyText" : "卢氏县"
+    },
+    {
+      "countyId" : 411281,
+      "countyText" : "义马市"
+    },
+    {
+      "countyId" : 411282,
+      "countyText" : "灵宝市"
+    }
+  ]
+  } ,{"cid":"4114","area":"商丘","county":[
+    {
+      "countyId" : 411402,
+      "countyText" : "梁园区"
+    },
+    {
+      "countyId" : 411403,
+      "countyText" : "睢阳区"
+    },
+    {
+      "countyId" : 411421,
+      "countyText" : "民权县"
+    },
+    {
+      "countyId" : 411422,
+      "countyText" : "睢县"
+    },
+    {
+      "countyId" : 411423,
+      "countyText" : "宁陵县"
+    },
+    {
+      "countyId" : 411424,
+      "countyText" : "柘城县"
+    },
+    {
+      "countyId" : 411425,
+      "countyText" : "虞城县"
+    },
+    {
+      "countyId" : 411426,
+      "countyText" : "夏邑县"
+    },
+    {
+      "countyId" : 411481,
+      "countyText" : "永城市"
+    }
+  ]
+  } ] },
+  { "id":"42", "name": "湖北省", "cities": [{"cid":"4201","area":"武汉","county":[
+    {
+      "countyId" : 420102,
+      "countyText" : "江岸区"
+    },
+    {
+      "countyId" : 420103,
+      "countyText" : "江汉区"
+    },
+    {
+      "countyId" : 420104,
+      "countyText" : "硚口区"
+    },
+    {
+      "countyId" : 420105,
+      "countyText" : "汉阳区"
+    },
+    {
+      "countyId" : 420106,
+      "countyText" : "武昌区"
+    },
+    {
+      "countyId" : 420107,
+      "countyText" : "青山区"
+    },
+    {
+      "countyId" : 420111,
+      "countyText" : "洪山区"
+    },
+    {
+      "countyId" : 420112,
+      "countyText" : "东西湖区"
+    },
+    {
+      "countyId" : 420113,
+      "countyText" : "汉南区"
+    },
+    {
+      "countyId" : 420114,
+      "countyText" : "蔡甸区"
+    },
+    {
+      "countyId" : 420115,
+      "countyText" : "江夏区"
+    },
+    {
+      "countyId" : 420116,
+      "countyText" : "黄陂区"
+    },
+    {
+      "countyId" : 420117,
+      "countyText" : "新洲区"
+    }
+  ]
+  },{"cid":"4206","area": "襄阳","county":[
+    {
+      "countyId" : 420602,
+      "countyText" : "襄城区"
+    },
+    {
+      "countyId" : 420606,
+      "countyText" : "樊城区"
+    },
+    {
+      "countyId" : 420607,
+      "countyText" : "襄阳区"
+    },
+    {
+      "countyId" : 420624,
+      "countyText" : "南漳县"
+    },
+    {
+      "countyId" : 420625,
+      "countyText" : "谷城县"
+    },
+    {
+      "countyId" : 420626,
+      "countyText" : "保康县"
+    },
+    {
+      "countyId" : 420682,
+      "countyText" : "老河口市"
+    },
+    {
+      "countyId" : 420683,
+      "countyText" : "枣阳市"
+    },
+    {
+      "countyId" : 420684,
+      "countyText" : "宜城市"
+    }
+  ]
+  },{"cid":"4209","area":  "孝感","county":[
+    {
+      "countyId" : 420902,
+      "countyText" : "孝南区"
+    },
+    {
+      "countyId" : 420921,
+      "countyText" : "孝昌县"
+    },
+    {
+      "countyId" : 420922,
+      "countyText" : "大悟县"
+    },
+    {
+      "countyId" : 420923,
+      "countyText" : "云梦县"
+    },
+    {
+      "countyId" : 420981,
+      "countyText" : "应城市"
+    },
+    {
+      "countyId" : 420982,
+      "countyText" : "安陆市"
+    },
+    {
+      "countyId" : 420984,
+      "countyText" : "汉川市"
+    }
+  ]
+  },{"cid":"4203","area":  "十堰","county":[
+    {
+      "countyId" : 420302,
+      "countyText" : "茅箭区"
+    },
+    {
+      "countyId" : 420303,
+      "countyText" : "张湾区"
+    },
+    {
+      "countyId" : 420321,
+      "countyText" : "郧县"
+    },
+    {
+      "countyId" : 420322,
+      "countyText" : "郧西县"
+    },
+    {
+      "countyId" : 420323,
+      "countyText" : "竹山县"
+    },
+    {
+      "countyId" : 420324,
+      "countyText" : "竹溪县"
+    },
+    {
+      "countyId" : 420325,
+      "countyText" : "房县"
+    },
+    {
+      "countyId" : 420381,
+      "countyText" : "丹江口市"
+    }
+  ]
+  },{"cid":"4210","area":  "荆州","county":[
+    {
+      "countyId" : 421002,
+      "countyText" : "沙市区"
+    },
+    {
+      "countyId" : 421003,
+      "countyText" : "荆州区"
+    },
+    {
+      "countyId" : 421022,
+      "countyText" : "公安县"
+    },
+    {
+      "countyId" : 421023,
+      "countyText" : "监利县"
+    },
+    {
+      "countyId" : 421024,
+      "countyText" : "江陵县"
+    },
+    {
+      "countyId" : 421081,
+      "countyText" : "石首市"
+    },
+    {
+      "countyId" : 421083,
+      "countyText" : "洪湖市"
+    },
+    {
+      "countyId" : 421087,
+      "countyText" : "松滋市"
+    }
+  ]
+  } ,{"cid":"4202","area": "黄石","county":[
+    {
+      "countyId" : 420202,
+      "countyText" : "黄石港区"
+    },
+    {
+      "countyId" : 420203,
+      "countyText" : "西塞山区"
+    },
+    {
+      "countyId" : 420204,
+      "countyText" : "下陆区"
+    },
+    {
+      "countyId" : 420205,
+      "countyText" : "铁山区"
+    },
+    {
+      "countyId" : 420222,
+      "countyText" : "阳新县"
+    },
+    {
+      "countyId" : 420281,
+      "countyText" : "大冶市"
+    }
+  ]
+  },{"cid":"4205","area":"宜昌","county":[
+    {
+      "countyId" : 420502,
+      "countyText" : "西陵区"
+    },
+    {
+      "countyId" : 420503,
+      "countyText" : "伍家岗区"
+    },
+    {
+      "countyId" : 420504,
+      "countyText" : "点军区"
+    },
+    {
+      "countyId" : 420505,
+      "countyText" : "猇亭区"
+    },
+    {
+      "countyId" : 420506,
+      "countyText" : "夷陵区"
+    },
+    {
+      "countyId" : 420525,
+      "countyText" : "远安县"
+    },
+    {
+      "countyId" : 420526,
+      "countyText" : "兴山县"
+    },
+    {
+      "countyId" : 420527,
+      "countyText" : "秭归县"
+    },
+    {
+      "countyId" : 420528,
+      "countyText" : "长阳土家族自治县"
+    },
+    {
+      "countyId" : 420529,
+      "countyText" : "五峰土家族自治县"
+    },
+    {
+      "countyId" : 420581,
+      "countyText" : "宜都市"
+    },
+    {
+      "countyId" : 420582,
+      "countyText" : "当阳市"
+    },
+    {
+      "countyId" : 420583,
+      "countyText" : "枝江市"
+    }
+  ]
+  } ,{"cid":"4211","area":"黄冈","county":[
+    {
+      "countyId" : 421102,
+      "countyText" : "黄州区"
+    },
+    {
+      "countyId" : 421121,
+      "countyText" : "团风县"
+    },
+    {
+      "countyId" : 421122,
+      "countyText" : "红安县"
+    },
+    {
+      "countyId" : 421123,
+      "countyText" : "罗田县"
+    },
+    {
+      "countyId" : 421124,
+      "countyText" : "英山县"
+    },
+    {
+      "countyId" : 421125,
+      "countyText" : "浠水县"
+    },
+    {
+      "countyId" : 421126,
+      "countyText" : "蕲春县"
+    },
+    {
+      "countyId" : 421127,
+      "countyText" : "黄梅县"
+    },
+    {
+      "countyId" : 421181,
+      "countyText" : "麻城市"
+    },
+    {
+      "countyId" : 421182,
+      "countyText" : "武穴市"
+    }
+  ]
+  } ,{"cid":"4228","area":"恩施","county":[
+    {
+      "countyId" : 422801,
+      "countyText" : "恩施市"
+    },
+    {
+      "countyId" : 422802,
+      "countyText" : "利川市"
+    },
+    {
+      "countyId" : 422822,
+      "countyText" : "建始县"
+    },
+    {
+      "countyId" : 422823,
+      "countyText" : "巴东县"
+    },
+    {
+      "countyId" : 422825,
+      "countyText" : "宣恩县"
+    },
+    {
+      "countyId" : 422826,
+      "countyText" : "咸丰县"
+    },
+    {
+      "countyId" : 422827,
+      "countyText" : "来凤县"
+    },
+    {
+      "countyId" : 422828,
+      "countyText" : "鹤峰县"
+    }
+  ]
+  } ,{"cid":"4207","area": "鄂州","county":[
+    {
+      "countyId" : 420702,
+      "countyText" : "梁子湖区"
+    },
+    {
+      "countyId" : 420703,
+      "countyText" : "华容区"
+    },
+    {
+      "countyId" : 420704,
+      "countyText" : "鄂城区"
+    }
+  ]
+  },{"cid":"4233","area":  "江汉"},{"cid":"4213","area": "随州","county":[
+    {
+      "countyId" : 421302,
+      "countyText" : "曾都区"
+    },
+    {
+      "countyId" : 421381,
+      "countyText" : "广水市"
+    },
+    {
+      "countyId" : 421321,
+      "countyText" : "随县"
+    }
+  ]
+  } ,{"cid":"4208","area":  "荆门市","county":[
+    {
+      "countyId" : 420802,
+      "countyText" : "东宝区"
+    },
+    {
+      "countyId" : 420804,
+      "countyText" : "掇刀区"
+    },
+    {
+      "countyId" : 420821,
+      "countyText" : "京山县"
+    },
+    {
+      "countyId" : 420822,
+      "countyText" : "沙洋县"
+    },
+    {
+      "countyId" : 420881,
+      "countyText" : "钟祥市"
+    }
+  ]
+  },{"cid":"4212","area":  "咸宁","county":[
+    {
+      "countyId" : 421202,
+      "countyText" : "咸安区"
+    },
+    {
+      "countyId" : 421221,
+      "countyText" : "嘉鱼县"
+    },
+    {
+      "countyId" : 421222,
+      "countyText" : "通城县"
+    },
+    {
+      "countyId" : 421223,
+      "countyText" : "崇阳县"
+    },
+    {
+      "countyId" : 421224,
+      "countyText" : "通山县"
+    },
+    {
+      "countyId" : 421281,
+      "countyText" : "赤壁市"
+    }
+  ]
+  }] },
+  { "id":"43", "name": "湖南省", "cities": [{"cid":"4301","area":"长沙","county":[
+    {
+      "countyId" : 430102,
+      "countyText" : "芙蓉区"
+    },
+    {
+      "countyId" : 430103,
+      "countyText" : "天心区"
+    },
+    {
+      "countyId" : 430104,
+      "countyText" : "岳麓区"
+    },
+    {
+      "countyId" : 430105,
+      "countyText" : "开福区"
+    },
+    {
+      "countyId" : 430111,
+      "countyText" : "雨花区"
+    },
+    {
+      "countyId" : 430121,
+      "countyText" : "长沙县"
+    },
+    {
+      "countyId" : 430122,
+      "countyText" : "望城县"
+    },
+    {
+      "countyId" : 430124,
+      "countyText" : "宁乡县"
+    },
+    {
+      "countyId" : 430181,
+      "countyText" : "浏阳市"
+    }
+  ]
+  },{"cid":"4303","area":"湘潭","county":[
+    {
+      "countyId" : 430302,
+      "countyText" : "雨湖区"
+    },
+    {
+      "countyId" : 430304,
+      "countyText" : "岳塘区"
+    },
+    {
+      "countyId" : 430321,
+      "countyText" : "湘潭县"
+    },
+    {
+      "countyId" : 430381,
+      "countyText" : "湘乡市"
+    },
+    {
+      "countyId" : 430382,
+      "countyText" : "韶山市"
+    }
+  ]
+  } ,{"cid":"4306","area":"岳阳","county":[
+    {
+      "countyId" : 430602,
+      "countyText" : "岳阳楼区"
+    },
+    {
+      "countyId" : 430603,
+      "countyText" : "云溪区"
+    },
+    {
+      "countyId" : 430611,
+      "countyText" : "君山区"
+    },
+    {
+      "countyId" : 430621,
+      "countyText" : "岳阳县"
+    },
+    {
+      "countyId" : 430623,
+      "countyText" : "华容县"
+    },
+    {
+      "countyId" : 430624,
+      "countyText" : "湘阴县"
+    },
+    {
+      "countyId" : 430626,
+      "countyText" : "平江县"
+    },
+    {
+      "countyId" : 430681,
+      "countyText" : "汨罗市"
+    },
+    {
+      "countyId" : 430682,
+      "countyText" : "临湘市"
+    }
+  ]
+  } ,{"cid":"4302","area": "株洲","county":[
+    {
+      "countyId" : 430202,
+      "countyText" : "荷塘区"
+    },
+    {
+      "countyId" : 430203,
+      "countyText" : "芦淞区"
+    },
+    {
+      "countyId" : 430204,
+      "countyText" : "石峰区"
+    },
+    {
+      "countyId" : 430211,
+      "countyText" : "天元区"
+    },
+    {
+      "countyId" : 430221,
+      "countyText" : "株洲县"
+    },
+    {
+      "countyId" : 430223,
+      "countyText" : "攸县"
+    },
+    {
+      "countyId" : 430224,
+      "countyText" : "茶陵县"
+    },
+    {
+      "countyId" : 430225,
+      "countyText" : "炎陵县"
+    },
+    {
+      "countyId" : 430281,
+      "countyText" : "醴陵市"
+    }
+  ]
+  },{"cid":"4312","area":"怀化","county":[
+    {
+      "countyId" : 431202,
+      "countyText" : "鹤城区"
+    },
+    {
+      "countyId" : 431221,
+      "countyText" : "中方县"
+    },
+    {
+      "countyId" : 431222,
+      "countyText" : "沅陵县"
+    },
+    {
+      "countyId" : 431223,
+      "countyText" : "辰溪县"
+    },
+    {
+      "countyId" : 431224,
+      "countyText" : "溆浦县"
+    },
+    {
+      "countyId" : 431225,
+      "countyText" : "会同县"
+    },
+    {
+      "countyId" : 431226,
+      "countyText" : "麻阳苗族自治县"
+    },
+    {
+      "countyId" : 431227,
+      "countyText" : "新晃侗族自治县"
+    },
+    {
+      "countyId" : 431228,
+      "countyText" : "芷江侗族自治县"
+    },
+    {
+      "countyId" : 431229,
+      "countyText" : "靖州苗族侗族自治县"
+    },
+    {
+      "countyId" : 431230,
+      "countyText" : "通道侗族自治县"
+    },
+    {
+      "countyId" : 431281,
+      "countyText" : "洪江市"
+    }
+  ]
+  } ,{"cid":"4311","area": "永州","county":[
+    {
+      "countyId" : 431102,
+      "countyText" : "零陵区"
+    },
+    {
+      "countyId" : 431103,
+      "countyText" : "冷水滩区"
+    },
+    {
+      "countyId" : 431121,
+      "countyText" : "祁阳县"
+    },
+    {
+      "countyId" : 431122,
+      "countyText" : "东安县"
+    },
+    {
+      "countyId" : 431123,
+      "countyText" : "双牌县"
+    },
+    {
+      "countyId" : 431124,
+      "countyText" : "道县"
+    },
+    {
+      "countyId" : 431125,
+      "countyText" : "江永县"
+    },
+    {
+      "countyId" : 431126,
+      "countyText" : "宁远县"
+    },
+    {
+      "countyId" : 431127,
+      "countyText" : "蓝山县"
+    },
+    {
+      "countyId" : 431128,
+      "countyText" : "新田县"
+    },
+    {
+      "countyId" : 431129,
+      "countyText" : "江华瑶族自治县"
+    }
+  ]
+  },{"cid":"4309","area":  "益阳","county":[
+    {
+      "countyId" : 430902,
+      "countyText" : "资阳区"
+    },
+    {
+      "countyId" : 430903,
+      "countyText" : "赫山区"
+    },
+    {
+      "countyId" : 430921,
+      "countyText" : "南县"
+    },
+    {
+      "countyId" : 430922,
+      "countyText" : "桃江县"
+    },
+    {
+      "countyId" : 430923,
+      "countyText" : "安化县"
+    },
+    {
+      "countyId" : 430981,
+      "countyText" : "沅江市"
+    }
+  ]
+  },{"cid":"4308","area":   "张家界","county":[
+    {
+      "countyId" : 430802,
+      "countyText" : "永定区"
+    },
+    {
+      "countyId" : 430811,
+      "countyText" : "武陵源区"
+    },
+    {
+      "countyId" : 430821,
+      "countyText" : "慈利县"
+    },
+    {
+      "countyId" : 430822,
+      "countyText" : "桑植县"
+    }
+  ]
+  },{"cid":"4307","area":  "常德","county":[
+    {
+      "countyId" : 430702,
+      "countyText" : "武陵区"
+    },
+    {
+      "countyId" : 430703,
+      "countyText" : "鼎城区"
+    },
+    {
+      "countyId" : 430721,
+      "countyText" : "安乡县"
+    },
+    {
+      "countyId" : 430722,
+      "countyText" : "汉寿县"
+    },
+    {
+      "countyId" : 430723,
+      "countyText" : "澧县"
+    },
+    {
+      "countyId" : 430724,
+      "countyText" : "临澧县"
+    },
+    {
+      "countyId" : 430725,
+      "countyText" : "桃源县"
+    },
+    {
+      "countyId" : 430726,
+      "countyText" : "石门县"
+    },
+    {
+      "countyId" : 430781,
+      "countyText" : "津市市"
+    }
+  ]
+  },{"cid":"4304","area":  "衡阳","county":[
+    {
+      "countyId" : 430405,
+      "countyText" : "珠晖区"
+    },
+    {
+      "countyId" : 430406,
+      "countyText" : "雁峰区"
+    },
+    {
+      "countyId" : 430407,
+      "countyText" : "石鼓区"
+    },
+    {
+      "countyId" : 430408,
+      "countyText" : "蒸湘区"
+    },
+    {
+      "countyId" : 430412,
+      "countyText" : "南岳区"
+    },
+    {
+      "countyId" : 430421,
+      "countyText" : "衡阳县"
+    },
+    {
+      "countyId" : 430422,
+      "countyText" : "衡南县"
+    },
+    {
+      "countyId" : 430423,
+      "countyText" : "衡山县"
+    },
+    {
+      "countyId" : 430424,
+      "countyText" : "衡东县"
+    },
+    {
+      "countyId" : 430426,
+      "countyText" : "祁东县"
+    },
+    {
+      "countyId" : 430481,
+      "countyText" : "耒阳市"
+    },
+    {
+      "countyId" : 430482,
+      "countyText" : "常宁市"
+    }
+  ]
+  },{"cid":"4331","area": "湘西","county":[
+    {
+      "countyId" : 433101,
+      "countyText" : "吉首市"
+    },
+    {
+      "countyId" : 433122,
+      "countyText" : "泸溪县"
+    },
+    {
+      "countyId" : 433123,
+      "countyText" : "凤凰县"
+    },
+    {
+      "countyId" : 433124,
+      "countyText" : "花垣县"
+    },
+    {
+      "countyId" : 433125,
+      "countyText" : "保靖县"
+    },
+    {
+      "countyId" : 433126,
+      "countyText" : "古丈县"
+    },
+    {
+      "countyId" : 433127,
+      "countyText" : "永顺县"
+    },
+    {
+      "countyId" : 433130,
+      "countyText" : "龙山县"
+    }
+  ]
+  },{"cid":"4305","area": "邵阳","county":[
+    {
+      "countyId" : 430502,
+      "countyText" : "双清区"
+    },
+    {
+      "countyId" : 430503,
+      "countyText" : "大祥区"
+    },
+    {
+      "countyId" : 430511,
+      "countyText" : "北塔区"
+    },
+    {
+      "countyId" : 430521,
+      "countyText" : "邵东县"
+    },
+    {
+      "countyId" : 430522,
+      "countyText" : "新邵县"
+    },
+    {
+      "countyId" : 430523,
+      "countyText" : "邵阳县"
+    },
+    {
+      "countyId" : 430524,
+      "countyText" : "隆回县"
+    },
+    {
+      "countyId" : 430525,
+      "countyText" : "洞口县"
+    },
+    {
+      "countyId" : 430527,
+      "countyText" : "绥宁县"
+    },
+    {
+      "countyId" : 430528,
+      "countyText" : "新宁县"
+    },
+    {
+      "countyId" : 430529,
+      "countyText" : "城步苗族自治县"
+    },
+    {
+      "countyId" : 430581,
+      "countyText" : "武冈市"
+    }
+  ]
+  } ,{"cid":"4313","area": "娄底","county":[
+    {
+      "countyId" : 431302,
+      "countyText" : "娄星区"
+    },
+    {
+      "countyId" : 431321,
+      "countyText" : "双峰县"
+    },
+    {
+      "countyId" : 431322,
+      "countyText" : "新化县"
+    },
+    {
+      "countyId" : 431381,
+      "countyText" : "冷水江市"
+    },
+    {
+      "countyId" : 431382,
+      "countyText" : "涟源市"
+    }
+  ]
+  },{"cid":"4310","area":  "郴州","county":[
+    {
+      "countyId" : 431002,
+      "countyText" : "北湖区"
+    },
+    {
+      "countyId" : 431003,
+      "countyText" : "苏仙区"
+    },
+    {
+      "countyId" : 431021,
+      "countyText" : "桂阳县"
+    },
+    {
+      "countyId" : 431022,
+      "countyText" : "宜章县"
+    },
+    {
+      "countyId" : 431023,
+      "countyText" : "永兴县"
+    },
+    {
+      "countyId" : 431024,
+      "countyText" : "嘉禾县"
+    },
+    {
+      "countyId" : 431025,
+      "countyText" : "临武县"
+    },
+    {
+      "countyId" : 431026,
+      "countyText" : "汝城县"
+    },
+    {
+      "countyId" : 431027,
+      "countyText" : "桂东县"
+    },
+    {
+      "countyId" : 431028,
+      "countyText" : "安仁县"
+    },
+    {
+      "countyId" : 431081,
+      "countyText" : "资兴市"
+    }
+  ]
+  }] },
+  {  "id":"44","name": "广东省", "cities": [{"cid":"4401","area":"广州","county":[
+    {
+      "countyId" : 440103,
+      "countyText" : "荔湾区"
+    },
+    {
+      "countyId" : 440104,
+      "countyText" : "越秀区"
+    },
+    {
+      "countyId" : 440105,
+      "countyText" : "海珠区"
+    },
+    {
+      "countyId" : 440106,
+      "countyText" : "天河区"
+    },
+    {
+      "countyId" : 440111,
+      "countyText" : "白云区"
+    },
+    {
+      "countyId" : 440112,
+      "countyText" : "黄埔区"
+    },
+    {
+      "countyId" : 440113,
+      "countyText" : "番禺区"
+    },
+    {
+      "countyId" : 440114,
+      "countyText" : "花都区"
+    },
+    {
+      "countyId" : 440115,
+      "countyText" : "南沙区"
+    },
+    {
+      "countyId" : 440116,
+      "countyText" : "萝岗区"
+    },
+    {
+      "countyId" : 440183,
+      "countyText" : "增城市"
+    },
+    {
+      "countyId" : 440184,
+      "countyText" : "从化市"
+    }
+  ]
+  },{"cid":"4403","area": "深圳","county":[
+    {
+      "countyId" : 440303,
+      "countyText" : "罗湖区"
+    },
+    {
+      "countyId" : 440304,
+      "countyText" : "福田区"
+    },
+    {
+      "countyId" : 440305,
+      "countyText" : "南山区"
+    },
+    {
+      "countyId" : 440306,
+      "countyText" : "宝安区"
+    },
+    {
+      "countyId" : 440307,
+      "countyText" : "龙岗区"
+    },
+    {
+      "countyId" : 440308,
+      "countyText" : "盐田区"
+    }
+  ]
+  },{"cid":"4419","area": "东莞","county":[
+    {
+      "countyId" : 441900,
+      "countyText" : "东莞市"
+    }
+  ]
+  },{"cid":"4406","area":   "佛山","county":[
+    {
+      "countyId" : 440604,
+      "countyText" : "禅城区"
+    },
+    {
+      "countyId" : 440605,
+      "countyText" : "南海区"
+    },
+    {
+      "countyId" : 440606,
+      "countyText" : "顺德区"
+    },
+    {
+      "countyId" : 440607,
+      "countyText" : "三水区"
+    },
+    {
+      "countyId" : 440608,
+      "countyText" : "高明区"
+    }
+  ]
+  },{"cid":"4404","area":  "珠海","county":[
+    {
+      "countyId" : 440402,
+      "countyText" : "香洲区"
+    },
+    {
+      "countyId" : 440403,
+      "countyText" : "斗门区"
+    },
+    {
+      "countyId" : 440404,
+      "countyText" : "金湾区"
+    }
+  ]
+  },{"cid":"4405","area":"汕头","county":[
+    {
+      "countyId" : 440507,
+      "countyText" : "龙湖区"
+    },
+    {
+      "countyId" : 440511,
+      "countyText" : "金平区"
+    },
+    {
+      "countyId" : 440512,
+      "countyText" : "濠江区"
+    },
+    {
+      "countyId" : 440513,
+      "countyText" : "潮阳区"
+    },
+    {
+      "countyId" : 440514,
+      "countyText" : "潮南区"
+    },
+    {
+      "countyId" : 440515,
+      "countyText" : "澄海区"
+    },
+    {
+      "countyId" : 440523,
+      "countyText" : "南澳县"
+    }
+  ]
+  },{"cid":"4402","area": "韶关","county":[
+    {
+      "countyId" : 440203,
+      "countyText" : "武江区"
+    },
+    {
+      "countyId" : 440204,
+      "countyText" : "浈江区"
+    },
+    {
+      "countyId" : 440205,
+      "countyText" : "曲江区"
+    },
+    {
+      "countyId" : 440222,
+      "countyText" : "始兴县"
+    },
+    {
+      "countyId" : 440224,
+      "countyText" : "仁化县"
+    },
+    {
+      "countyId" : 440229,
+      "countyText" : "翁源县"
+    },
+    {
+      "countyId" : 440232,
+      "countyText" : "乳源瑶族自治县"
+    },
+    {
+      "countyId" : 440233,
+      "countyText" : "新丰县"
+    },
+    {
+      "countyId" : 440281,
+      "countyText" : "乐昌市"
+    },
+    {
+      "countyId" : 440282,
+      "countyText" : "南雄市"
+    }
+  ]
+  },{"cid":"4407","area": "江门","county":[
+    {
+      "countyId" : 440703,
+      "countyText" : "蓬江区"
+    },
+    {
+      "countyId" : 440704,
+      "countyText" : "江海区"
+    },
+    {
+      "countyId" : 440705,
+      "countyText" : "新会区"
+    },
+    {
+      "countyId" : 440781,
+      "countyText" : "台山市"
+    },
+    {
+      "countyId" : 440783,
+      "countyText" : "开平市"
+    },
+    {
+      "countyId" : 440784,
+      "countyText" : "鹤山市"
+    },
+    {
+      "countyId" : 440785,
+      "countyText" : "恩平市"
+    }
+  ]
+  },{"cid":"4414","area":  "梅州","county":[
+    {
+      "countyId" : 441402,
+      "countyText" : "梅江区"
+    },
+    {
+      "countyId" : 441421,
+      "countyText" : "梅县"
+    },
+    {
+      "countyId" : 441422,
+      "countyText" : "大埔县"
+    },
+    {
+      "countyId" : 441423,
+      "countyText" : "丰顺县"
+    },
+    {
+      "countyId" : 441424,
+      "countyText" : "五华县"
+    },
+    {
+      "countyId" : 441426,
+      "countyText" : "平远县"
+    },
+    {
+      "countyId" : 441427,
+      "countyText" : "蕉岭县"
+    },
+    {
+      "countyId" : 441481,
+      "countyText" : "兴宁市"
+    }
+  ]
+  },{"cid":"4452","area": "揭阳","county":[
+    {
+      "countyId" : 445202,
+      "countyText" : "榕城区"
+    },
+    {
+      "countyId" : 445221,
+      "countyText" : "揭东县"
+    },
+    {
+      "countyId" : 445222,
+      "countyText" : "揭西县"
+    },
+    {
+      "countyId" : 445224,
+      "countyText" : "惠来县"
+    },
+    {
+      "countyId" : 445281,
+      "countyText" : "普宁市"
+    }
+  ]
+  },{"cid":"4420","area": "中山","county":[
+    {
+      "countyId" : 442000,
+      "countyText" : "中山市"
+    }
+  ]
+  },{"cid":"4416","area":  "河源","county":[
+    {
+      "countyId" : 441602,
+      "countyText" : "源城区"
+    },
+    {
+      "countyId" : 441621,
+      "countyText" : "紫金县"
+    },
+    {
+      "countyId" : 441622,
+      "countyText" : "龙川县"
+    },
+    {
+      "countyId" : 441623,
+      "countyText" : "连平县"
+    },
+    {
+      "countyId" : 441624,
+      "countyText" : "和平县"
+    },
+    {
+      "countyId" : 441625,
+      "countyText" : "东源县"
+    }
+  ]
+  },{"cid":"4413","area":  "惠州","county":[
+    {
+      "countyId" : 441302,
+      "countyText" : "惠城区"
+    },
+    {
+      "countyId" : 441303,
+      "countyText" : "惠阳区"
+    },
+    {
+      "countyId" : 441322,
+      "countyText" : "博罗县"
+    },
+    {
+      "countyId" : 441323,
+      "countyText" : "惠东县"
+    },
+    {
+      "countyId" : 441324,
+      "countyText" : "龙门县"
+    }
+  ]
+  },{"cid":"4409","area": "茂名","county":[
+    {
+      "countyId" : 440902,
+      "countyText" : "茂南区"
+    },
+    {
+      "countyId" : 440903,
+      "countyText" : "茂港区"
+    },
+    {
+      "countyId" : 440923,
+      "countyText" : "电白县"
+    },
+    {
+      "countyId" : 440981,
+      "countyText" : "高州市"
+    },
+    {
+      "countyId" : 440982,
+      "countyText" : "化州市"
+    },
+    {
+      "countyId" : 440983,
+      "countyText" : "信宜市"
+    }
+  ]
+  },{"cid":"4408","area": "湛江","county":[
+    {
+      "countyId" : 440802,
+      "countyText" : "赤坎区"
+    },
+    {
+      "countyId" : 440803,
+      "countyText" : "霞山区"
+    },
+    {
+      "countyId" : 440804,
+      "countyText" : "坡头区"
+    },
+    {
+      "countyId" : 440811,
+      "countyText" : "麻章区"
+    },
+    {
+      "countyId" : 440823,
+      "countyText" : "遂溪县"
+    },
+    {
+      "countyId" : 440825,
+      "countyText" : "徐闻县"
+    },
+    {
+      "countyId" : 440881,
+      "countyText" : "廉江市"
+    },
+    {
+      "countyId" : 440882,
+      "countyText" : "雷州市"
+    },
+    {
+      "countyId" : 440883,
+      "countyText" : "吴川市"
+    }
+  ]
+  },{"cid":"4417","area":"阳江","county":[
+    {
+      "countyId" : 441702,
+      "countyText" : "江城区"
+    },
+    {
+      "countyId" : 441721,
+      "countyText" : "阳西县"
+    },
+    {
+      "countyId" : 441723,
+      "countyText" : "阳东县"
+    },
+    {
+      "countyId" : 441781,
+      "countyText" : "阳春市"
+    }
+  ]
+  } ,{"cid":"4451","area":"潮州","county":[
+    {
+      "countyId" : 445102,
+      "countyText" : "湘桥区"
+    },
+    {
+      "countyId" : 445121,
+      "countyText" : "潮安县"
+    },
+    {
+      "countyId" : 445122,
+      "countyText" : "饶平县"
+    }
+  ]
+  } ,{"cid":"4453","area": "云浮","county":[
+    {
+      "countyId" : 445302,
+      "countyText" : "云城区"
+    },
+    {
+      "countyId" : 445321,
+      "countyText" : "新兴县"
+    },
+    {
+      "countyId" : 445322,
+      "countyText" : "郁南县"
+    },
+    {
+      "countyId" : 445323,
+      "countyText" : "云安县"
+    },
+    {
+      "countyId" : 445381,
+      "countyText" : "罗定市"
+    }
+  ]
+  },{"cid":"4415","area": "汕尾","county":[
+    {
+      "countyId" : 441502,
+      "countyText" : "城区"
+    },
+    {
+      "countyId" : 441521,
+      "countyText" : "海丰县"
+    },
+    {
+      "countyId" : 441523,
+      "countyText" : "陆河县"
+    },
+    {
+      "countyId" : 441581,
+      "countyText" : "陆丰市"
+    }
+  ]
+  } ,{"cid":"4451","area":"潮州","county":[
+    {
+      "countyId" : 445102,
+      "countyText" : "湘桥区"
+    },
+    {
+      "countyId" : 445121,
+      "countyText" : "潮安县"
+    },
+    {
+      "countyId" : 445122,
+      "countyText" : "饶平县"
+    }
+  ]
+  },{"cid":"4412","area": "肇庆","county":[
+    {
+      "countyId" : 441202,
+      "countyText" : "端州区"
+    },
+    {
+      "countyId" : 441203,
+      "countyText" : "鼎湖区"
+    },
+    {
+      "countyId" : 441223,
+      "countyText" : "广宁县"
+    },
+    {
+      "countyId" : 441224,
+      "countyText" : "怀集县"
+    },
+    {
+      "countyId" : 441225,
+      "countyText" : "封开县"
+    },
+    {
+      "countyId" : 441226,
+      "countyText" : "德庆县"
+    },
+    {
+      "countyId" : 441283,
+      "countyText" : "高要市"
+    },
+    {
+      "countyId" : 441284,
+      "countyText" : "四会市"
+    }
+  ]
+  },{"cid":"4418","area":  "清远","county":[
+    {
+      "countyId" : 441802,
+      "countyText" : "清城区"
+    },
+    {
+      "countyId" : 441821,
+      "countyText" : "佛冈县"
+    },
+    {
+      "countyId" : 441823,
+      "countyText" : "阳山县"
+    },
+    {
+      "countyId" : 441825,
+      "countyText" : "连山壮族瑶族自治县"
+    },
+    {
+      "countyId" : 441826,
+      "countyText" : "连南瑶族自治县"
+    },
+    {
+      "countyId" : 441827,
+      "countyText" : "清新县"
+    },
+    {
+      "countyId" : 441881,
+      "countyText" : "英德市"
+    },
+    {
+      "countyId" : 441882,
+      "countyText" : "连州市"
+    }
+  ]
+  } ] },
+  { "id":"45","name": "广西壮族自治区", "cities": [{"cid":"4501","area":"南宁","coutny":[
+    {
+      "countyId" : 450102,
+      "countyText" : "兴宁区"
+    },
+    {
+      "countyId" : 450103,
+      "countyText" : "青秀区"
+    },
+    {
+      "countyId" : 450105,
+      "countyText" : "江南区"
+    },
+    {
+      "countyId" : 450107,
+      "countyText" : "西乡塘区"
+    },
+    {
+      "countyId" : 450108,
+      "countyText" : "良庆区"
+    },
+    {
+      "countyId" : 450109,
+      "countyText" : "邕宁区"
+    },
+    {
+      "countyId" : 450122,
+      "countyText" : "武鸣县"
+    },
+    {
+      "countyId" : 450123,
+      "countyText" : "隆安县"
+    },
+    {
+      "countyId" : 450124,
+      "countyText" : "马山县"
+    },
+    {
+      "countyId" : 450125,
+      "countyText" : "上林县"
+    },
+    {
+      "countyId" : 450126,
+      "countyText" : "宾阳县"
+    },
+    {
+      "countyId" : 450127,
+      "countyText" : "横县"
+    }
+  ]
+  },{"cid":"4503","area": "桂林","coutny":[
+    {
+      "countyId" : 450302,
+      "countyText" : "秀峰区"
+    },
+    {
+      "countyId" : 450303,
+      "countyText" : "叠彩区"
+    },
+    {
+      "countyId" : 450304,
+      "countyText" : "象山区"
+    },
+    {
+      "countyId" : 450305,
+      "countyText" : "七星区"
+    },
+    {
+      "countyId" : 450311,
+      "countyText" : "雁山区"
+    },
+    {
+      "countyId" : 450321,
+      "countyText" : "阳朔县"
+    },
+    {
+      "countyId" : 450322,
+      "countyText" : "临桂县"
+    },
+    {
+      "countyId" : 450323,
+      "countyText" : "灵川县"
+    },
+    {
+      "countyId" : 450324,
+      "countyText" : "全州县"
+    },
+    {
+      "countyId" : 450325,
+      "countyText" : "兴安县"
+    },
+    {
+      "countyId" : 450326,
+      "countyText" : "永福县"
+    },
+    {
+      "countyId" : 450327,
+      "countyText" : "灌阳县"
+    },
+    {
+      "countyId" : 450328,
+      "countyText" : "龙胜各族自治县"
+    },
+    {
+      "countyId" : 450329,
+      "countyText" : "资源县"
+    },
+    {
+      "countyId" : 450330,
+      "countyText" : "平乐县"
+    },
+    {
+      "countyId" : 450331,
+      "countyText" : "荔蒲县"
+    },
+    {
+      "countyId" : 450332,
+      "countyText" : "恭城瑶族自治县"
+    }
+  ]
+  },{"cid":"4502","area":"柳州","coutny":[
+    {
+      "countyId" : 450202,
+      "countyText" : "城中区"
+    },
+    {
+      "countyId" : 450203,
+      "countyText" : "鱼峰区"
+    },
+    {
+      "countyId" : 450204,
+      "countyText" : "柳南区"
+    },
+    {
+      "countyId" : 450205,
+      "countyText" : "柳北区"
+    },
+    {
+      "countyId" : 450221,
+      "countyText" : "柳江县"
+    },
+    {
+      "countyId" : 450222,
+      "countyText" : "柳城县"
+    },
+    {
+      "countyId" : 450223,
+      "countyText" : "鹿寨县"
+    },
+    {
+      "countyId" : 450224,
+      "countyText" : "融安县"
+    },
+    {
+      "countyId" : 450225,
+      "countyText" : "融水苗族自治县"
+    },
+    {
+      "countyId" : 450226,
+      "countyText" : "三江侗族自治县"
+    }
+  ]
+  } ,{"cid":"4504","area": "梧州","coutny":[
+    {
+      "countyId" : 450403,
+      "countyText" : "万秀区"
+    },
+    {
+      "countyId" : 450404,
+      "countyText" : "蝶山区"
+    },
+    {
+      "countyId" : 450405,
+      "countyText" : "长洲区"
+    },
+    {
+      "countyId" : 450421,
+      "countyText" : "苍梧县"
+    },
+    {
+      "countyId" : 450422,
+      "countyText" : "藤县"
+    },
+    {
+      "countyId" : 450423,
+      "countyText" : "蒙山县"
+    },
+    {
+      "countyId" : 450481,
+      "countyText" : "岑溪市"
+    }
+  ]
+  },{"cid":"4513","area":  "来宾","coutny":[
+    {
+      "countyId" : 451302,
+      "countyText" : "兴宾区"
+    },
+    {
+      "countyId" : 451321,
+      "countyText" : "忻城县"
+    },
+    {
+      "countyId" : 451322,
+      "countyText" : "象州县"
+    },
+    {
+      "countyId" : 451323,
+      "countyText" : "武宣县"
+    },
+    {
+      "countyId" : 451324,
+      "countyText" : "金秀瑶族自治县"
+    },
+    {
+      "countyId" : 451381,
+      "countyText" : "合山市"
+    }
+  ]
+  },{"cid":"4508","area": "贵港","coutny":[
+    {
+      "countyId" : 450802,
+      "countyText" : "港北区"
+    },
+    {
+      "countyId" : 450803,
+      "countyText" : "港南区"
+    },
+    {
+      "countyId" : 450804,
+      "countyText" : "覃塘区"
+    },
+    {
+      "countyId" : 450821,
+      "countyText" : "平南县"
+    },
+    {
+      "countyId" : 450881,
+      "countyText" : "桂平市"
+    }
+  ]
+  },{"cid":"4509","area":  "玉林","coutny":[
+    {
+      "countyId" : 450902,
+      "countyText" : "玉州区"
+    },
+    {
+      "countyId" : 450921,
+      "countyText" : "容县"
+    },
+    {
+      "countyId" : 450922,
+      "countyText" : "陆川县"
+    },
+    {
+      "countyId" : 450923,
+      "countyText" : "博白县"
+    },
+    {
+      "countyId" : 450924,
+      "countyText" : "兴业县"
+    },
+    {
+      "countyId" : 450981,
+      "countyText" : "北流市"
+    }
+  ]
+  },{"cid":"4511","area":"贺州","coutny":[
+    {
+      "countyId" : 451102,
+      "countyText" : "八步区"
+    },
+    {
+      "countyId" : 451121,
+      "countyText" : "昭平县"
+    },
+    {
+      "countyId" : 451122,
+      "countyText" : "钟山县"
+    },
+    {
+      "countyId" : 451123,
+      "countyText" : "富川瑶族自治县"
+    }
+  ]
+  }] },
+  {"id":"46", "name": "海南省", "cities": [{"cid":"4601","area":"海口","county":[
+    {
+      "countyId" : 460105,
+      "countyText" : "秀英区"
+    },
+    {
+      "countyId" : 460106,
+      "countyText" : "龙华区"
+    },
+    {
+      "countyId" : 460107,
+      "countyText" : "琼山区"
+    },
+    {
+      "countyId" : 460108,
+      "countyText" : "美兰区"
+    }
+  ]
+  },{"cid":"4602","area": "三亚","county":[
+    {
+      "countyId" : 460200,
+      "countyText" : "三亚市"
+    }
+  ]
+  }] },
+  {"id":"50", "name": "重庆市", "cities": [{"cid":"5003","area":"渝中"},{"cid":"5004","area": "大渡口"},{"cid":"5005","area":  "江北"},{"cid":"5006","area": "沙坪坝"} ,{"cid":"5006","area": "九龙坡"},{"cid":"5008","area": "南岸"},{"cid":"5009","area": "北碚"},{"cid":"5010","area":  "万盛"},{"cid":"5011","area":  "双桥"},{"cid":"5012","area": "渝北"},{"cid":"5013","area":"巴南"} ,{"cid":"5001","area": "万州"},{"cid":"5002","area":"涪陵"} ,{"cid":"5014","area": "黔江"},{"cid":"5015","area": "长寿"}] },
+  {"id":"51", "name": "四川省", "cities": [{"cid":"5101","area":"成都","county":[
+    {
+      "countyId" : 510104,
+      "countyText" : "锦江区"
+    },
+    {
+      "countyId" : 510105,
+      "countyText" : "青羊区"
+    },
+    {
+      "countyId" : 510106,
+      "countyText" : "金牛区"
+    },
+    {
+      "countyId" : 510107,
+      "countyText" : "武侯区"
+    },
+    {
+      "countyId" : 510108,
+      "countyText" : "成华区"
+    },
+    {
+      "countyId" : 510112,
+      "countyText" : "龙泉驿区"
+    },
+    {
+      "countyId" : 510113,
+      "countyText" : "青白江区"
+    },
+    {
+      "countyId" : 510114,
+      "countyText" : "新都区"
+    },
+    {
+      "countyId" : 510115,
+      "countyText" : "温江区"
+    },
+    {
+      "countyId" : 510121,
+      "countyText" : "金堂县"
+    },
+    {
+      "countyId" : 510122,
+      "countyText" : "双流县"
+    },
+    {
+      "countyId" : 510124,
+      "countyText" : "郫县"
+    },
+    {
+      "countyId" : 510129,
+      "countyText" : "大邑县"
+    },
+    {
+      "countyId" : 510131,
+      "countyText" : "蒲江县"
+    },
+    {
+      "countyId" : 510132,
+      "countyText" : "新津县"
+    },
+    {
+      "countyId" : 510181,
+      "countyText" : "都江堰市"
+    },
+    {
+      "countyId" : 510182,
+      "countyText" : "彭州市"
+    },
+    {
+      "countyId" : 510183,
+      "countyText" : "邛崃市"
+    },
+    {
+      "countyId" : 510184,
+      "countyText" : "崇州市"
+    }
+  ]
+  },{"cid":"5117","area": "达州","county":[
+    {
+      "countyId" : 511702,
+      "countyText" : "通川区"
+    },
+    {
+      "countyId" : 511721,
+      "countyText" : "达县"
+    },
+    {
+      "countyId" : 511722,
+      "countyText" : "宣汉县"
+    },
+    {
+      "countyId" : 511723,
+      "countyText" : "开江县"
+    },
+    {
+      "countyId" : 511724,
+      "countyText" : "大竹县"
+    },
+    {
+      "countyId" : 511725,
+      "countyText" : "渠县"
+    },
+    {
+      "countyId" : 511781,
+      "countyText" : "万源市"
+    }
+  ]
+  },{"cid":"5113","area": "南充","county":[
+    {
+      "countyId" : 511302,
+      "countyText" : "顺庆区"
+    },
+    {
+      "countyId" : 511303,
+      "countyText" : "高坪区"
+    },
+    {
+      "countyId" : 511304,
+      "countyText" : "嘉陵区"
+    },
+    {
+      "countyId" : 511321,
+      "countyText" : "南部县"
+    },
+    {
+      "countyId" : 511322,
+      "countyText" : "营山县"
+    },
+    {
+      "countyId" : 511323,
+      "countyText" : "蓬安县"
+    },
+    {
+      "countyId" : 511324,
+      "countyText" : "仪陇县"
+    },
+    {
+      "countyId" : 511325,
+      "countyText" : "西充县"
+    },
+    {
+      "countyId" : 511381,
+      "countyText" : "阆中市"
+    }
+  ]
+  },{"cid":"5111","area": "乐山","county":[
+    {
+      "countyId" : 511102,
+      "countyText" : "市中区"
+    },
+    {
+      "countyId" : 511111,
+      "countyText" : "沙湾区"
+    },
+    {
+      "countyId" : 511112,
+      "countyText" : "五通桥区"
+    },
+    {
+      "countyId" : 511113,
+      "countyText" : "金口河区"
+    },
+    {
+      "countyId" : 511123,
+      "countyText" : "犍为县"
+    },
+    {
+      "countyId" : 511124,
+      "countyText" : "井研县"
+    },
+    {
+      "countyId" : 511126,
+      "countyText" : "夹江县"
+    },
+    {
+      "countyId" : 511129,
+      "countyText" : "沐川县"
+    },
+    {
+      "countyId" : 511132,
+      "countyText" : "峨边彝族自治县"
+    },
+    {
+      "countyId" : 511133,
+      "countyText" : "马边彝族自治县"
+    },
+    {
+      "countyId" : 511181,
+      "countyText" : "峨眉山市"
+    }
+  ]
+  },{"cid":"5107","area": "绵阳","county":[
+    {
+      "countyId" : 510703,
+      "countyText" : "涪城区"
+    },
+    {
+      "countyId" : 510704,
+      "countyText" : "游仙区"
+    },
+    {
+      "countyId" : 510722,
+      "countyText" : "三台县"
+    },
+    {
+      "countyId" : 510723,
+      "countyText" : "盐亭县"
+    },
+    {
+      "countyId" : 510724,
+      "countyText" : "安县"
+    },
+    {
+      "countyId" : 510725,
+      "countyText" : "梓潼县"
+    },
+    {
+      "countyId" : 510726,
+      "countyText" : "北川羌族自治县"
+    },
+    {
+      "countyId" : 510727,
+      "countyText" : "平武县"
+    },
+    {
+      "countyId" : 510781,
+      "countyText" : "江油市"
+    }
+  ]
+  },{"cid":"5106","area":  "德阳","county":[
+    {
+      "countyId" : 510603,
+      "countyText" : "旌阳区"
+    },
+    {
+      "countyId" : 510623,
+      "countyText" : "中江县"
+    },
+    {
+      "countyId" : 510626,
+      "countyText" : "罗江县"
+    },
+    {
+      "countyId" : 510681,
+      "countyText" : "广汉市"
+    },
+    {
+      "countyId" : 510682,
+      "countyText" : "什邡市"
+    },
+    {
+      "countyId" : 510683,
+      "countyText" : "绵竹市"
+    }
+  ]
+  },{"cid":"5110","area": "内江","county":[
+    {
+      "countyId" : 511002,
+      "countyText" : "市中区"
+    },
+    {
+      "countyId" : 511011,
+      "countyText" : "东兴区"
+    },
+    {
+      "countyId" : 511024,
+      "countyText" : "威远县"
+    },
+    {
+      "countyId" : 511025,
+      "countyText" : "资中县"
+    },
+    {
+      "countyId" : 511028,
+      "countyText" : "隆昌县"
+    }
+  ]
+  },{"cid":"5109","area":  "遂宁","county":[
+    {
+      "countyId" : 510903,
+      "countyText" : "船山区"
+    },
+    {
+      "countyId" : 510904,
+      "countyText" : "安居区"
+    },
+    {
+      "countyId" : 510921,
+      "countyText" : "蓬溪县"
+    },
+    {
+      "countyId" : 510922,
+      "countyText" : "射洪县"
+    },
+    {
+      "countyId" : 510923,
+      "countyText" : "大英县"
+    }
+  ]
+  },{"cid":"5115","area": "宜宾","county":[
+    {
+      "countyId" : 511502,
+      "countyText" : "翠屏区"
+    },
+    {
+      "countyId" : 511521,
+      "countyText" : "宜宾县"
+    },
+    {
+      "countyId" : 511522,
+      "countyText" : "南溪县"
+    },
+    {
+      "countyId" : 511523,
+      "countyText" : "江安县"
+    },
+    {
+      "countyId" : 511524,
+      "countyText" : "长宁县"
+    },
+    {
+      "countyId" : 511525,
+      "countyText" : "高县"
+    },
+    {
+      "countyId" : 511526,
+      "countyText" : "珙县"
+    },
+    {
+      "countyId" : 511527,
+      "countyText" : "筠连县"
+    },
+    {
+      "countyId" : 511528,
+      "countyText" : "兴文县"
+    },
+    {
+      "countyId" : 511529,
+      "countyText" : "屏山县"
+    }
+  ]
+  },{"cid":"5119","area": "巴中","county":[
+    {
+      "countyId" : 511902,
+      "countyText" : "巴州区"
+    },
+    {
+      "countyId" : 511921,
+      "countyText" : "通江县"
+    },
+    {
+      "countyId" : 511922,
+      "countyText" : "南江县"
+    },
+    {
+      "countyId" : 511923,
+      "countyText" : "平昌县"
+    }
+  ]
+  },{"cid":"5103","area": "自贡","county":[
+    {
+      "countyId" : 510302,
+      "countyText" : "自流井区"
+    },
+    {
+      "countyId" : 510303,
+      "countyText" : "贡井区"
+    },
+    {
+      "countyId" : 510304,
+      "countyText" : "大安区"
+    },
+    {
+      "countyId" : 510311,
+      "countyText" : "沿滩区"
+    },
+    {
+      "countyId" : 510321,
+      "countyText" : "荣县"
+    },
+    {
+      "countyId" : 510322,
+      "countyText" : "富顺县"
+    }
+  ]
+  },{"cid":"5104","area":"攀枝花","county":[
+    {
+      "countyId" : 510402,
+      "countyText" : "东区"
+    },
+    {
+      "countyId" : 510403,
+      "countyText" : "西区"
+    },
+    {
+      "countyId" : 510411,
+      "countyText" : "仁和区"
+    },
+    {
+      "countyId" : 510421,
+      "countyText" : "米易县"
+    },
+    {
+      "countyId" : 510422,
+      "countyText" : "盐边县"
+    }
+  ]
+  }] },
+  {"id":"52", "name": "贵州省", "cities": [{"cid":"5201","area":"贵阳","county":[
+    {
+      "countyId" : 520102,
+      "countyText" : "南明区"
+    },
+    {
+      "countyId" : 520103,
+      "countyText" : "云岩区"
+    },
+    {
+      "countyId" : 520111,
+      "countyText" : "花溪区"
+    },
+    {
+      "countyId" : 520112,
+      "countyText" : "乌当区"
+    },
+    {
+      "countyId" : 520113,
+      "countyText" : "白云区"
+    },
+    {
+      "countyId" : 520114,
+      "countyText" : "小河区"
+    },
+    {
+      "countyId" : 520121,
+      "countyText" : "开阳县"
+    },
+    {
+      "countyId" : 520122,
+      "countyText" : "息烽县"
+    },
+    {
+      "countyId" : 520123,
+      "countyText" : "修文县"
+    },
+    {
+      "countyId" : 520181,
+      "countyText" : "清镇市"
+    }
+  ]
+  },{"cid":"5203","area": "遵义","county":[
+    {
+      "countyId" : 520302,
+      "countyText" : "红花岗区"
+    },
+    {
+      "countyId" : 520303,
+      "countyText" : "汇川区"
+    },
+    {
+      "countyId" : 520321,
+      "countyText" : "遵义县"
+    },
+    {
+      "countyId" : 520322,
+      "countyText" : "桐梓县"
+    },
+    {
+      "countyId" : 520323,
+      "countyText" : "绥阳县"
+    },
+    {
+      "countyId" : 520324,
+      "countyText" : "正安县"
+    },
+    {
+      "countyId" : 520325,
+      "countyText" : "道真仡佬族苗族自治县"
+    },
+    {
+      "countyId" : 520326,
+      "countyText" : "务川仡佬族苗族自治县"
+    },
+    {
+      "countyId" : 520327,
+      "countyText" : "凤冈县"
+    },
+    {
+      "countyId" : 520328,
+      "countyText" : "湄潭县"
+    },
+    {
+      "countyId" : 520329,
+      "countyText" : "余庆县"
+    },
+    {
+      "countyId" : 520330,
+      "countyText" : "习水县"
+    },
+    {
+      "countyId" : 520381,
+      "countyText" : "赤水市"
+    },
+    {
+      "countyId" : 520382,
+      "countyText" : "仁怀市"
+    }
+  ]
+  },{"cid":"5204","area": "安顺","county":[
+    {
+      "countyId" : 520402,
+      "countyText" : "西秀区"
+    },
+    {
+      "countyId" : 520421,
+      "countyText" : "平坝县"
+    },
+    {
+      "countyId" : 520422,
+      "countyText" : "普定县"
+    },
+    {
+      "countyId" : 520423,
+      "countyText" : "镇宁布依族苗族自治县"
+    },
+    {
+      "countyId" : 520424,
+      "countyText" : "关岭布依族苗族自治县"
+    },
+    {
+      "countyId" : 520425,
+      "countyText" : "紫云苗族布依族自治县"
+    }
+  ]
+  },{"cid":"5223","area":  "黔西南","county":[
+    {
+      "countyId" : 522301,
+      "countyText" : "兴义市"
+    },
+    {
+      "countyId" : 522322,
+      "countyText" : "兴仁县"
+    },
+    {
+      "countyId" : 522323,
+      "countyText" : "普安县"
+    },
+    {
+      "countyId" : 522324,
+      "countyText" : "晴隆县"
+    },
+    {
+      "countyId" : 522325,
+      "countyText" : "贞丰县"
+    },
+    {
+      "countyId" : 522326,
+      "countyText" : "望谟县"
+    },
+    {
+      "countyId" : 522327,
+      "countyText" : "册亨县"
+    },
+    {
+      "countyId" : 522328,
+      "countyText" : "安龙县"
+    }
+  ]
+  },{"cid":"5202","area": "六盘水市","county":[
+    {
+      "countyId" : 520201,
+      "countyText" : "钟山区"
+    },
+    {
+      "countyId" : 520203,
+      "countyText" : "六枝特区"
+    },
+    {
+      "countyId" : 520221,
+      "countyText" : "水城县"
+    },
+    {
+      "countyId" : 520222,
+      "countyText" : "盘县"
+    }
+  ]
+  }] },
+  {"id":"53", "name": "云南省", "cities": [{"cid":"5301","area":"昆明","county":[
+    {
+      "countyId" : 530102,
+      "countyText" : "五华区"
+    },
+    {
+      "countyId" : 530103,
+      "countyText" : "盘龙区"
+    },
+    {
+      "countyId" : 530111,
+      "countyText" : "官渡区"
+    },
+    {
+      "countyId" : 530112,
+      "countyText" : "西山区"
+    },
+    {
+      "countyId" : 530113,
+      "countyText" : "东川区"
+    },
+    {
+      "countyId" : 530121,
+      "countyText" : "呈贡县"
+    },
+    {
+      "countyId" : 530122,
+      "countyText" : "晋宁县"
+    },
+    {
+      "countyId" : 530124,
+      "countyText" : "富民县"
+    },
+    {
+      "countyId" : 530125,
+      "countyText" : "宜良县"
+    },
+    {
+      "countyId" : 530126,
+      "countyText" : "石林彝族自治县"
+    },
+    {
+      "countyId" : 530127,
+      "countyText" : "嵩明县"
+    },
+    {
+      "countyId" : 530128,
+      "countyText" : "禄劝彝族苗族自治县"
+    },
+    {
+      "countyId" : 530129,
+      "countyText" : "寻甸回族彝族自治县"
+    },
+    {
+      "countyId" : 530181,
+      "countyText" : "安宁市"
+    }
+  ]
+  },{"cid":"5307","area": "丽江","county":[
+    {
+      "countyId" : 530702,
+      "countyText" : "古城区"
+    },
+    {
+      "countyId" : 530721,
+      "countyText" : "玉龙纳西族自治县"
+    },
+    {
+      "countyId" : 530722,
+      "countyText" : "永胜县"
+    },
+    {
+      "countyId" : 530723,
+      "countyText" : "华坪县"
+    },
+    {
+      "countyId" : 530724,
+      "countyText" : "宁蒗彝族自治县"
+    }
+  ]
+  },{"cid":"5306","area": "昭通","county":[
+    {
+      "countyId" : 530602,
+      "countyText" : "昭阳区"
+    },
+    {
+      "countyId" : 530621,
+      "countyText" : "鲁甸县"
+    },
+    {
+      "countyId" : 530622,
+      "countyText" : "巧家县"
+    },
+    {
+      "countyId" : 530623,
+      "countyText" : "盐津县"
+    },
+    {
+      "countyId" : 530624,
+      "countyText" : "大关县"
+    },
+    {
+      "countyId" : 530625,
+      "countyText" : "永善县"
+    },
+    {
+      "countyId" : 530626,
+      "countyText" : "绥江县"
+    },
+    {
+      "countyId" : 530627,
+      "countyText" : "镇雄县"
+    },
+    {
+      "countyId" : 530628,
+      "countyText" : "彝良县"
+    },
+    {
+      "countyId" : 530629,
+      "countyText" : "威信县"
+    },
+    {
+      "countyId" : 530630,
+      "countyText" : "水富县"
+    }
+  ]
+  },{"cid":"5304","area":"玉溪","county":[
+    {
+      "countyId" : 530402,
+      "countyText" : "红塔区"
+    },
+    {
+      "countyId" : 530421,
+      "countyText" : "江川县"
+    },
+    {
+      "countyId" : 530422,
+      "countyText" : "澄江县"
+    },
+    {
+      "countyId" : 530423,
+      "countyText" : "通海县"
+    },
+    {
+      "countyId" : 530424,
+      "countyText" : "华宁县"
+    },
+    {
+      "countyId" : 530425,
+      "countyText" : "易门县"
+    },
+    {
+      "countyId" : 530426,
+      "countyText" : "峨山彝族自治县"
+    },
+    {
+      "countyId" : 530427,
+      "countyText" : "新平彝族傣族自治县"
+    },
+    {
+      "countyId" : 530428,
+      "countyText" : "元江哈尼族彝族傣族自治县"
+    }
+  ]
+  } ,{"cid":"5309","area":"临沧","county":[
+    {
+      "countyId" : 530902,
+      "countyText" : "临翔区"
+    },
+    {
+      "countyId" : 530921,
+      "countyText" : "凤庆县"
+    },
+    {
+      "countyId" : 530922,
+      "countyText" : "云县"
+    },
+    {
+      "countyId" : 530923,
+      "countyText" : "永德县"
+    },
+    {
+      "countyId" : 530924,
+      "countyText" : "镇康县"
+    },
+    {
+      "countyId" : 530925,
+      "countyText" : "双江拉祜族佤族布朗族傣族自治县"
+    },
+    {
+      "countyId" : 530926,
+      "countyText" : "耿马傣族佤族自治县"
+    },
+    {
+      "countyId" : 530927,
+      "countyText" : "沧源佤族自治县"
+    }
+  ]
+  } ,{"cid":"5326","area": "文山","county":[
+    {
+      "countyId" : 532621,
+      "countyText" : "文山县"
+    },
+    {
+      "countyId" : 532622,
+      "countyText" : "砚山县"
+    },
+    {
+      "countyId" : 532623,
+      "countyText" : "西畴县"
+    },
+    {
+      "countyId" : 532624,
+      "countyText" : "麻栗坡县"
+    },
+    {
+      "countyId" : 532625,
+      "countyText" : "马关县"
+    },
+    {
+      "countyId" : 532626,
+      "countyText" : "丘北县"
+    },
+    {
+      "countyId" : 532627,
+      "countyText" : "广南县"
+    },
+    {
+      "countyId" : 532628,
+      "countyText" : "富宁县"
+    }
+  ]
+  },{"cid":"5325","area":  "红河","county":[
+    {
+      "countyId" : 532501,
+      "countyText" : "个旧市"
+    },
+    {
+      "countyId" : 532502,
+      "countyText" : "开远市"
+    },
+    {
+      "countyId" : 532522,
+      "countyText" : "蒙自县"
+    },
+    {
+      "countyId" : 532523,
+      "countyText" : "屏边苗族自治县"
+    },
+    {
+      "countyId" : 532524,
+      "countyText" : "建水县"
+    },
+    {
+      "countyId" : 532525,
+      "countyText" : "石屏县"
+    },
+    {
+      "countyId" : 532526,
+      "countyText" : "弥勒县"
+    },
+    {
+      "countyId" : 532527,
+      "countyText" : "泸西县"
+    },
+    {
+      "countyId" : 532528,
+      "countyText" : "元阳县"
+    },
+    {
+      "countyId" : 532529,
+      "countyText" : "红河县"
+    },
+    {
+      "countyId" : 532530,
+      "countyText" : "金平苗族瑶族傣族自治县"
+    },
+    {
+      "countyId" : 532531,
+      "countyText" : "绿春县"
+    },
+    {
+      "countyId" : 532532,
+      "countyText" : "河口瑶族自治县"
+    }
+  ]
+  },{"cid":"5323","area": "楚雄","county":[
+    {
+      "countyId" : 532301,
+      "countyText" : "楚雄市"
+    },
+    {
+      "countyId" : 532322,
+      "countyText" : "双柏县"
+    },
+    {
+      "countyId" : 532323,
+      "countyText" : "牟定县"
+    },
+    {
+      "countyId" : 532324,
+      "countyText" : "南华县"
+    },
+    {
+      "countyId" : 532325,
+      "countyText" : "姚安县"
+    },
+    {
+      "countyId" : 532326,
+      "countyText" : "大姚县"
+    },
+    {
+      "countyId" : 532327,
+      "countyText" : "永仁县"
+    },
+    {
+      "countyId" : 532328,
+      "countyText" : "元谋县"
+    },
+    {
+      "countyId" : 532329,
+      "countyText" : "武定县"
+    },
+    {
+      "countyId" : 532331,
+      "countyText" : "禄丰县"
+    }
+  ]
+  },{"cid":"5329","area":"大理","county":[
+    {
+      "countyId" : 532901,
+      "countyText" : "大理市"
+    },
+    {
+      "countyId" : 532922,
+      "countyText" : "漾濞彝族自治县"
+    },
+    {
+      "countyId" : 532923,
+      "countyText" : "祥云县"
+    },
+    {
+      "countyId" : 532924,
+      "countyText" : "宾川县"
+    },
+    {
+      "countyId" : 532925,
+      "countyText" : "弥渡县"
+    },
+    {
+      "countyId" : 532926,
+      "countyText" : "南涧彝族自治县"
+    },
+    {
+      "countyId" : 532927,
+      "countyText" : "巍山彝族回族自治县"
+    },
+    {
+      "countyId" : 532928,
+      "countyText" : "永平县"
+    },
+    {
+      "countyId" : 532929,
+      "countyText" : "云龙县"
+    },
+    {
+      "countyId" : 532930,
+      "countyText" : "洱源县"
+    },
+    {
+      "countyId" : 532931,
+      "countyText" : "剑川县"
+    },
+    {
+      "countyId" : 532932,
+      "countyText" : "鹤庆县"
+    }
+  ]
+  } ] },
+  {"id":"54", "name": "西藏自治区", "cities": [{"cid":"5401","area":"拉萨","county":[
+    {
+      "countyId" : 540102,
+      "countyText" : "城关区"
+    },
+    {
+      "countyId" : 540121,
+      "countyText" : "林周县"
+    },
+    {
+      "countyId" : 540122,
+      "countyText" : "当雄县"
+    },
+    {
+      "countyId" : 540123,
+      "countyText" : "尼木县"
+    },
+    {
+      "countyId" : 540124,
+      "countyText" : "曲水县"
+    },
+    {
+      "countyId" : 540125,
+      "countyText" : "堆龙德庆县"
+    },
+    {
+      "countyId" : 540126,
+      "countyText" : "达孜县"
+    },
+    {
+      "countyId" : 540127,
+      "countyText" : "墨竹工卡县"
+    }
+  ]
+  },{"cid":"5426","area": "林芝","county":[
+    {
+      "countyId" : 542621,
+      "countyText" : "林芝县"
+    },
+    {
+      "countyId" : 542622,
+      "countyText" : "工布江达县"
+    },
+    {
+      "countyId" : 542623,
+      "countyText" : "米林县"
+    },
+    {
+      "countyId" : 542624,
+      "countyText" : "墨脱县"
+    },
+    {
+      "countyId" : 542625,
+      "countyText" : "波密县"
+    },
+    {
+      "countyId" : 542626,
+      "countyText" : "察隅县"
+    },
+    {
+      "countyId" : 542627,
+      "countyText" : "朗县"
+    }
+  ]
+  },{"cid":"5423","area": "日喀则","county":[
+    {
+      "countyId" : 542301,
+      "countyText" : "日喀则市"
+    },
+    {
+      "countyId" : 542322,
+      "countyText" : "南木林县"
+    },
+    {
+      "countyId" : 542323,
+      "countyText" : "江孜县"
+    },
+    {
+      "countyId" : 542324,
+      "countyText" : "定日县"
+    },
+    {
+      "countyId" : 542325,
+      "countyText" : "萨迦县"
+    },
+    {
+      "countyId" : 542326,
+      "countyText" : "拉孜县"
+    },
+    {
+      "countyId" : 542327,
+      "countyText" : "昂仁县"
+    },
+    {
+      "countyId" : 542328,
+      "countyText" : "谢通门县"
+    },
+    {
+      "countyId" : 542329,
+      "countyText" : "白朗县"
+    },
+    {
+      "countyId" : 542330,
+      "countyText" : "仁布县"
+    },
+    {
+      "countyId" : 542331,
+      "countyText" : "康马县"
+    },
+    {
+      "countyId" : 542332,
+      "countyText" : "定结县"
+    },
+    {
+      "countyId" : 542333,
+      "countyText" : "仲巴县"
+    },
+    {
+      "countyId" : 542334,
+      "countyText" : "亚东县"
+    },
+    {
+      "countyId" : 542335,
+      "countyText" : "吉隆县"
+    },
+    {
+      "countyId" : 542336,
+      "countyText" : "聂拉木县"
+    },
+    {
+      "countyId" : 542337,
+      "countyText" : "萨嘎县"
+    },
+    {
+      "countyId" : 542338,
+      "countyText" : "岗巴县"
+    }
+  ]
+  },{"cid":"5421","area": "昌都","county":[
+    {
+      "countyId" : 542121,
+      "countyText" : "昌都县"
+    },
+    {
+      "countyId" : 542122,
+      "countyText" : "江达县"
+    },
+    {
+      "countyId" : 542123,
+      "countyText" : "贡觉县"
+    },
+    {
+      "countyId" : 542124,
+      "countyText" : "类乌齐县"
+    },
+    {
+      "countyId" : 542125,
+      "countyText" : "丁青县"
+    },
+    {
+      "countyId" : 542126,
+      "countyText" : "察雅县"
+    },
+    {
+      "countyId" : 542127,
+      "countyText" : "八宿县"
+    },
+    {
+      "countyId" : 542128,
+      "countyText" : "左贡县"
+    },
+    {
+      "countyId" : 542129,
+      "countyText" : "芒康县"
+    },
+    {
+      "countyId" : 542132,
+      "countyText" : "洛隆县"
+    },
+    {
+      "countyId" : 542133,
+      "countyText" : "边坝县"
+    }
+  ]
+  }] },
+  {"id":"61", "name": "陕西省", "cities": [{"cid":"6101","area":"西安","county":[
+    {
+      "countyId" : 610102,
+      "countyText" : "新城区"
+    },
+    {
+      "countyId" : 610103,
+      "countyText" : "碑林区"
+    },
+    {
+      "countyId" : 610104,
+      "countyText" : "莲湖区"
+    },
+    {
+      "countyId" : 610111,
+      "countyText" : "灞桥区"
+    },
+    {
+      "countyId" : 610112,
+      "countyText" : "未央区"
+    },
+    {
+      "countyId" : 610113,
+      "countyText" : "雁塔区"
+    },
+    {
+      "countyId" : 610114,
+      "countyText" : "阎良区"
+    },
+    {
+      "countyId" : 610115,
+      "countyText" : "临潼区"
+    },
+    {
+      "countyId" : 610116,
+      "countyText" : "长安区"
+    },
+    {
+      "countyId" : 610122,
+      "countyText" : "蓝田县"
+    },
+    {
+      "countyId" : 610124,
+      "countyText" : "周至县"
+    },
+    {
+      "countyId" : 610125,
+      "countyText" : "户县"
+    },
+    {
+      "countyId" : 610126,
+      "countyText" : "高陵县"
+    }
+  ]
+  },{"cid":"6104","area":"咸阳","county":[
+    {
+      "countyId" : 610402,
+      "countyText" : "秦都区"
+    },
+    {
+      "countyId" : 610403,
+      "countyText" : "杨凌区"
+    },
+    {
+      "countyId" : 610404,
+      "countyText" : "渭城区"
+    },
+    {
+      "countyId" : 610422,
+      "countyText" : "三原县"
+    },
+    {
+      "countyId" : 610423,
+      "countyText" : "泾阳县"
+    },
+    {
+      "countyId" : 610424,
+      "countyText" : "乾县"
+    },
+    {
+      "countyId" : 610425,
+      "countyText" : "礼泉县"
+    },
+    {
+      "countyId" : 610426,
+      "countyText" : "永寿县"
+    },
+    {
+      "countyId" : 610427,
+      "countyText" : "彬县"
+    },
+    {
+      "countyId" : 610428,
+      "countyText" : "长武县"
+    },
+    {
+      "countyId" : 610429,
+      "countyText" : "旬邑县"
+    },
+    {
+      "countyId" : 610430,
+      "countyText" : "淳化县"
+    },
+    {
+      "countyId" : 610431,
+      "countyText" : "武功县"
+    },
+    {
+      "countyId" : 610481,
+      "countyText" : "兴平市"
+    }
+  ]
+  } ,{"cid":"6106","area":"延安","county":[
+    {
+      "countyId" : 610602,
+      "countyText" : "宝塔区"
+    },
+    {
+      "countyId" : 610621,
+      "countyText" : "延长县"
+    },
+    {
+      "countyId" : 610622,
+      "countyText" : "延川县"
+    },
+    {
+      "countyId" : 610623,
+      "countyText" : "子长县"
+    },
+    {
+      "countyId" : 610624,
+      "countyText" : "安塞县"
+    },
+    {
+      "countyId" : 610625,
+      "countyText" : "志丹县"
+    },
+    {
+      "countyId" : 610626,
+      "countyText" : "吴起县"
+    },
+    {
+      "countyId" : 610627,
+      "countyText" : "甘泉县"
+    },
+    {
+      "countyId" : 610628,
+      "countyText" : "富县"
+    },
+    {
+      "countyId" : 610629,
+      "countyText" : "洛川县"
+    },
+    {
+      "countyId" : 610630,
+      "countyText" : "宜川县"
+    },
+    {
+      "countyId" : 610631,
+      "countyText" : "黄龙县"
+    },
+    {
+      "countyId" : 610632,
+      "countyText" : "黄陵县"
+    }
+  ]
+  } ,{"cid":"6107","area": "汉中","county":[
+    {
+      "countyId" : 610702,
+      "countyText" : "汉台区"
+    },
+    {
+      "countyId" : 610721,
+      "countyText" : "南郑县"
+    },
+    {
+      "countyId" : 610722,
+      "countyText" : "城固县"
+    },
+    {
+      "countyId" : 610723,
+      "countyText" : "洋县"
+    },
+    {
+      "countyId" : 610724,
+      "countyText" : "西乡县"
+    },
+    {
+      "countyId" : 610725,
+      "countyText" : "勉县"
+    },
+    {
+      "countyId" : 610726,
+      "countyText" : "宁强县"
+    },
+    {
+      "countyId" : 610727,
+      "countyText" : "略阳县"
+    },
+    {
+      "countyId" : 610728,
+      "countyText" : "镇巴县"
+    },
+    {
+      "countyId" : 610729,
+      "countyText" : "留坝县"
+    },
+    {
+      "countyId" : 610730,
+      "countyText" : "佛坪县"
+    }
+  ]
+  },{"cid":"6108","area": "榆林","county":[
+    {
+      "countyId" : 610802,
+      "countyText" : "榆阳区"
+    },
+    {
+      "countyId" : 610821,
+      "countyText" : "神木县"
+    },
+    {
+      "countyId" : 610822,
+      "countyText" : "府谷县"
+    },
+    {
+      "countyId" : 610823,
+      "countyText" : "横山县"
+    },
+    {
+      "countyId" : 610824,
+      "countyText" : "靖边县"
+    },
+    {
+      "countyId" : 610825,
+      "countyText" : "定边县"
+    },
+    {
+      "countyId" : 610826,
+      "countyText" : "绥德县"
+    },
+    {
+      "countyId" : 610827,
+      "countyText" : "米脂县"
+    },
+    {
+      "countyId" : 610828,
+      "countyText" : "佳县"
+    },
+    {
+      "countyId" : 610829,
+      "countyText" : "吴堡县"
+    },
+    {
+      "countyId" : 610830,
+      "countyText" : "清涧县"
+    },
+    {
+      "countyId" : 610831,
+      "countyText" : "子洲县"
+    }
+  ]
+  },{"cid":"6110","area": "商洛","county":[
+    {
+      "countyId" : 611002,
+      "countyText" : "商州区"
+    },
+    {
+      "countyId" : 611021,
+      "countyText" : "洛南县"
+    },
+    {
+      "countyId" : 611022,
+      "countyText" : "丹凤县"
+    },
+    {
+      "countyId" : 611023,
+      "countyText" : "商南县"
+    },
+    {
+      "countyId" : 611024,
+      "countyText" : "山阳县"
+    },
+    {
+      "countyId" : 611025,
+      "countyText" : "镇安县"
+    },
+    {
+      "countyId" : 611026,
+      "countyText" : "柞水县"
+    }
+  ]
+  },{"cid":"6110","area": "渭南市","county":[
+    {
+      "countyId" : 611002,
+      "countyText" : "商州区"
+    },
+    {
+      "countyId" : 611021,
+      "countyText" : "洛南县"
+    },
+    {
+      "countyId" : 611022,
+      "countyText" : "丹凤县"
+    },
+    {
+      "countyId" : 611023,
+      "countyText" : "商南县"
+    },
+    {
+      "countyId" : 611024,
+      "countyText" : "山阳县"
+    },
+    {
+      "countyId" : 611025,
+      "countyText" : "镇安县"
+    },
+    {
+      "countyId" : 611026,
+      "countyText" : "柞水县"
+    }
+  ]
+  },{"cid":"6109","area": "安康市","county":[
+    {
+      "countyId" : 610902,
+      "countyText" : "汉滨区"
+    },
+    {
+      "countyId" : 610921,
+      "countyText" : "汉阴县"
+    },
+    {
+      "countyId" : 610922,
+      "countyText" : "石泉县"
+    },
+    {
+      "countyId" : 610923,
+      "countyText" : "宁陕县"
+    },
+    {
+      "countyId" : 610924,
+      "countyText" : "紫阳县"
+    },
+    {
+      "countyId" : 610925,
+      "countyText" : "岚皋县"
+    },
+    {
+      "countyId" : 610926,
+      "countyText" : "平利县"
+    },
+    {
+      "countyId" : 610927,
+      "countyText" : "镇坪县"
+    },
+    {
+      "countyId" : 610928,
+      "countyText" : "旬阳县"
+    },
+    {
+      "countyId" : 610929,
+      "countyText" : "白河县"
+    }
+  ]
+  },{"cid":"6103","area": "宝鸡市","county":[
+    {
+      "countyId" : 610302,
+      "countyText" : "渭滨区"
+    },
+    {
+      "countyId" : 610303,
+      "countyText" : "金台区"
+    },
+    {
+      "countyId" : 610304,
+      "countyText" : "陈仓区"
+    },
+    {
+      "countyId" : 610322,
+      "countyText" : "凤翔县"
+    },
+    {
+      "countyId" : 610323,
+      "countyText" : "岐山县"
+    },
+    {
+      "countyId" : 610324,
+      "countyText" : "扶风县"
+    },
+    {
+      "countyId" : 610326,
+      "countyText" : "眉县"
+    },
+    {
+      "countyId" : 610327,
+      "countyText" : "陇县"
+    },
+    {
+      "countyId" : 610328,
+      "countyText" : "千阳县"
+    },
+    {
+      "countyId" : 610329,
+      "countyText" : "麟游县"
+    },
+    {
+      "countyId" : 610330,
+      "countyText" : "凤县"
+    },
+    {
+      "countyId" : 610331,
+      "countyText" : "太白县"
+    }
+  ]
+  } ,{"cid":"6102","area": "铜川市","county":[
+    {
+      "countyId" : 610202,
+      "countyText" : "王益区"
+    },
+    {
+      "countyId" : 610203,
+      "countyText" : "印台区"
+    },
+    {
+      "countyId" : 610204,
+      "countyText" : "耀州区"
+    },
+    {
+      "countyId" : 610222,
+      "countyText" : "宜君县"
+    }
+  ]
+  }] },
+  {"id":"62", "name": "甘肃省", "cities": [{"cid":"6201","area":"兰州","county":[
+    {
+      "countyId" : 620102,
+      "countyText" : "城关区"
+    },
+    {
+      "countyId" : 620103,
+      "countyText" : "七里河区"
+    },
+    {
+      "countyId" : 620104,
+      "countyText" : "西固区"
+    },
+    {
+      "countyId" : 620105,
+      "countyText" : "安宁区"
+    },
+    {
+      "countyId" : 620111,
+      "countyText" : "红古区"
+    },
+    {
+      "countyId" : 620121,
+      "countyText" : "永登县"
+    },
+    {
+      "countyId" : 620122,
+      "countyText" : "皋兰县"
+    },
+    {
+      "countyId" : 620123,
+      "countyText" : "榆中县"
+    }
+  ]
+  },{"cid":"6203","area": "金昌","county":[
+    {
+      "countyId" : 620302,
+      "countyText" : "金川区"
+    },
+    {
+      "countyId" : 620321,
+      "countyText" : "永昌县"
+    }
+  ]
+  },{"cid":"6205","area": "天水","county":[
+    {
+      "countyId" : 620502,
+      "countyText" : "秦城区"
+    },
+    {
+      "countyId" : 620503,
+      "countyText" : "麦积区"
+    },
+    {
+      "countyId" : 620521,
+      "countyText" : "清水县"
+    },
+    {
+      "countyId" : 620522,
+      "countyText" : "秦安县"
+    },
+    {
+      "countyId" : 620523,
+      "countyText" : "甘谷县"
+    },
+    {
+      "countyId" : 620524,
+      "countyText" : "武山县"
+    },
+    {
+      "countyId" : 620525,
+      "countyText" : "张家川回族自治县"
+    }
+  ]
+  },{"cid":"6206","area": "武威","county":[
+    {
+      "countyId" : 620602,
+      "countyText" : "凉州区"
+    },
+    {
+      "countyId" : 620621,
+      "countyText" : "民勤县"
+    },
+    {
+      "countyId" : 620622,
+      "countyText" : "古浪县"
+    },
+    {
+      "countyId" : 620623,
+      "countyText" : "天祝藏族自治县"
+    }
+  ]
+  },{"cid":"6207","area": "张掖","county":[
+    {
+      "countyId" : 620702,
+      "countyText" : "甘州区"
+    },
+    {
+      "countyId" : 620721,
+      "countyText" : "肃南裕固族自治县"
+    },
+    {
+      "countyId" : 620722,
+      "countyText" : "民乐县"
+    },
+    {
+      "countyId" : 620723,
+      "countyText" : "临泽县"
+    },
+    {
+      "countyId" : 620724,
+      "countyText" : "高台县"
+    },
+    {
+      "countyId" : 620725,
+      "countyText" : "山丹县"
+    }
+  ]
+  },{"cid":"6208","area": "平凉","county":[
+    {
+      "countyId" : 620802,
+      "countyText" : "崆峒区"
+    },
+    {
+      "countyId" : 620821,
+      "countyText" : "泾川县"
+    },
+    {
+      "countyId" : 620822,
+      "countyText" : "灵台县"
+    },
+    {
+      "countyId" : 620823,
+      "countyText" : "崇信县"
+    },
+    {
+      "countyId" : 620824,
+      "countyText" : "华亭县"
+    },
+    {
+      "countyId" : 620825,
+      "countyText" : "庄浪县"
+    },
+    {
+      "countyId" : 620826,
+      "countyText" : "静宁县"
+    }
+  ]
+  },{"cid":"6209","area": "酒泉","county":[
+    {
+      "countyId" : 620902,
+      "countyText" : "肃州区"
+    },
+    {
+      "countyId" : 620921,
+      "countyText" : "金塔县"
+    },
+    {
+      "countyId" : 620922,
+      "countyText" : "瓜州县"
+    },
+    {
+      "countyId" : 620923,
+      "countyText" : "肃北蒙古族自治县"
+    },
+    {
+      "countyId" : 620924,
+      "countyText" : "阿克塞哈萨克族自治县"
+    },
+    {
+      "countyId" : 620981,
+      "countyText" : "玉门市"
+    },
+    {
+      "countyId" : 620982,
+      "countyText" : "敦煌市"
+    }
+  ]
+  }] },
+  {"id":"63", "name": "青海省", "cities": [{"cid":"6323","area":"黄南","county":[
+    {
+      "countyId" : 632321,
+      "countyText" : "同仁县"
+    },
+    {
+      "countyId" : 632322,
+      "countyText" : "尖扎县"
+    },
+    {
+      "countyId" : 632323,
+      "countyText" : "泽库县"
+    },
+    {
+      "countyId" : 632324,
+      "countyText" : "河南蒙古族自治县"
+    }
+  ]
+  },{"cid":"6325","area":"海南","county":[
+  {
+  "countyId" : 632521,
+  "countyText" : "共和县"
+  },
+  {
+  "countyId" : 632522,
+  "countyText" : "同德县"
+  },
+  {
+  "countyId" : 632523,
+  "countyText" : "贵德县"
+  },
+  {
+  "countyId" : 632524,
+  "countyText" : "兴海县"
+  },
+  {
+  "countyId" : 632525,
+  "countyText" : "贵南县"
+  }
+  ]
+  } ,{"cid":"6301","area": "西宁","county":[
+    {
+      "countyId" : 630102,
+      "countyText" : "城东区"
+    },
+    {
+      "countyId" : 630103,
+      "countyText" : "城中区"
+    },
+    {
+      "countyId" : 630104,
+      "countyText" : "城西区"
+    },
+    {
+      "countyId" : 630105,
+      "countyText" : "城北区"
+    },
+    {
+      "countyId" : 630121,
+      "countyText" : "大通回族土族自治县"
+    },
+    {
+      "countyId" : 630122,
+      "countyText" : "湟中县"
+    },
+    {
+      "countyId" : 630123,
+      "countyText" : "湟源县"
+    }
+  ]
+  },{"cid":"6321","area": "海东","county":[
+    {
+      "countyId" : 632121,
+      "countyText" : "平安县"
+    },
+    {
+      "countyId" : 632122,
+      "countyText" : "民和回族土族自治县"
+    },
+    {
+      "countyId" : 632123,
+      "countyText" : "乐都县"
+    },
+    {
+      "countyId" : 632126,
+      "countyText" : "互助土族自治县"
+    },
+    {
+      "countyId" : 632127,
+      "countyText" : "化隆回族自治县"
+    },
+    {
+      "countyId" : 632128,
+      "countyText" : "循化撒拉族自治县"
+    }
+  ]
+  },{"cid":"6328","area": "海西","county":[
+    {
+      "countyId" : 632801,
+      "countyText" : "格尔木市"
+    },
+    {
+      "countyId" : 632802,
+      "countyText" : "德令哈市"
+    },
+    {
+      "countyId" : 632821,
+      "countyText" : "乌兰县"
+    },
+    {
+      "countyId" : 632822,
+      "countyText" : "都兰县"
+    },
+    {
+      "countyId" : 632823,
+      "countyText" : "天峻县"
+    }
+  ]
+  },{"cid":"6322","area": "海北","county":[
+    {
+      "countyId" : 632221,
+      "countyText" : "门源回族自治县"
+    },
+    {
+      "countyId" : 632222,
+      "countyText" : "祁连县"
+    },
+    {
+      "countyId" : 632223,
+      "countyText" : "海晏县"
+    },
+    {
+      "countyId" : 632224,
+      "countyText" : "刚察县"
+    }
+  ]
+  },{"cid":"6326","area": "果洛","county":[
+    {
+      "countyId" : 632621,
+      "countyText" : "玛沁县"
+    },
+    {
+      "countyId" : 632622,
+      "countyText" : "班玛县"
+    },
+    {
+      "countyId" : 632623,
+      "countyText" : "甘德县"
+    },
+    {
+      "countyId" : 632624,
+      "countyText" : "达日县"
+    },
+    {
+      "countyId" : 632625,
+      "countyText" : "久治县"
+    },
+    {
+      "countyId" : 632626,
+      "countyText" : "玛多县"
+    }
+  ]
+  },{"cid":"6327","area":  "玉树","county":[
+    {
+      "countyId" : 632721,
+      "countyText" : "玉树县"
+    },
+    {
+      "countyId" : 632722,
+      "countyText" : "杂多县"
+    },
+    {
+      "countyId" : 632723,
+      "countyText" : "称多县"
+    },
+    {
+      "countyId" : 632724,
+      "countyText" : "治多县"
+    },
+    {
+      "countyId" : 632725,
+      "countyText" : "囊谦县"
+    },
+    {
+      "countyId" : 632726,
+      "countyText" : "曲麻莱县"
+    }
+  ]
+  }] },
+  {"id":"64", "name": "宁夏回族自治区", "cities": [{"cid":"6401","area":"银川","county":[
+    {
+      "countyId" : 640104,
+      "countyText" : "兴庆区"
+    },
+    {
+      "countyId" : 640105,
+      "countyText" : "西夏区"
+    },
+    {
+      "countyId" : 640106,
+      "countyText" : "金凤区"
+    },
+    {
+      "countyId" : 640121,
+      "countyText" : "永宁县"
+    },
+    {
+      "countyId" : 640122,
+      "countyText" : "贺兰县"
+    },
+    {
+      "countyId" : 640181,
+      "countyText" : "灵武市"
+    }
+  ]
+  },{"cid":"6403","area":"吴忠","county":[
+    {
+      "countyId" : 640302,
+      "countyText" : "利通区"
+    },
+    {
+      "countyId" : 640303,
+      "countyText" : "红寺堡区"
+    },
+    {
+      "countyId" : 640323,
+      "countyText" : "盐池县"
+    },
+    {
+      "countyId" : 640324,
+      "countyText" : "同心县"
+    },
+    {
+      "countyId" : 640381,
+      "countyText" : "青铜峡市"
+    }
+  ]
+  } ] },
+  {"id":"65", "name": "新疆维吾尔族自治区", "cities": [{"cid":"6501","area":"乌鲁木齐","county":[
+    {
+      "countyId" : 650102,
+      "countyText" : "天山区"
+    },
+    {
+      "countyId" : 650103,
+      "countyText" : "沙依巴克区"
+    },
+    {
+      "countyId" : 650104,
+      "countyText" : "新市区"
+    },
+    {
+      "countyId" : 650105,
+      "countyText" : "水磨沟区"
+    },
+    {
+      "countyId" : 650106,
+      "countyText" : "头屯河区"
+    },
+    {
+      "countyId" : 650107,
+      "countyText" : "达坂城区"
+    },
+    {
+      "countyId" : 650109,
+      "countyText" : "米东区"
+    },
+    {
+      "countyId" : 650121,
+      "countyText" : "乌鲁木齐县"
+    }
+  ]
+  },{"cid":"6522","area": "哈密","county":[
+    {
+      "countyId" : 652201,
+      "countyText" : "哈密市"
+    },
+    {
+      "countyId" : 652222,
+      "countyText" : "巴里坤哈萨克自治县"
+    },
+    {
+      "countyId" : 652223,
+      "countyText" : "伊吾县"
+    }
+  ]
+  },{"cid":"6531","area": "喀什","county":[
+    {
+      "countyId" : 653101,
+      "countyText" : "喀什市"
+    },
+    {
+      "countyId" : 653121,
+      "countyText" : "疏附县"
+    },
+    {
+      "countyId" : 653122,
+      "countyText" : "疏勒县"
+    },
+    {
+      "countyId" : 653123,
+      "countyText" : "英吉沙县"
+    },
+    {
+      "countyId" : 653124,
+      "countyText" : "泽普县"
+    },
+    {
+      "countyId" : 653125,
+      "countyText" : "莎车县"
+    },
+    {
+      "countyId" : 653126,
+      "countyText" : "叶城县"
+    },
+    {
+      "countyId" : 653127,
+      "countyText" : "麦盖提县"
+    },
+    {
+      "countyId" : 653128,
+      "countyText" : "岳普湖县"
+    },
+    {
+      "countyId" : 653129,
+      "countyText" : "伽师县"
+    },
+    {
+      "countyId" : 653130,
+      "countyText" : "巴楚县"
+    },
+    {
+      "countyId" : 653131,
+      "countyText" : "塔什库尔干县塔吉克自治"
+    }
+  ]
+  },{"cid":"6528","area":"巴音郭楞","county":[
+    {
+      "countyId" : 652801,
+      "countyText" : "库尔勒市"
+    },
+    {
+      "countyId" : 652822,
+      "countyText" : "轮台县"
+    },
+    {
+      "countyId" : 652823,
+      "countyText" : "尉犁县"
+    },
+    {
+      "countyId" : 652824,
+      "countyText" : "若羌县"
+    },
+    {
+      "countyId" : 652825,
+      "countyText" : "且末县"
+    },
+    {
+      "countyId" : 652826,
+      "countyText" : "焉耆回族自治县"
+    },
+    {
+      "countyId" : 652827,
+      "countyText" : "和静县"
+    },
+    {
+      "countyId" : 652828,
+      "countyText" : "和硕县"
+    },
+    {
+      "countyId" : 652829,
+      "countyText" : "博湖县"
+    }
+  ]
+  } ,{"cid":"6523","area": "昌吉","county":[
+    {
+      "countyId" : 652301,
+      "countyText" : "昌吉市"
+    },
+    {
+      "countyId" : 652302,
+      "countyText" : "阜康市"
+    },
+    {
+      "countyId" : 652323,
+      "countyText" : "呼图壁县"
+    },
+    {
+      "countyId" : 652324,
+      "countyText" : "玛纳斯县"
+    },
+    {
+      "countyId" : 652325,
+      "countyText" : "奇台县"
+    },
+    {
+      "countyId" : 652327,
+      "countyText" : "吉木萨尔县"
+    },
+    {
+      "countyId" : 652328,
+      "countyText" : "木垒哈萨克自治县"
+    }
+  ]
+  },{"cid":"6540","area": "伊犁","county":[
+    {
+      "countyId" : 654002,
+      "countyText" : "伊宁市"
+    },
+    {
+      "countyId" : 654003,
+      "countyText" : "奎屯市"
+    },
+    {
+      "countyId" : 654021,
+      "countyText" : "伊宁县"
+    },
+    {
+      "countyId" : 654022,
+      "countyText" : "察布查尔锡伯自治县"
+    },
+    {
+      "countyId" : 654023,
+      "countyText" : "霍城县"
+    },
+    {
+      "countyId" : 654024,
+      "countyText" : "巩留县"
+    },
+    {
+      "countyId" : 654025,
+      "countyText" : "新源县"
+    },
+    {
+      "countyId" : 654026,
+      "countyText" : "昭苏县"
+    },
+    {
+      "countyId" : 654027,
+      "countyText" : "特克斯县"
+    },
+    {
+      "countyId" : 654028,
+      "countyText" : "尼勒克县"
+    }
+  ]
+  },{"cid":"6543","area": "阿勒泰","county":[
+    {
+      "countyId" : 654301,
+      "countyText" : "阿勒泰市"
+    },
+    {
+      "countyId" : 654321,
+      "countyText" : "布尔津县"
+    },
+    {
+      "countyId" : 654322,
+      "countyText" : "富蕴县"
+    },
+    {
+      "countyId" : 654323,
+      "countyText" : "福海县"
+    },
+    {
+      "countyId" : 654324,
+      "countyText" : "哈巴河县"
+    },
+    {
+      "countyId" : 654325,
+      "countyText" : "青河县"
+    },
+    {
+      "countyId" : 654326,
+      "countyText" : "吉木乃县"
+    }
+  ]
+  },{"cid":"6502","area": "克拉玛依","county":[
+    {
+      "countyId" : 650202,
+      "countyText" : "独山子区"
+    },
+    {
+      "countyId" : 650203,
+      "countyText" : "克拉玛依区"
+    },
+    {
+      "countyId" : 650204,
+      "countyText" : "白碱滩区"
+    },
+    {
+      "countyId" : 650205,
+      "countyText" : "乌尔禾区"
+    }
+  ]
+  },{"cid":"6527","area": "博尔塔拉","county":[
+    {
+      "countyId" : 652701,
+      "countyText" : "博乐市"
+    },
+    {
+      "countyId" : 652722,
+      "countyText" : "精河县"
+    },
+    {
+      "countyId" : 652723,
+      "countyText" : "温泉县"
+    }
+  ]
+  }] },
+  {"id":"81", "name": "香港特别行政区", "cities": [{"cid":"8101","area":"中西区"},{"cid":"8107","area": "湾仔区"},{"cid":"8102","area":"东区"} ,{"cid":"8105","area":"南区"} ,{"cid":"8109","area": "油尖旺区"},{"cid":"8106","area":"深水埗区"} ,{"cid":"8103","area": "九龙城区"},{"cid":"8108","area":"黄大仙区"} ,{"cid":"8104","area": "观塘区"},{"cid":"8112","area": "北区"},{"cid":"8116","area":  "大埔区"},{"cid":"8114","area":"沙田区"} ,{"cid":"8113","area": "西贡区"} ,{"cid":"8117","area":"荃湾区"} ,{"cid":"8115","area": "屯门区"},{"cid":"8118","area": "元朗区"} ,{"cid":"8111","area": "葵青区"},{"cid":"8110","area": "离岛区"}] },
+  {"id":"82", "name": "澳门特别行政区", "cities": [{"cid":"8201","area":"花地玛堂区","county":[
+    {
+      "countyId" : 820101,
+      "countyText" : "花地玛堂区"
+    }
+  ]
+  },{"cid":"8202","area": "圣安多尼堂区","county":[
+    {
+      "countyId" : 820201,
+      "countyText" : "圣安多尼堂区"
+    }
+  ]
+  },{"cid":"8203","area": "大堂区","county":[
+    {
+      "countyId" : 820301,
+      "countyText" : "大堂区"
+    }
+  ]
+  },{"cid":"8204","area": "望德堂区","county":[
+    {
+      "countyId" : 820401,
+      "countyText" : "望德堂区"
+    }
+  ]
+  },{"cid":"8205","area":"风顺堂区","county":[
+    {
+      "countyId" : 820501,
+      "countyText" : "风顺堂区"
+    }
+  ]
+  } ,{"cid":"8206","area": "嘉模堂区","county":[
+    {
+      "countyId" : 820601,
+      "countyText" : "嘉模堂区"
+    }
+  ]
+  },{"cid":"8207","area": "圣方济各堂区","county":[
+    {
+      "countyId" : 820701,
+      "countyText" : "圣方济各堂区"
+    }
+  ]
+  }]}]
+
+
+

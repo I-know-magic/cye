@@ -1,0 +1,126 @@
+.header {
+    border:hidden;
+    background-color:#e7e7e7;
+    border-color:#e7e7e7;
+    height:100%;
+    width: 100%;
+    overflow: hidden;
+}
+button{
+    margin: 0px 10px 0px 5px;
+    cursor: pointer;
+    width: 90px;
+    height: 24px;
+    background: #ef4300;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    border: 1px solid #ff730e;
+    -moz-box-shadow:
+    0 15px 30px 0 rgba(255,255,255,.25) inset,
+    0 2px 7px 0 rgba(0,0,0,.2);
+    -webkit-box-shadow:
+    0 15px 30px 0 rgba(255,255,255,.25) inset,
+    0 2px 7px 0 rgba(0,0,0,.2);
+    box-shadow:
+    0 15px 30px 0 rgba(255,255,255,.25) inset,
+    0 2px 7px 0 rgba(0,0,0,.2);
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0,0,0,.1);
+    -o-transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -ms-transition: all .2s;
+}
+#menuDiv{
+    width: 100%;
+    height: 5%;
+    background: #47a3da;
+}
+#mainDiv{
+    width: 100%;
+    height: 95%;
+}
+a{
+    text-decoration:none;
+    color:#333;
+}
+a:hover{
+    color:#f33;
+}
+a.gr{
+    color:#227CE8;
+}
+a.xg{
+    color:#f30;
+}
+a.zx{
+    color:#690;
+}
+a.yd{
+    color:#f00;
+}
+a.more-rss{
+    color:#f60;
+}
+a img{
+    border:none;
+}
+a.rssfeed{
+    display:block;
+    height:60px;
+    width:160px;
+    cursor:pointer;
+}
+.wrapper{
+    position:relative;
+    width:100%;
+    margin:0 auto;
+    height:100%;
+
+}
+.wrapper small{
+    position:absolute;
+    bottom:0;left:10px;
+    border-top:1px dotted #b3b3b3;
+    display:block;width:700px;
+    line-height:30px;
+    text-align:right;
+}
+ul li{
+    list-style:none;
+}
+.dropdown{
+    position:relative;
+    width:100px;
+    float: left;
+    margin-top:2.5%;
+}
+.dropdown ul{
+    position:absolute;
+    display:none;
+    text-align:left;
+    background:#fff;
+    border:1px solid #ddd;
+    width:160px;
+    padding:15px 15px  20px;
+    margin-left:-50px;
+}
+.dropdown ul li{
+    padding:5px 0;
+    border-bottom:1px dotted #ddd;
+}
+.list{
+    margin:5px auto;
+
+}
+iframe{
+    width: 99.8%;
+    height:99%;
+    border: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}

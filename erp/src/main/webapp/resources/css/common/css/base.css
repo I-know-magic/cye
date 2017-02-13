@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+/*清除重置浏览器默认样式*/
+body{margin:0;padding:0;border:0;font-size:14px;font-family:"微软雅黑";color:#adb3b3;}
+/*body{margin:0;padding:0;border:0;font-size:14px;font-family:"微软雅黑";color:#adb3b3;background:#28292b;}*/
+span,h1,h2,h3,h4,h5,h6,p,a,em,img,dl,dt,dd,ol,ul,li,form,label,table,tbody,tfoot,thead,tr,th,td,img,button,input{margin:0;padding:0;border:0;list-style:none;}
+address,caption,cite,code,dfn,em,i,strong,th,var,optgroup{font-style:normal;font-weight:normal;}
+table{border-collapse:collapse;border-spacing:0;}
+textarea{resize:none;overflow:auto;}
+a:link,a:visited{color:#2caf61;text-decoration:none;}
+input, img,select{vertical-align:middle;}
+th,td{display:table-cell;font-style:normal;font-weight:400;text-align:center;vertical-align:middle;font-size:15px;}
+img,i{border:0 none;height:auto;vertical-align:middle;}
+/*公共样式*/ 
+.fl{float:left;}
+.fr{float:right;}
+.tl{text-align:left;}
+.tr{text-align:right;}
+.tc{text-align:center;}
+.tl{text-align:left;}
+.tr{text-align:right;}
+.ovf{overflow:hidden;}
+.rel{position:relative;}
+.abs{position:absolute;}
+.icon{background:url(../img/icon.png) no-repeat;}
+.clearfix:after{clear:both;content:" ";display:block;height:0;visibility:hidden;}
+.clearfix{display:block;}
+/*头部样式开始*/
+.head-wrap{height:60px;font-size:18px;background:#222224;}
+.head-wrap span{display:inline-block;height:30px;width:30px;background-size:270px auto;}
+.head-wrap span.head-menu{background-position:4px 4px;left:10px;top:15px;}
+.head-wrap span.head-day{background-position:4px -27px;right:10px;top:15px;}
+.head-wrap h2{font-weight:normal;text-align:center;font-size:18px;}
+.head-wrap p{padding-top:6px;line-height:20px;}
+.head-wrap .head-time{font-size:14px;}
+/*头部样式结束*/
+/*账户信息开始*/
+.menu{width:50%;background:#222224;position:fixed;left:0;top:60px;font-size:16px;z-index:9999;bottom: 0px;overflow-y:auto;}
+.menu li{height:60px;line-height:60px;border-bottom:1px dashed #28292b;padding-left:60px;color:#585a5e;cursor: pointer}
+.menu i{display:inline-block;width:30px;height:30px;left:20px;top:14px;background-size:300px auto;}
+.menu li i.menu-zhsb{background-position:-234px 4px;}
+.menu li i.menu-yyrb{background-position:-231px -36px;}
+.menu li i.menu-skhz{background-position:-231px -78px;}
+.menu li i.menu-xsqs{background-position:-234px -195px;}
+.menu li i.menu-lbph{background-position:-233px 5px;}
+.menu li i.menu-dpph{background-position:-233px -156px;}
+.menu li i.menu-sdhz{background-position:-231px -234px;}
+.menu li i.menu-zhxx{background-position:-229px -274px;}
+.menu li.current{background:#28292b;color:#2caf61;}
+.menu li.current i.menu-zhsb{background-position:-270px 4px;}
+.menu li.current i.menu-yyrb{background-position:-270px -36px;}
+.menu li.current i.menu-skhz{background-position:-270px -75px;}
+.menu li.current i.menu-xsqs{background-position:-270px -195px;}
+.menu li.current i.menu-lbph{background-position:-270px 5px;}
+.menu li.current i.menu-dpph{background-position:-270px -156px;}
+.menu li.current i.menu-sdhz{background-position:-270px -235px;}
+.menu li.current i.menu-zhxx{background-position:-270px -274px;}
+.menu li i.menu-ydxsqs{background-position:-99px 4px;}
+.menu li i.menu-bmxsqs{background-position:-99px -33px;}
+.menu li i.menu-dpxsqs{background-position:-99px -76px;}
+.menu li i.menu-spxxcx{background-position:-96px -117px;}
+.menu li i.menu-aqsy{background-position:-100px -159px;}
+.menu li.current  i.menu-ydxsqs{background-position:-138px 4px;}
+.menu li.current  i.menu-bmxsqs{background-position:-138px -35px;}
+.menu li.current  i.menu-dpxsqs{background-position:-139px -76px;}
+.menu li.current  i.menu-spxxcx{background-position:-140px -116px;}
+.menu li.current  i.menu-aqsy{background-position:-138px -157px;}
+.menu li.menu-update-time{line-height:30px;padding-left:14px;width:230px;color:#cacaca;}
+.menu li.menu-update-time span{float: left}
+.table-pullbox{border-top:1px solid #2caf61;border-bottom:1px solid #2caf61;}
+table{width:100%;table-layout:fixed;}
+.table-wrap th{background:#2e2f31;height:40px;line-height:40px;color:#767a7a;width: 28%;overflow:hidden;white-space: nowrap;text-overflow:ellipsis;}
+.table-wrap td{text-align:left;padding-left:10px;height:40px;line-height:40px;border-bottom:1px dashed #353639;width: 28%;overflow:hidden;white-space: nowrap;text-overflow:ellipsis;}
+span.release-bound{color:#8d9292;padding-left:18px;text-decoration: underline;cursor: pointer;}
+.table-wrap .table-c td{text-align:center;}
+.table-wrap td.table-pull{padding:0;}
+.table-pullbox .arrow{background-position:-1px -125px;display:inline-block;height:6px;left:49%;top:-1px;width:20px;}
+.table-pullbox th{background:#2d2e30;}
+.table-pullbox .pulltil-child th{background:#2b2c2e;}
+.table-wrap td em{display:inline-block;width:5px;height:5px;background:#2caf61;border-radius:50%;overflow:hidden;}
+.table-wrap td em.em-none{background:#767a7a;}
+/*账户信息结束*/
+/*授权开始*/
+.set-wrap{padding:10px;}
+.emp-txt{border-bottom:1px solid #353639;height: 88px;}
+.emp-txt p{height:44px;font-size:16px;line-height:44px;}
+.emp-txt span{padding:0 6px;color:#2caf61;}
+.emp-check p{height:44px;line-height:44px;font-size:15px;}
+.emp-check span{display:inline-block;height:12px;width:12px;border:1px solid #5d5d64;border-radius:50%;}
+.emp-check span em{display:inline-block;height:8px;width:8px;background:#5d5d64;border-radius:50%;top:1px;left:2px;}
+.emp-check .emp-check-current span em{background:#2caf61;}
+.emp-check .emp-check-current span{border-color:#2caf61;}
+.emp-check input{height:30px;width:120px;background:none;border:1px solid #5d5d64;border-radius:4px;padding:0 8px;line-height: 30px;}
+.emp-btn button{width:100%;margin-top:10px;height:40px;border:1px solid #2caf61;background:#2caf61;color:#fff;border-radius:4px;font-size:15px;}
+.emp-btn button.emp-btn-no{background:none;color:#2caf61;}
+a.release-bound{font-size:12px;}
+/*授权结束*/
+/*单品排行开始*/
+.money-all{font-size:18px;color:#fff;}
+.money-percent span{font-size:12px;color:#2caf61;padding:0 6px;}
+.money-percent{font-size:10px;padding:10px;}
+.money-percent .money-all span{font-size:22px;}
+/*单品排行结束*/

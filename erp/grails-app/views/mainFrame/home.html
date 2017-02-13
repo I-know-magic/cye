@@ -1,0 +1,793 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="app_version" content="_GSP_VERSION">
+    <title>首页</title>
+    <link rel="stylesheet" href="../resources/css/mainFrame/base.css" type="text/css">
+    <link rel="stylesheet" href="../resources/css/good/list.css" type="text/css">
+    <link rel="stylesheet" href="../resources/frames/datePicker/jquery-ui-timepicker.css" type="text/css">
+    <script type="text/javascript" src="../resources/js/common/jquery/jquery.1.11.3.min.js"></script>
+    <script type="text/javascript" src="../resources/js/common/jquery.validate.js"></script>
+    <script type="text/javascript" src="../resources/js/common/jquery.json.js"></script>
+    <script type="text/javascript" src="../resources/js/common/jquery.cookie.js"></script>
+    <script type="text/javascript" src="../resources/js/common/dialog/smartDialog.js?version=1.0.1"></script>
+    <script type="text/javascript" src="../resources/js/common/form/smartForm.js?version=1.0.1"></script>
+    <script type="text/javascript" src="../resources/js/common/tree/smartTree.js?version=1.0.1"></script>
+    <script type="text/javascript" src="../resources/js/common/datagrid/dataTable.js?version=1.0.1"></script>
+    <script type="text/javascript" src="../resources/js/common/jquery.form.js"></script>
+    <script type="text/javascript" src="../resources/js/common/ajaxfileupload.js"></script>
+    <script type="text/javascript" src="../resources/js/common/jquery.common.js"></script>
+    <script type="text/javascript" src="../resources/js/common/datagrid/datagrid-ext.js"></script>
+    <script type="text/javascript" src="../resources/js/public/public.js"></script>
+    <script type="text/javascript" src="../resources/frames/datePicker/jquery-ui.js?version=2.0.2"></script>
+    <script type="text/javascript" src="../resources/frames/datePicker/jquery-ui-timepicker-addon.js?version=2.0.2"></script>
+
+
+    <meta name="layout" content="main">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <script type="text/javascript" src="../resources/js/mainFrame/mainFrame.js"></script>
+    <style type="text/css">
+        #person input:disabled{
+            background-color: white!important;
+            border:0px solid white!important;
+            text-overflow: ellipsis
+        }
+        #tenantDialog input:disabled{
+            background-color: white!important;
+            border:0px solid white!important;
+            text-overflow: ellipsis
+        }
+    </style>
+    <script type="text/javascript">
+        var getEmployeeMessage_url="../home/getEmployeeMessage";
+        var editEmployeeMessage_url="../home/updateUserInfo";
+        var sentMsg_url="../home/smsSendAuthCode";
+        var bindMobile_url="../home/bindMobile";
+        var getTenantMessage_url="../home/getTenantMessage";
+        var uploadImage_url="../home/uploadLogo";
+        var unBindPhone_url="../home/removeMobileBind";
+        var pwd_url="../home/updateUserPw";
+        var visitDomain="/erp";
+        var _op_json ='{&quot;root&quot;:[{&quot;controllerName&quot;:&quot;goods&quot;,&quot;actionName&quot;:&quot;index&quot;},{&quot;controllerName&quot;:&quot;saleReport&quot;,&quot;actionName&quot;:&quot;sale&quot;},{&quot;controllerName&quot;:&quot;storeOrder&quot;,&quot;actionName&quot;:&quot;index&quot;},{&quot;controllerName&quot;:&quot;store&quot;,&quot;actionName&quot;:&quot;storeIndex&quot;},{&quot;controllerName&quot;:&quot;saleCarryover&quot;,&quot;actionName&quot;:&quot;index&quot;},{&quot;controllerName&quot;:&quot;pos&quot;,&quot;actionName&quot;:&quot;viewSetting&quot;}],&quot;child&quot;:[{&quot;controllerName&quot;:&quot;goods&quot;,&quot;actionName&quot;:&quot;addInit&quot;,&quot;opId&quot;:&quot;2&quot;},{&quot;controllerName&quot;:&quot;goods&quot;,&quot;actionName&quot;:&quot;updateGoods&quot;,&quot;opId&quot;:&quot;3&quot;},{&quot;controllerName&quot;:&quot;goods&quot;,&quot;actionName&quot;:&quot;delGoods&quot;,&quot;opId&quot;:&quot;4&quot;},{&quot;controllerName&quot;:&quot;goods&quot;,&quot;actionName&quot;:&quot;exportExcel&quot;,&quot;opId&quot;:&quot;5&quot;},{&quot;controllerName&quot;:&quot;goods&quot;,&quot;actionName&quot;:&quot;importGoods&quot;,&quot;opId&quot;:&quot;6&quot;},{&quot;controllerName&quot;:&quot;goods&quot;,&quot;actionName&quot;:&quot;categoryTree&quot;,&quot;opId&quot;:&quot;7&quot;},{&quot;controllerName&quot;:&quot;saleReport&quot;,&quot;actionName&quot;:&quot;saleJournal&quot;,&quot;opId&quot;:&quot;9&quot;},{&quot;controllerName&quot;:&quot;saleReport&quot;,&quot;actionName&quot;:&quot;saleCheckingIndex&quot;,&quot;opId&quot;:&quot;10&quot;},{&quot;controllerName&quot;:&quot;checkOrder&quot;,&quot;actionName&quot;:&quot;viewCheckGood&quot;,&quot;opId&quot;:&quot;12&quot;},{&quot;controllerName&quot;:&quot;checkOrder&quot;,&quot;actionName&quot;:&quot;checkOrderList&quot;,&quot;opId&quot;:&quot;13&quot;},{&quot;controllerName&quot;:&quot;store&quot;,&quot;actionName&quot;:&quot;storeQuery&quot;,&quot;opId&quot;:&quot;14&quot;},{&quot;controllerName&quot;:&quot;store&quot;,&quot;actionName&quot;:&quot;storeJournal&quot;,&quot;opId&quot;:&quot;15&quot;},{&quot;controllerName&quot;:&quot;saleCarryover&quot;,&quot;actionName&quot;:&quot;saleDay&quot;,&quot;opId&quot;:&quot;17&quot;},{&quot;controllerName&quot;:&quot;saleCarryover&quot;,&quot;actionName&quot;:&quot;saleMonth&quot;,&quot;opId&quot;:&quot;18&quot;},{&quot;controllerName&quot;:&quot;saleCarryover&quot;,&quot;actionName&quot;:&quot;saleOne&quot;,&quot;opId&quot;:&quot;19&quot;},{&quot;controllerName&quot;:&quot;saleCarryover&quot;,&quot;actionName&quot;:&quot;saleCategory&quot;,&quot;opId&quot;:&quot;20&quot;},{&quot;controllerName&quot;:&quot;saleCarryover&quot;,&quot;actionName&quot;:&quot;saleBrand&quot;,&quot;opId&quot;:&quot;21&quot;},{&quot;controllerName&quot;:&quot;pos&quot;,&quot;actionName&quot;:&quot;index&quot;,&quot;opId&quot;:&quot;23&quot;},{&quot;controllerName&quot;:&quot;pos&quot;,&quot;actionName&quot;:&quot;addOrModifyPos&quot;,&quot;opId&quot;:&quot;27&quot;},{&quot;controllerName&quot;:&quot;pos&quot;,&quot;actionName&quot;:&quot;addOrModifyPos&quot;,&quot;opId&quot;:&quot;28&quot;},{&quot;controllerName&quot;:&quot;pos&quot;,&quot;actionName&quot;:&quot;resetPos&quot;,&quot;opId&quot;:&quot;29&quot;},{&quot;controllerName&quot;:&quot;employee&quot;,&quot;actionName&quot;:&quot;index&quot;,&quot;opId&quot;:&quot;24&quot;},{&quot;controllerName&quot;:&quot;employee&quot;,&quot;actionName&quot;:&quot;saveEmp&quot;,&quot;opId&quot;:&quot;30&quot;},{&quot;controllerName&quot;:&quot;employee&quot;,&quot;actionName&quot;:&quot;updateEmp&quot;,&quot;opId&quot;:&quot;31&quot;},{&quot;controllerName&quot;:&quot;employee&quot;,&quot;actionName&quot;:&quot;roleIndex&quot;,&quot;opId&quot;:&quot;25&quot;},{&quot;controllerName&quot;:&quot;payment&quot;,&quot;actionName&quot;:&quot;index&quot;,&quot;opId&quot;:&quot;26&quot;},{&quot;controllerName&quot;:&quot;storeOrder&quot;,&quot;actionName&quot;:&quot;viewStock&quot;,&quot;opId&quot;:&quot;33&quot;},{&quot;controllerName&quot;:&quot;storeOrder&quot;,&quot;actionName&quot;:&quot;viewCancelStock&quot;,&quot;opId&quot;:&quot;34&quot;},{&quot;controllerName&quot;:&quot;storeOrder&quot;,&quot;actionName&quot;:&quot;list&quot;,&quot;opId&quot;:&quot;35&quot;},{&quot;controllerName&quot;:&quot;storeOrder&quot;,&quot;actionName&quot;:&quot;reGoods&quot;,&quot;opId&quot;:&quot;36&quot;}]}';
+        $(function () {
+            $.loadRoot(_op_json);
+            var height = $(window).height();
+            $(".nav").css({"height":(height-0)+"px"});
+            $(window).resize(function(){
+                var height = $(window).height();
+                $(".nav").css({"height":(height-0)+"px"});
+            });
+            initMaFrame();
+            getEmployeeMsg();
+            //如果是在新窗口中打开分类页面
+            if(window.location.href.indexOf('isOpenCat')!=-1){
+                $.post("../goods/categoryTree",function(data){
+                    $('#content').html(data);
+                    $(".nav-box .current").removeClass("current");
+                    $(".sp").parent().addClass("current");
+                });
+            }else{
+                //初始化显示首页内容
+                changeContent('../home/index');
+            }
+
+            //商户信息点击确认按钮
+            $(".tenant_ok").click(function(){
+                var _this=this;
+                editTenant(_this);
+            });
+        });
+        /**
+         * 购买软件
+         */
+        function ordernew() {
+            var url = "../home/ordernew";
+            window.open(url);
+        }
+        /**
+         * 注销登录
+         */
+        function logout() {
+            $.message.confirm("您确定要注销吗？","注销",function(t){
+                if(t){
+                    location.href = "../home/logout";
+
+                }
+            });
+        }
+        /**
+         * 消息提示
+         */
+        function newsTips(){
+            var url = "../home/newsTips";
+            window.open(url);
+        }
+
+        /**
+         * 修改商户信息
+         */
+        function editTenant(_this){
+            var $input = $(_this).parent(".person_con").prevAll(".input_span").find("input");
+            var _val = $input.val();
+            var _filed =  parseInt($input.attr("filed-role"));
+            switch (_filed){
+                case 1:if(_val){
+                    if(_val.length>25){
+                        $("#tenantForm").validateAlert("商户名称不能大于25个字符！");
+                        return false;
+                    }
+                }else{
+                    $("#tenantForm").validateAlert("商户名称不能为空!");
+                    return false;
+                };
+                    break;
+                case 2:if(_val){
+                    if(_val.length>5){
+                        $("#tenantForm").validateAlert("联系人不能大于5个字符!");
+                        return;
+                    }
+                }else{
+                    $("#tenantForm").validateAlert("联系人不能为空!");
+                    return;
+                };
+                    break;
+                case 3:  if(_val){
+                    if(_val &&  !(/^1[0-9]{10}$/.test(_val))){
+                        $("#tenantForm").validateAlert("手机号格式不正确!");
+
+                        return;
+                    }
+                }else{
+                    $("#tenantForm").validateAlert("手机号不能为空!");
+                    return;
+                };
+                    break;
+                case 4:  if(_val){
+                    if(_val.length>50){
+                        $("#tenantForm").validateAlert("详细地址不能大于25个字符!");
+                        return;
+                    }
+                }else{
+                    $("#tenantForm").validateAlert("详细地址不能为空!");
+                    return;
+                };
+                    break;
+            }
+            var tenantName=$("#tenantName").val();
+            var linkman=$("#linkman").val();
+            var phoneNumber=$("#phoneNumber").val();
+            var address=$("#address").val();
+            var imgUrl=$("#imgUrl").val();
+            var tenantCode =$("#tenantCode").val();
+            var params;//更新商户信息传递给后台的参数
+            if(imgUrl == ""){
+                params = {code:tenantCode,name:tenantName,linkman:linkman,phoneNumber:phoneNumber,address:address};
+            }else{
+                params = {code:tenantCode,name:tenantName,linkman:linkman,phoneNumber:phoneNumber,address:address,imgUrl:imgUrl};
+            }
+            $.post('../home/updateTenant',params,function(data){
+                if(data.success=="true"){
+                    $(_this).parent(".person_con").prevAll(".input_span").find("input").attr("disabled",true);
+                    $(_this).parent(".person_con").hide();
+                    $(_this).parent(".person_con").prev("span").css({"display":"inline-block"}) ;
+                    $.message.alert("修改商户信息成功！");
+                }else{
+                    $.message.alert("修改商户信息失败！");
+                }
+            },"json");
+        }
+
+        /**
+         * 图片上传
+         * ajaxFileUpLoad
+         */
+        function upLoadImageByAjax(){
+            $.ajaxFileUpload({
+                url:uploadImage_url,
+                async:true,
+                secureuri:false,
+                fileElementId:"logoImg",
+                dataType:"JSON",
+                success:function(data){
+                    if(data.success=="false"){
+                        $.message.alert(data.msg);
+                        return;
+                    }
+                    $("#upload_logo").hide();
+                    $("#logo_img").show();
+                    $("#logo_img").attr("src",data.visitDomain+data.dbPath);
+                    $("#upload_logo").hide();
+                    $("input[name='imgUrl']").val(""+data.dbPath+"");
+                    var tenantName=$("#tenantName").val();
+                    var linkman=$("#linkman").val();
+                    var phoneNumber=$("#phoneNumber").val();
+                    var address=$("#address").val();
+                    var imgUrl=$("#imgUrl").val();
+                    $.post('../home/updateTenant',{name:tenantName,linkman:linkman,phoneNumber:phoneNumber,address:address,imgUrl:imgUrl},function(data){
+                        if(data.success=="true"){
+                            $.message.alert("商户logo保存成功！");
+                        }
+                    },"json");
+                }
+            })
+        }
+    </script>
+    <script type="text/javascript" src="../resources/js/common/jquery.page.int.js"></script>
+
+</head>
+<body style="width: 100%;height: 100%;">
+
+<section id="s1">
+    <!--左侧菜单展开的样式-->
+    <p style="display:block;z-index:0;position:absolute;top:0;left:0;width:100px;height:48px;background:#111921;">
+    </p>
+    <div class="nav  rel" id="showMenu" style="z-index: 996; display: block; height: 746px;">
+        <p class="head-logo rel" style="display:block;">
+            <span class="logo-menu icon abs" id="phead1"></span>
+                <span class="logo-img abs" style="cursor: pointer;" onclick="newsTips()">
+                    <img src="../resources/css/mainFrame/img/logo.png" alt="" class="abs">
+                    <i class="abs"></i>
+                </span>
+        </p>
+        <!-- 收缩之后的样式 -->
+        <p class="head-logo head-logo-s rel" style="display:none;" id="phead2">
+            <span class="logo-menu logo-menu-s icon abs"></span>
+        </p>
+        <ul class="nav-box " id="sys_menu">
+            <li class="rel current" menuid="0" menu_url="../home/index">
+                <span class="icon abs sy"></span>
+                <span class="txt">首 页</span>
+                <em class="abs icon"></em>
+            </li>
+            <li class="rel" menuname="goods_index" menu_url="../goods/index" style="">
+                <span class="icon abs sp"></span>
+                <span class="txt">商 品</span>
+                <em class="abs icon"></em>
+            </li>
+            <li class="rel" menuname="saleReport_sale" menu_url="../saleReport/sale" style="">
+                <span class="icon abs cx"></span>
+                <span class="txt">销 售</span>
+                <em class="abs icon"></em>
+            </li>
+            <li class="rel" style="display: none">
+                <span class="icon abs hy"></span>
+                <span class="txt">会 员</span>
+                <em class="abs icon"></em>
+            </li>
+            <li class="rel" menuname="store_storeIndex" menu_url="../store/storeIndex" style="">
+                <span class="icon abs kc"></span>
+                <span class="txt">库 存</span>
+                <em class="abs icon"></em>
+            </li>
+            <li class="rel" menuname="storeOrder_index" menu_url="../storeOrder/index" style="">
+                <span class="icon abs cg"></span>
+                <span class="txt">采 购</span>
+                <em class="abs icon"></em>
+            </li>
+            <li class="rel" menuname="saleCarryover_index" menu_url="../saleCarryover/index" style="">
+                <span class="icon abs bb"></span>
+                <span class="txt">报 表</span>
+                <em class="abs icon"></em>
+            </li>
+            <li class="rel" menuname="pos_viewSetting" menu_url="../pos/viewSetting" style="">
+                <span class="icon abs sz"></span>
+                <span class="txt">设 置</span>
+                <em class="abs icon"></em>
+            </li>
+        </ul>
+        <div class="user-box abs" id="ubox1">
+            <ul>
+                <li class="rel name-box">
+                    <span class="icon abs name"></span>
+                    <span class="tenant_name" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Sasori_</span>
+                </li>
+                <li class="rel person_msg">
+                    <span class="icon abs grxx"></span>
+                    个人信息
+                </li>
+                <li class="rel tenant_msg">
+                    <span class="icon abs shxx"></span>
+                    商户信息
+                </li>
+                <li class="rel" onclick="ordernew()">
+                    <span class="icon abs gm"></span>
+                    购 买
+                </li>
+                <li class="rel pwd_msg">
+                    <span class="icon abs xgmm"></span>
+                    修改密码
+                </li>
+                <li class="rel" onclick="logout()">
+                    <span class="icon abs zx"></span>
+                    注 销
+                </li>
+            </ul>
+        </div>
+        <div class="user-box user-box-s abs" style="display:none;" id="ubox2">
+            <ul>
+                <li class="rel user-icon-box">
+                    <span class="icon abs yh-icon"></span>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!--右侧body内容-->
+    <div id="content">
+
+
+
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="app_version" content="_GSP_VERSION">
+        <title>首页</title>
+        <link rel="stylesheet" href="../resources/css/common/common.css" type="text/css">
+
+        <meta name="layout" content="base">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <link rel="stylesheet" href="../resources/css/mainFrame/base.css" type="text/css">
+        <style>
+            .op_root {
+                display: none
+            }
+
+            @media screen and (max-device-height: 770px) {
+                .wrap {
+                    max-height: 680px;
+                }
+            }
+
+            @media screen and (max-device-width: 1024px) {
+                .home-list {
+                    min-width: 0px;
+                    width: 42%;
+                }
+            }
+        </style>
+        <script type="text/javascript">
+            $(function () {
+                var height = $(window).height();
+                $(".wrap").css({"height": (height - 0) + "px"});
+                var width = $(window).width();
+                $(".wrap").css({"width": (width - 100 - 40) + "px"});
+                $(".wrap-s").css({"width": (width - 50 - 40) + "px"});
+                $("h2.homePage-title").css({"width": (width - 100) + "px"});
+                $(window).resize(function () {
+                    var height = $(window).height();
+                    $(".wrap").css({"height": (height - 0) + "px"});
+                    var width = $(window).width();
+                    $(".wrap").css({"width": (width - 100 - 40) + "px"});
+                    $(".wrap-s").css({"width": (width - 50 - 40) + "px"});
+                    $("h2.homePage-title").css({"width": (width - 100) + "px"});
+                });
+                $.get("../home/getTenantMessage", null, function (data) {
+                    if (data) {
+                        var tenantVo = data;
+                        $(".tenant_Code").text(tenantVo["code"]);
+                    }
+                }, "json");
+                $.post("../home/countSale", null, function (data) {
+                    if (data) {
+                        $("#todaySale").html(data["todaySale"]);
+                        $("#yesSale").html(data["yesSale"]);
+                        $("#overSevenSale").html(data["overSevenSale"]);
+                        $("#overTgSale").html(data["overTgSale"]);
+                    }
+                }, "json")
+                $.post("../home/overSevTop3", null, function (data) {
+                    if (data.overSevTop3.length > 0) {
+                        for (i = 0; i < data.overSevTop3.length; i++) {
+                            var goodsName = "#goodsName" + i;
+                            var sale = "#sale" + i;
+                            $(goodsName).html(data.overSevTop3[i]["goodsName"]);
+                            $(sale).html(data.overSevTop3[i]["sale"]);
+                        }
+                    } else {
+                        $("#goodsName1").html("");
+                        $("#sale0").html("0.00");
+                        $("#sale1").html("0.00");
+                        $("#goodsName2").html("");
+                        $("#sale2").html("0.00");
+                        $("#goodsName3").html("");
+                        $("#sale3").html("0.00");
+                    }
+                }, "json");
+                $.post("../home/goodsInfo", null, function (data) {
+                    if (data) {
+                        $("#newGoods").html(data["newGoods"]);
+                        $("#goodsCount").html(data["goodsCount"]);
+                    }
+                }, "json");
+                //库存
+                $.post("../store/storeInfo", null, function (data) {
+                    data = data.data;
+                    if (data) {
+                        $("#storeSum").html(data["storeAm"]);
+                    }
+                }, "json");
+
+                $.post("../home/vipInfo", null, function (data) {
+                    if (data) {
+                        $("#newVip").html(data["newVip"]);
+                        $("#vipCount").html(data["vipCount"]);
+                        $("#todayTrade").html(data["todayTrade"]);
+                        $("#todayStore").html(data["todayStore"]);
+                    } else {
+                        $("#newVip").html("0.00");
+                        $("#vipCount").html("0.00");
+                        $("#todayTrade").html("0.00");
+                        $("#todayStore").html("0.00");
+                    }
+                }, "json");
+                $.post("../home/promotionInfo", null, function (data) {
+                    if (data) {
+                        if (!data.noData) {
+                            $("#promotionType").html(data["promotionType"]);
+                            $("#times").html(data["startDate"] + "—" + data["endDate"]);
+                            $("#memo").html(data["memo"]);
+                        } else {
+                            $("#promotionType").html("敬请期待");
+                        }
+                    }
+                }, "json");
+                //采购
+                $.post("../storeOrder/orderInfo?type=1", null, function (data) {
+                    data = data.data;
+                    if (data) {
+                        $("#todayAm").html(data["todayAm"]);
+                        $("#overSevenAm").html(data["overSevenAm"]);
+                        $("#yesterdayAm").html(data["yesterdayAm"]);
+                        $("#overTgAm").html(data["overTgAm"]);
+                    } else {
+                        $("#todayAm").html("0.00");
+                        $("#overSevenAm").html("0.00");
+                        $("#yesterdayAm").html("0.00");
+                        $("#overTgAm").html("0.00");
+                    }
+                }, "json");
+                //跳转盘点
+                $("#set-box-sppd").click(function () {
+                    changeContent("../checkOrder/viewCheckGood");
+                });
+                //跳转采购进货
+                $("#set-box-cgjh").click(function () {
+                    changeContent("../storeOrder/viewStock")
+                });
+
+            });
+            /**
+             * 跳转到商品添加页面
+             */
+            function addGoods() {
+                var url = "../goods/addInit";
+                changeContent(url, function () {
+                    $("#s1 .nav-box .current").removeClass("current");
+                    $("#s1 .nav-box li .sp").parent().addClass("current");
+                }, true);
+            }
+            /**
+             * 用户帮助文档
+             */
+            function userDoc() {
+                var url = "../home/userDoc";
+                window.open(url);
+            }
+        </script>
+
+
+
+
+
+        <div class="wrap abs" style="height: 746px; width: 1262px;">
+            <header class="head abs wrap-header">
+                <h2 class="homePage-title" style="width: 1302px;">
+                    <!-- 收缩之后的样式 -->
+
+                    <p class="fl head-logo head-logo-s rel" style="display:none;">
+                        <span class="logo-menu logo-menu-s icon abs"></span>
+                    </p>
+                    <span>官方推广旗舰店<em class="shh-nmb">商户号：<span class="tenant_Code">21010004</span></em></span>
+
+                    <p class="fr head-txt rel">
+                        <span class="help icon abs" onclick="userDoc()"></span>
+                    </p>
+                </h2>
+            </header>
+
+            <div class="fl home-list">
+                <h2 class="home-title rel">
+                    <span class="home-tlt-icon abs"></span>
+                    <i class="abs icon arrows"></i></h2>
+
+                <div class="home-box">
+                    <p class="home-box-con">
+                        <span class="tlt">今日营业额</span>
+                        <span class="nmb"><em id="todaySale">0.00</em>元</span>
+                    </p>
+                    <ul class="home-txt clearfix">
+                        <li>
+                            <span class="tlt">昨日营业额</span>
+                            <span class="nmb"><em id="yesSale">0.00</em>元</span>
+                        </li>
+                        <li>
+                            <span class="tlt">过去7天</span>
+                            <span class="nmb"><em id="overSevenSale">0.00</em>元</span>
+                        </li>
+                        <li class="no-border">
+                            <span class="tlt">过去30天</span>
+                            <span class="nmb"><em id="overTgSale">119.01</em>元</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="fl home-list home-list-sp">
+                <h2 class="home-title rel">
+                    <span class="home-tlt-icon abs"></span>
+                    <i class="abs icon arrows"></i>
+                    商 品
+                </h2>
+
+                <div class="home-box">
+                    <p class="home-box-con">
+                        <span class="tlt">过去七天销售排行</span>
+                    </p>
+                    <ul class="home-txt clearfix home-txt-con">
+                        <li>
+                            <span class="nmb"><em id="sale0">0.00</em>元</span>
+                            <span class="tlt" id="goodsName0">dzx2</span>
+                        </li>
+                        <li>
+                            <span class="nmb"><em id="sale1">0.00</em>元</span>
+                            <span class="tlt" id="goodsName1">OI1L</span>
+                        </li>
+                        <li class="no-border">
+                            <span class="nmb"><em id="sale2">0.00</em>元</span>
+                            <span class="tlt" id="goodsName2">YCHa</span>
+                        </li>
+                    </ul>
+                    <ul class="home-txt clearfix home-txt-bottom">
+                        <li>
+                            <span class="tlt">今日新品</span>
+                            <span class="nmb"><em id="newGoods">0</em>个</span>
+                        </li>
+                        <li class="no-border">
+                            <span class="tlt">商品数量</span>
+                            <span class="nmb"><em id="goodsCount">1026</em>条</span>
+                        </li>
+                    </ul>
+
+
+                </div>
+            </div>
+
+            <div class="fl home-list home-list-cg">
+                <h2 class="home-title rel">
+                    <span class="home-tlt-icon abs"></span>
+                    <i class="abs icon arrows"></i>
+                    采 购
+                </h2>
+
+                <div class="home-box">
+                    <p class="home-box-con">
+                        <span class="tlt">今日进货</span>
+                        <span class="nmb"><em id="todayAm">0.00</em>元</span>
+                    </p>
+                    <ul class="home-txt clearfix">
+                        <li>
+                            <span class="tlt">昨日进货</span>
+                            <span class="nmb"><em id="yesterdayAm">0.00</em>元</span>
+                        </li>
+                        <li>
+                            <span class="tlt">过去7天</span>
+                            <span class="nmb"><em id="overSevenAm">2.00</em>元</span>
+                        </li>
+                        <li class="no-border">
+                            <span class="tlt">过去30天</span>
+                            <span class="nmb"><em id="overTgAm">2,582.00</em>元</span>
+                        </li>
+                    </ul>
+
+
+                </div>
+            </div>
+
+            <div class="fl home-list home-list-kc">
+                <h2 class="home-title rel">
+                    <span class="home-tlt-icon abs"></span>
+                    <i class="abs icon arrows"></i>
+                    库 存
+                </h2>
+
+                <div class="home-box">
+                    <p class="home-box-con">
+                        <span class="tlt">库存金额</span>
+                        <span class="nmb"><em id="storeSum">482.20</em>元</span>
+                    </p>
+
+                    <p class="function-btn">
+                        <a href="javascript:void(0)" class="add icon op_root" id="set-box-sppd" opid="12" style="display: inline;">盘 点</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="fl home-list home-list-hy">
+                <h2 class="home-title rel">
+                    <span class="home-tlt-icon abs"></span>
+                    <i class="abs icon arrows"></i>
+                    会 员
+                </h2>
+
+                <div class="home-box">
+                    <div class="clearfix">
+                        <p class="home-box-con fl">
+                            <span class="tlt">今日会员消费</span>
+                            <span class="nmb"><em id="todayTrade">0.00</em>元</span>
+                        </p>
+
+                        <p class="home-box-con fl">
+                            <span class="tlt">今日会员储值</span>
+                            <span class="nmb"><em id="todayStore">0.00</em>元</span>
+                        </p>
+                    </div>
+                    <ul class="home-txt clearfix home-txt-bottom">
+                        <li>
+                            <span class="tlt">今日新增会员数</span>
+                            <span class="nmb"><em id="newVip">0</em>人</span>
+                        </li>
+                        <li>
+                            <span class="tlt">会员总数</span>
+                            <span class="nmb"><em id="vipCount">0</em>人</span>
+                        </li>
+                    </ul>
+
+
+
+
+                </div>
+            </div>
+
+            <div class="fl home-list home-list-cx">
+                <h2 class="home-title rel">
+                    <span class="home-tlt-icon home-tlt-icon-yygk abs"></span>
+                    <i class="abs icon arrows"></i>
+                    促 销
+                </h2>
+
+                <div class="home-box">
+                    <p class="home-box-con">
+                        <span class="tlt">最新执行促销</span>
+                        <span class="nmb"><em id="promotionType">敬请期待</em></span>
+                    </p>
+
+                    <p class="home-cx-time" id="times"></p>
+
+                    <p class="home-cx-txt" id="memo"></p>
+
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+</section>
+<div id="person_dialog" style="display: none">
+
+    <div class="pop-up-box r_dialog" style="z-index: 10001"><h2 class="rel "><t class="r_title">个人信息</t><span class="abs close icon r_close"></span></h2><div class="pop-up-box-txt r_content dialog_box_body" style="position: relative"><form id="person">
+        <input type="hidden" name="sex" id="user_sex" value="">
+        <input type="hidden" name="birthday" id="user_birthday" value="">
+        <p class="rel">
+            <span class="txt">姓名：<input type="text" id="employeeName" name="name" validate="maxLength[3]" disabled="disabled"></span>
+            <span class="edit icon abs edit_person_name"></span>
+            <span class="con icon abs person_con" style="display: none"><i class="yes icon person_yes"></i><i class="no icon person_no"></i></span>
+        </p>
+        <p class="rel">
+                <span class="txt">角色：<input type="text" id="userType" name="userType" validate="minLength[15]" disabled="disabled">
+                </span>
+        </p>
+        <p class="rel">
+            <span class="txt">工号：<input type="text" id="userCode" name="code" validate="minLength[15]" disabled="disabled"></span>
+        </p>
+        <p class="rel">
+            <span class="txt bind_phone_span">手机号：<input type="text" id="bindMobile" name="bindMobile" validate="minLength[15]" placeholder="暂无绑定手机号"></span>
+            <a href="#" id="unBindPhone" style="display: none;">解除绑定</a>
+                <span id="msg_phone">
+                <a href="#" id="sentMsg">发送短信</a>
+                <a href="#" id="timeOut" style="display: none"><t id="mins"></t>s后重新发送短信</a>
+                    </span>
+        </p>
+        <p class="rel phone_msg" style="display: none;padding-left:57px">
+            <span class="txt"><input type="text" id="phoneMsg" name="phoneMsg" disabled="disabled"></span>
+            <a href="#" style="display: none" id="bindPhone">绑定手机</a>
+        </p>
+    </form></div><div class="pop-up-box-btn r_btn"></div></div></div>
+<div id="tenantDialog" style="display: none">
+
+    <div class="pop-up-box r_dialog" style="z-index: 10001"><h2 class="rel "><t class="r_title">商户信息</t><span class="abs close icon r_close"></span></h2><div class="pop-up-box-txt r_content dialog_box_body" style="position: relative"><form id="tenantForm" style="display: block;width: 600px">
+        <input type="hidden" name="imgUrl" id="imgUrl">
+        <div class="upload-img abs">
+            <img src="" class="upload_logo" id="logo_img" style="width: 142px;height: 62px;display: none">
+            <a href="#" class="upload_logo" id="upload_logo">
+                <i class="icon abs"></i><img id="tenantLogo" style="width: 142px;height: 62px;margin-top: -40px;" src="" alt="">
+                点击上传店铺LOGO
+            </a>
+            <p>图片仅限jpg、png格式，大小1M以内</p>
+            <input type="file" name="imageFile" style="display: none" id="logoImg" onchange="upLoadImageByAjax()">
+        </div>
+        <p class="rel">
+            <span class="txt">商户号：<input type="text" id="tenantCode" name="code" disabled="disabled" style="text-overflow:ellipsis"></span>
+        </p>
+        <p class="rel">
+            <span class="txt">业态：<input type="text" id="tenantBusiness1" name="business1" disabled="disabled"></span>
+        </p>
+        <p class="rel">
+                <span class="txt input_span">
+                    商户名称：<input type="text" id="tenantName" name="name" filed-role="1" disabled="disabled" style="text-overflow:ellipsis">
+                </span>
+            <span class="edit icon abs person_edit"></span>
+                <span class="con icon abs person_con" style="display: none;margin-top: -5px">
+                    <i class="yes icon tenant_ok"></i>
+                    <i class="no icon tenant_cancel"></i>
+                </span>
+        </p>
+        <p class="rel">
+            <span class="txt input_span">联系人：<input type="text" id="linkman" name="linkman" filed-role="2" disabled="disabled"></span>
+            <span class="edit icon abs person_edit"></span>
+                <span class="con icon abs person_con" style="display: none;margin-top: -5px">
+                    <i class="yes icon tenant_ok"></i>
+                    <i class="no icon tenant_cancel"></i>
+                </span>
+        </p>
+        <p class="rel">
+            <span class="txt input_span">电话：<input type="text" id="phoneNumber" name="phoneNumber" filed-role="3" disabled="disabled"></span>
+            <span class="edit icon abs person_edit"></span>
+                <span class="con icon abs person_con" style="display: none;margin-top: -5px">
+                    <i class="yes icon tenant_ok"></i>
+                    <i class="no icon tenant_cancel"></i>
+                </span>
+        </p>
+        <p class="rel">
+            <span class="txt input_span">地址：<input type="text" id="address" name="address" filed-role="4" disabled="disabled" style="text-overflow:ellipsis"></span>
+            <span class="edit icon abs person_edit"></span>
+                <span class="con icon abs person_con" style="display: none;margin-top: -5px">
+                    <i class="yes icon tenant_ok"></i>
+                    <i class="no icon tenant_cancel"></i>
+                </span>
+        </p>
+    </form></div><div class="pop-up-box-btn r_btn"></div></div></div>
+<div class="pwd_dialog" style="display:none;">
+    <div class="pop-up-box">
+        <h2 class="rel">
+            修改密码
+            <span class="abs close icon"></span>
+            <span class="abs save icon"></span>
+        </h2>
+        <div class="pop-up-box-txt dialog_box_body" style="position: relative">
+            <form id="pwdForm">
+                <p class="rel">
+                    <span class="txt">原始密码：<input type="password" id="oldPwd"></span>
+                </p>
+                <p class="rel">
+                    <span class="txt">新改密码：<input type="password" id="newPwd1"></span>
+                </p>
+                <p class="rel">
+                    <span class="txt">密码确认：<input type="password" id="newPwd2"></span>
+                </p>
+            </form>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+</body></html>

@@ -1,0 +1,36 @@
+@media screen and (max-device-height:770px){
+    .wrap{
+        max-height: 580px;overflow-y: auto;
+    }
+}
+@media screen and (min-device-height:900px){
+    .wrap{
+        max-height: 880px;overflow-y: auto;
+    }
+}
+
+@-moz-document  url-prefix() {
+    @media screen and (max-device-height:770px){
+        .wrap{
+            max-height: 540px;overflow-y: auto;
+        }
+    }
+}
+@-moz-document  url-prefix() {
+    @media screen and (min-device-height:900px){
+        .wrap{
+            max-height: 845px;overflow-y: auto;
+        }
+    }
+}
+
+.common_time{
+    padding-left: 25px;
+}
+.common_time_span{
+    padding-left: 4px;
+}
+.dateTimeRangeBox {
+    width: 115px!important;
+    padding:0;
+}

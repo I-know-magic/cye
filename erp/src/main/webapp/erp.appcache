@@ -1,0 +1,12 @@
+CACHE MANIFEST
+#v1.0.0
+#需要缓存的文件
+CACHE:
+http://localhost/erp/js/jquery.1.11.3.min.js
+
+#不需要缓存的文件
+NETWORK:
+*
+#无法访问页面
+FALLBACK:
+error.gsp
